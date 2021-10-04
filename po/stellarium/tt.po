@@ -6,17 +6,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2015-05-10 20:00+0000\n"
-"Last-Translator: Alexander Wolf <Unknown>\n"
-"Language-Team: Tatar <tt@li.org>\n"
+"PO-Revision-Date: 2021-04-06 03:27+0000\n"
+"Last-Translator: Timur Seber <seber.tatsoft@gmail.com>\n"
+"Language-Team: Tatar <https://hosted.weblate.org/projects/stellarium-mobile/"
+"app/tt/>\n"
 "Language: tt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.6-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:40+0000\n"
-"X-Generator: Launchpad (build 18269)\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
 #: src/core/modules/GridLinesMgr.cpp:674 src/core/modules/LandscapeMgr.cpp:313
@@ -44,7 +46,7 @@ msgstr ""
 
 #: src/core/modules/StarMgr.cpp:329
 msgid "Stars"
-msgstr ""
+msgstr "Йолдызлар"
 
 #: src/core/modules/StarMgr.cpp:330
 msgid "Stars labels"
@@ -60,7 +62,7 @@ msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:533
 msgid "Equator"
-msgstr "Ekvator"
+msgstr "Экватор"
 
 #: src/core/modules/GridLinesMgr.cpp:537
 msgid "Horizon"
@@ -311,7 +313,7 @@ msgstr ""
 #: src/core/modules/StarWrapper.cpp:50 src/core/modules/StarWrapper.cpp:162
 #: src/translations.h:156
 msgid "star"
-msgstr ""
+msgstr "йолдыз"
 
 #: src/core/modules/StarWrapper.cpp:64 src/core/modules/StarWrapper.cpp:190
 #, qt-format
@@ -422,7 +424,7 @@ msgstr ""
 
 #: src/core/StelCore.cpp:161 qml/SettingsPanel.qml:43 qml/TimeDialog.qml:23
 msgid "Date and Time"
-msgstr ""
+msgstr "Дата һәм вакыт"
 
 #: src/core/StelCore.cpp:162 src/core/StelMovementMgr.cpp:105
 msgid "Movement and Selection"
@@ -755,11 +757,11 @@ msgstr "Хата"
 
 #: src/core/SimbadSearcher.cpp:135
 msgid "Not found"
-msgstr ""
+msgstr "Табылмады"
 
 #: src/core/SimbadSearcher.cpp:135
 msgid "Found"
-msgstr ""
+msgstr "Табылды"
 
 #: src/main.cpp:320
 msgid "This system does not support OpenGL."
@@ -1215,15 +1217,15 @@ msgstr ""
 
 #: src/translations.h:177
 msgid "Lakota"
-msgstr ""
+msgstr "Лакота"
 
 #: src/translations.h:178
 msgid "Maori"
-msgstr ""
+msgstr "Маори"
 
 #: src/translations.h:179
 msgid "Navajo"
-msgstr ""
+msgstr "Навахо"
 
 #: src/translations.h:180
 msgid "Norse"
@@ -1239,7 +1241,7 @@ msgstr ""
 
 #: src/translations.h:183
 msgid "Tupi-Guarani"
-msgstr ""
+msgstr "Тупи-Гуарани"
 
 #: src/translations.h:184
 msgid "Tongan"
@@ -1267,7 +1269,7 @@ msgstr ""
 #. TRANSLATORS: Name of landscape
 #: src/translations.h:199
 msgid "Ocean"
-msgstr ""
+msgstr "Океан"
 
 #. TRANSLATORS: Landscape name: Garching bei Munchen
 #: src/translations.h:201
@@ -1520,7 +1522,7 @@ msgstr ""
 
 #: src/translations.h:292
 msgid "Andorra"
-msgstr ""
+msgstr "Андорра"
 
 #: src/translations.h:293
 msgid "United Arab Emirates"
@@ -1528,7 +1530,7 @@ msgstr ""
 
 #: src/translations.h:294
 msgid "Afghanistan"
-msgstr ""
+msgstr "Әфганстан"
 
 #: src/translations.h:295
 msgid "Antigua and Barbuda"
@@ -2484,11 +2486,11 @@ msgstr ""
 
 #: qml/AboutDialog.qml:24 qml/SettingsPanel.qml:63
 msgid "About"
-msgstr ""
+msgstr "Турында"
 
 #: qml/InfoPanel.qml:125
 msgid "Unnamed"
-msgstr ""
+msgstr "Исемсез"
 
 #: qml/LandscapesDialog.qml:5 qml/SettingsPanel.qml:47
 msgid "Landscape"
@@ -2524,7 +2526,7 @@ msgstr ""
 
 #: qml/main.qml:214 qml/SettingsPanel.qml:24
 msgid "Settings"
-msgstr ""
+msgstr "Көйләүләр"
 
 #: qml/main.qml:226
 msgid "Open Quick Bar"
@@ -2532,11 +2534,11 @@ msgstr ""
 
 #: qml/main.qml:261
 msgid "GPS…"
-msgstr ""
+msgstr "GPS…"
 
 #: qml/main.qml:263
 msgid "GPS"
-msgstr ""
+msgstr "GPS"
 
 #: qml/main.qml:334
 msgid "Drag sky to move in time"
@@ -2557,7 +2559,7 @@ msgstr ""
 
 #: qml/StelDialog.qml:24
 msgid "Stellarium"
-msgstr ""
+msgstr "Stellarium"
 
 #: qml/TimeBar.qml:34
 msgid "Real time"

@@ -8,10 +8,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: de\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2020-08-06 12:27+0000\n"
-"Last-Translator: Lionel Duboeuf <lduboeuf@ouvaton.org>\n"
+"PO-Revision-Date: 2020-09-23 21:41+0000\n"
+"Last-Translator: Gehtdichnichtsan <marsu1@gmx.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/stellarium-mobile/"
 "app/de/>\n"
 "Language: de\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:27+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -28,7 +28,7 @@ msgstr ""
 #: src/core/StelApp.cpp:466 src/core/StelCore.cpp:163
 #: src/core/StelSkyLayerMgr.cpp:86 src/StelMainView.cpp:299
 msgid "Display Options"
-msgstr "Anzeigeoptionen"
+msgstr "Anzeigenoptionen"
 
 #: src/core/modules/ConstellationMgr.cpp:111
 msgid "Constellation lines"

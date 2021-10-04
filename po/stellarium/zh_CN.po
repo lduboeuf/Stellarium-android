@@ -6,17 +6,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2015-12-02 13:01+0000\n"
-"Last-Translator: JimmyChi <9307662@qq.com>\n"
-"Language-Team: Chinese (Hong Kong) <zh_HK@li.org>\n"
-"Language: zh_HK\n"
+"PO-Revision-Date: 2020-09-14 05:36+0000\n"
+"Last-Translator: lacy20 <574252356@qq.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"stellarium-mobile/app/zh_Hans/>\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.3-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:44+0000\n"
-"X-Generator: Launchpad (build 18269)\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
 #: src/core/modules/GridLinesMgr.cpp:674 src/core/modules/LandscapeMgr.cpp:313
@@ -305,7 +307,7 @@ msgstr "行星轨迹"
 
 #: src/core/modules/SolarSystem.cpp:154
 msgid "Planet markers"
-msgstr ""
+msgstr "行星标记"
 
 #. TRANSLATORS: Type of object
 #: src/core/modules/StarWrapper.cpp:50 src/core/modules/StarWrapper.cpp:162
@@ -314,9 +316,9 @@ msgid "star"
 msgstr "恒星"
 
 #: src/core/modules/StarWrapper.cpp:64 src/core/modules/StarWrapper.cpp:190
-#, fuzzy, qt-format
+#, qt-format
 msgid "Color Index (B-V): <b>%2</b>"
-msgstr "色指数（B-V）：<b>%1</b>"
+msgstr "颜色指数 （B-V）： <b>%2</b>"
 
 #: src/core/modules/StarWrapper.cpp:143
 msgid "eruptive variable star"
@@ -1497,6 +1499,8 @@ msgid ""
 "emerges from Mars it is still eclipsed and dimmed in Mars' shadow, only to "
 "light up later."
 msgstr ""
+"火卫一在火星前奔跑，越过太阳，经过太阳，然后向后逆行回到太阳，然后又再次部分越过太阳（仅在狄莫斯的南半球可见），然后火星完全使太阳黯然失色，"
+"而火卫一则在火星和火卫二之间的黑暗中穿越 。 当火卫一从火星中出来时，它仍然黯然失色，在火星的阴影中变暗，直到后来才亮起来。"
 
 #: src/translations.h:280
 msgid ""
@@ -2509,7 +2513,7 @@ msgstr "关于"
 
 #: qml/InfoPanel.qml:125
 msgid "Unnamed"
-msgstr ""
+msgstr "未命名"
 
 #: qml/LandscapesDialog.qml:5 qml/SettingsPanel.qml:47
 msgid "Landscape"
@@ -2517,12 +2521,11 @@ msgstr "地景"
 
 #: qml/LocationCityPicker.qml:25
 msgid "Pick City"
-msgstr ""
+msgstr "选择城市"
 
 #: qml/LocationCityPicker.qml:25
-#, fuzzy
 msgid "Pick Country"
-msgstr "国家/地区:"
+msgstr "国家/地区"
 
 #: qml/LocationDialog.qml:25 qml/SettingsPanel.qml:51
 msgid "Location"
@@ -2530,12 +2533,11 @@ msgstr "所在位置"
 
 #: qml/LocationDialog.qml:37
 msgid "Use GPS"
-msgstr ""
+msgstr "使用GPS"
 
 #: qml/LocationDialog.qml:37
-#, fuzzy
 msgid " (searching)"
-msgstr "慕尼黑"
+msgstr " （搜索中）"
 
 #: qml/LocationDialog.qml:72
 msgid "Name/City:"
@@ -2543,7 +2545,7 @@ msgstr "地名/城市:"
 
 #: qml/main.qml:75
 msgid "It is daytime, fast forward time until…"
-msgstr ""
+msgstr "现在是白天，快进时间直到…"
 
 #: qml/main.qml:214 qml/SettingsPanel.qml:24
 msgid "Settings"
@@ -2551,24 +2553,24 @@ msgstr "设置"
 
 #: qml/main.qml:226
 msgid "Open Quick Bar"
-msgstr ""
+msgstr "打开快捷菜单"
 
 #: qml/main.qml:261
 msgid "GPS…"
-msgstr ""
+msgstr "GPS…"
 
 #: qml/main.qml:263
 msgid "GPS"
-msgstr ""
+msgstr "GPS"
 
 #: qml/main.qml:334
 msgid "Drag sky to move in time"
-msgstr ""
+msgstr "拖动天空即时移动"
 
 #: qml/SearchInput.qml:37 qml/SearchInput.qml:72 qml/SearchInput.qml:89
 #: qml/SearchInput.qml:98 qml/SearchInput.qml:102
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: qml/StarloreDialog.qml:24 qml/SettingsPanel.qml:55
 msgid "Starlore"
@@ -2576,25 +2578,23 @@ msgstr "星空术语"
 
 #: qml/SettingsPanel.qml:59 qml/AdvancedDialog.qml:24
 msgid "Advanced"
-msgstr ""
+msgstr "高级"
 
 #: qml/StelDialog.qml:24
-#, fuzzy
 msgid "Stellarium"
-msgstr "Stellarium %1"
+msgstr "天像仪"
 
 #: qml/TimeBar.qml:34
 msgid "Real time"
-msgstr ""
+msgstr "手机时间"
 
 #: qml/TimeBar.qml:36
 msgid "Stopped"
 msgstr "已停止"
 
 #: qml/TimeDialog.qml:31
-#, fuzzy
 msgid "Advance to night at startup"
-msgstr "启动时自动连接"
+msgstr "启动时切到夜晚"
 
 #: qml/AdvancedDialog.qml:45
 msgid "Show planet markers"
@@ -2609,18 +2609,16 @@ msgid "Show meridian line"
 msgstr "显示子午线"
 
 #: qml/AdvancedDialog.qml:70 qml/AdvancedDialog.qml:75
-#, fuzzy
 msgid "Light pollution"
-msgstr "光污染："
+msgstr "光污染"
 
 #: qml/AdvancedDialog.qml:87 qml/AdvancedDialog.qml:92
-#, fuzzy
 msgid "Milky Way brightness"
-msgstr "银河亮度:"
+msgstr "银河亮度"
 
 #: qml/AdvancedDialog.qml:104 qml/AdvancedDialog.qml:109
 msgid "Thickness of lines"
-msgstr ""
+msgstr "线粗"
 
 #: qml/AdvancedDialog.qml:120
 msgid "Restore default settings"
@@ -2628,11 +2626,11 @@ msgstr "恢复默认设置"
 
 #: qml/AnglePicker.qml:24
 msgid "Latitude"
-msgstr ""
+msgstr "纬度"
 
 #: qml/AnglePicker.qml:24
 msgid "Longitude"
-msgstr ""
+msgstr "经度"
 
 #~ msgid "Correction is disabled. Use only if you know what you are doing!"
 #~ msgstr "目前禁止修正。如果您不了解您正在做什么，请不要使用此功能！"

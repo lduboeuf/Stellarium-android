@@ -6,10 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2019-07-15 06:02+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"PO-Revision-Date: 2021-02-09 22:50+0000\n"
+"Last-Translator: Michalis <michalisntovas@yahoo.gr>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/stellarium-mobile/"
 "app/el/>\n"
 "Language: el\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 4.5-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:28+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -778,11 +778,11 @@ msgstr "Αναζήτηση"
 
 #: src/core/SimbadSearcher.cpp:133
 msgid "Error"
-msgstr "Λάθος"
+msgstr "Σφάλμα"
 
 #: src/core/SimbadSearcher.cpp:135
 msgid "Not found"
-msgstr "Δεν βρέθηκε"
+msgstr "Δε βρέθηκε"
 
 #: src/core/SimbadSearcher.cpp:135
 msgid "Found"

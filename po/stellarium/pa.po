@@ -6,18 +6,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2020-07-10 00:41+0000\n"
+"PO-Revision-Date: 2020-10-25 17:26+0000\n"
 "Last-Translator: Aman ALam <alam.yellow@gmail.com>\n"
-"Language-Team: Punjabi <https://hosted.weblate.org/projects/stellarium-"
-"mobile/app/pa/>\n"
+"Language-Team: Punjabi <https://hosted.weblate.org/projects/"
+"stellarium-mobile/app/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.3.2-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:36+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -1367,12 +1367,12 @@ msgstr ""
 #. TRANSLATORS: Name of script
 #: src/translations.h:241
 msgid "Sun from different planets"
-msgstr ""
+msgstr "ਵੱਖੋ-ਵੱਖ ਗ੍ਰਹਿਆਂ ਤੋਂ ਸੂਰਜ"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:243
 msgid "Earth best views from other bodies"
-msgstr ""
+msgstr "ਹੋਰ ਥਾਵਾਂ ਤੋਂ ਧਰਤੀ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਦ੍ਰਿਸ਼"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:245
@@ -2545,11 +2545,11 @@ msgstr "ਸੈਟਿੰਗਾਂ"
 
 #: qml/main.qml:226
 msgid "Open Quick Bar"
-msgstr ""
+msgstr "ਫ਼ੌਰੀ ਪੱਟੀ ਖੋਲ੍ਹੋ"
 
 #: qml/main.qml:261
 msgid "GPS…"
-msgstr ""
+msgstr "GPS…"
 
 #: qml/main.qml:263
 msgid "GPS"
@@ -2562,7 +2562,7 @@ msgstr ""
 #: qml/SearchInput.qml:37 qml/SearchInput.qml:72 qml/SearchInput.qml:89
 #: qml/SearchInput.qml:98 qml/SearchInput.qml:102
 msgid "Search"
-msgstr ""
+msgstr "ਖੋਜੋ"
 
 #: qml/StarloreDialog.qml:24 qml/SettingsPanel.qml:55
 msgid "Starlore"
@@ -2573,13 +2573,12 @@ msgid "Advanced"
 msgstr "ਤਕਨੀਕੀ"
 
 #: qml/StelDialog.qml:24
-#, fuzzy
 msgid "Stellarium"
-msgstr "ਸੈਟੇਲਾਈਟ"
+msgstr "ਸਟੈਲਰੀਅਮ"
 
 #: qml/TimeBar.qml:34
 msgid "Real time"
-msgstr ""
+msgstr "ਮੌਕੇ ਉੱਤੇ"
 
 #: qml/TimeBar.qml:36
 msgid "Stopped"
@@ -2587,11 +2586,11 @@ msgstr "ਰੁਕਿਆ"
 
 #: qml/TimeDialog.qml:31
 msgid "Advance to night at startup"
-msgstr ""
+msgstr "ਸ਼ੁਰੂ ਵੇਲੇ ਰਾਤ ਵੇਲੇ ਅੱਗੇ"
 
 #: qml/AdvancedDialog.qml:45
 msgid "Show planet markers"
-msgstr ""
+msgstr "ਗ੍ਰਹਿ ਨਿਸ਼ਾਨ ਵੇਖੋ"
 
 #: qml/AdvancedDialog.qml:52
 #, fuzzy
@@ -2599,9 +2598,8 @@ msgid "Show ecliptic line"
 msgstr "ਲਾਈਨਾਂ ਵੇਖੋ"
 
 #: qml/AdvancedDialog.qml:59
-#, fuzzy
 msgid "Show meridian line"
-msgstr "ਸਿਖਰ ਰੇਖਾ"
+msgstr "ਸਿਖਰ ਰੇਖਾ ਵੇਖੋ"
 
 #: qml/AdvancedDialog.qml:70 qml/AdvancedDialog.qml:75
 msgid "Light pollution"
@@ -2617,15 +2615,15 @@ msgstr "ਲਾਈਨਾਂ ਦੀ ਚੌੜਾਈ"
 
 #: qml/AdvancedDialog.qml:120
 msgid "Restore default settings"
-msgstr ""
+msgstr "ਮੂਲ ਸੈਟਿੰਗਾਂ ਬਹਾਲ ਕਰੋ"
 
 #: qml/AnglePicker.qml:24
 msgid "Latitude"
-msgstr ""
+msgstr "ਚੁੜਾਈ"
 
 #: qml/AnglePicker.qml:24
 msgid "Longitude"
-msgstr ""
+msgstr "ਲੰਬਕਾਰ"
 
 #~ msgid "GPS..."
 #~ msgstr "GPS..."

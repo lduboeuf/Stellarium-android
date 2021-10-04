@@ -6,10 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2020-07-24 07:42+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"PO-Revision-Date: 2021-05-21 19:33+0000\n"
+"Last-Translator: Jacque Fresco <aidter@use.startmail.com>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/stellarium-mobile/"
 "app/ms/>\n"
 "Language: ms\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:34+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -307,7 +307,7 @@ msgstr "Jejak planet"
 
 #: src/core/modules/SolarSystem.cpp:154
 msgid "Planet markers"
-msgstr ""
+msgstr "Papan tanda Planet"
 
 #. TRANSLATORS: Type of object
 #: src/core/modules/StarWrapper.cpp:50 src/core/modules/StarWrapper.cpp:162
@@ -2540,7 +2540,7 @@ msgstr "Perihal"
 
 #: qml/InfoPanel.qml:125
 msgid "Unnamed"
-msgstr ""
+msgstr "Tanpa Nama"
 
 #: qml/LandscapesDialog.qml:5 qml/SettingsPanel.qml:47
 msgid "Landscape"
@@ -2548,12 +2548,11 @@ msgstr "Landskap"
 
 #: qml/LocationCityPicker.qml:25
 msgid "Pick City"
-msgstr ""
+msgstr "Pilih Bandar"
 
 #: qml/LocationCityPicker.qml:25
-#, fuzzy
 msgid "Pick Country"
-msgstr "Negara:"
+msgstr "Pilih Negara"
 
 #: qml/LocationDialog.qml:25 qml/SettingsPanel.qml:51
 msgid "Location"
@@ -2561,7 +2560,7 @@ msgstr "Lokasi"
 
 #: qml/LocationDialog.qml:37
 msgid "Use GPS"
-msgstr ""
+msgstr "Guna GPS"
 
 #: qml/LocationDialog.qml:37
 #, fuzzy
@@ -2582,15 +2581,15 @@ msgstr "Tetapan"
 
 #: qml/main.qml:226
 msgid "Open Quick Bar"
-msgstr ""
+msgstr "Buka Quick Bar"
 
 #: qml/main.qml:261
 msgid "GPS…"
-msgstr ""
+msgstr "GPS…"
 
 #: qml/main.qml:263
 msgid "GPS"
-msgstr ""
+msgstr "GPS"
 
 #: qml/main.qml:334
 msgid "Drag sky to move in time"
@@ -2599,7 +2598,7 @@ msgstr ""
 #: qml/SearchInput.qml:37 qml/SearchInput.qml:72 qml/SearchInput.qml:89
 #: qml/SearchInput.qml:98 qml/SearchInput.qml:102
 msgid "Search"
-msgstr ""
+msgstr "Cari"
 
 #: qml/StarloreDialog.qml:24 qml/SettingsPanel.qml:55
 msgid "Starlore"
@@ -2607,12 +2606,11 @@ msgstr "Peribudaya Bintang"
 
 #: qml/SettingsPanel.qml:59 qml/AdvancedDialog.qml:24
 msgid "Advanced"
-msgstr ""
+msgstr "Lanjut"
 
 #: qml/StelDialog.qml:24
-#, fuzzy
 msgid "Stellarium"
-msgstr "Stellarium %1"
+msgstr "Stellarium"
 
 #: qml/TimeBar.qml:34
 msgid "Real time"
@@ -2640,9 +2638,8 @@ msgid "Show meridian line"
 msgstr "Papar garis meridian"
 
 #: qml/AdvancedDialog.qml:70 qml/AdvancedDialog.qml:75
-#, fuzzy
 msgid "Light pollution"
-msgstr "Pencemaran cahaya:"
+msgstr "Pencemaran cahaya"
 
 #: qml/AdvancedDialog.qml:87 qml/AdvancedDialog.qml:92
 #, fuzzy

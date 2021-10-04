@@ -6,19 +6,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2020-07-24 07:42+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Romanian <https://hosted.weblate.org/projects/stellarium-"
-"mobile/app/ro/>\n"
+"PO-Revision-Date: 2021-06-17 12:33+0000\n"
+"Last-Translator: Simona Iacob <s@zp1.net>\n"
+"Language-Team: Romanian <https://hosted.weblate.org/projects/"
+"stellarium-mobile/app/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.7\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:37+0000\n"
 "100 > 19) || ((n % 100 == 0) && (n != 0))) ? 2: 1))\n"
 
@@ -309,7 +309,7 @@ msgstr "Traseul planetei"
 
 #: src/core/modules/SolarSystem.cpp:154
 msgid "Planet markers"
-msgstr ""
+msgstr "Marcaje planetare"
 
 #. TRANSLATORS: Type of object
 #: src/core/modules/StarWrapper.cpp:50 src/core/modules/StarWrapper.cpp:162
@@ -655,7 +655,7 @@ msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:182
 msgid "Hammer-Aitoff"
-msgstr "Hammer-Aitoff"
+msgstr "Ciocan-Aitoff"
 
 #: src/core/StelProjectorClasses.cpp:187
 msgid ""
@@ -680,7 +680,7 @@ msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:270
 msgid "Mercator"
-msgstr "Mercator"
+msgstr "mercator"
 
 #: src/core/StelProjectorClasses.cpp:275
 msgid ""
@@ -800,7 +800,7 @@ msgstr "Mod pe tot ecranul"
 #: src/StelMainView.cpp:356
 #, qt-format
 msgid "Stellarium %1"
-msgstr "Stellarium %1"
+msgstr "Stelium %1"
 
 #: src/translations.h:33
 msgid "Sun"
@@ -992,7 +992,7 @@ msgstr "Oberon"
 
 #: src/translations.h:79
 msgid "Pluto"
-msgstr "Pluto"
+msgstr "Pluton"
 
 #: src/translations.h:80
 msgid "Charon"
@@ -1034,7 +1034,7 @@ msgstr "Despina"
 
 #: src/translations.h:91
 msgid "Galatea"
-msgstr "Galatea"
+msgstr "Galateea"
 
 #: src/translations.h:92
 msgid "Larissa"
@@ -1116,7 +1116,7 @@ msgstr "Higiea"
 #. TRANSLATORS: Asteroid (41) Daphne
 #: src/translations.h:123
 msgid "Daphne"
-msgstr ""
+msgstr "Dafne"
 
 #. TRANSLATORS: Asteroid (1221) Amor
 #: src/translations.h:125
@@ -1156,7 +1156,7 @@ msgstr "Makemake"
 #. TRANSLATORS: Proper name of comet C/1680 V1
 #: src/translations.h:140
 msgid "Great Comet of 1680 (C/1680 V1)"
-msgstr ""
+msgstr "Marea cometă din 1680 (C/1680 V1)"
 
 #. TRANSLATORS: Name of supernova SN 1572A and script name
 #: src/translations.h:143
@@ -1197,7 +1197,7 @@ msgstr "cometă"
 #. TRANSLATORS: Type of object
 #: src/translations.h:162
 msgid "asteroid"
-msgstr "asteroid"
+msgstr "Asteroid"
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:164
@@ -1207,7 +1207,7 @@ msgstr "lună"
 #. TRANSLATORS: Type of object
 #: src/translations.h:166
 msgid "plutoid"
-msgstr "plutoid"
+msgstr "Plutoid"
 
 #: src/translations.h:170
 msgid "Arabic"
@@ -1276,7 +1276,7 @@ msgstr "Occidentală"
 #. TRANSLATORS: Name of landscape
 #: src/translations.h:191
 msgid "Guereins"
-msgstr "Guereins"
+msgstr "Guèreins"
 
 #. TRANSLATORS: Name of landscape
 #: src/translations.h:193
@@ -1420,11 +1420,8 @@ msgstr "Cele mai mari elongaţii şi străluciri ale Pământului de pe Marte"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:259
-#, fuzzy
 msgid "Earth and Mars Greatest Elongations from Jupiter"
-msgstr ""
-"Cele mai mari elongaţii si tranziturile Terrei şi ale lui Venus observate de "
-"pe Callisto."
+msgstr "Cele mai mari alungimi ale Pământului și lui Marte față de Jupiter"
 
 #. TRANSLATORS: Description of the landscape tour script.
 #: src/translations.h:265
@@ -1492,9 +1489,8 @@ msgid ""
 "Just before Mars eclipses the sun, Phobos pops out from behind and eclipses "
 "it first. Takes place between Taurus and Gemini on July 23, 2031."
 msgstr ""
-"Chiar înainte ca Marte să eclipseze Soarele, Phobos apare din spatele lui "
-"Marte şi îl eclipsează primul. Are loc între Taurus şi Gemini  pe 23 iulie "
-"2031."
+"Chiar înainte ca Marte să eclipseze Soarele, Phobos apare din spate și îl "
+"eclipsează primul. Are loc între Taur și Gemeni, pe 23 iulie 2031."
 
 #: src/translations.h:277
 msgid "Phobos eclipsing the Sun as seen from Olympus Mons on Jan 10, 2068."
@@ -1528,12 +1524,11 @@ msgstr ""
 "estompat în umbra lui Marte, şi va fi luminat mai tîrziu."
 
 #: src/translations.h:280
-#, fuzzy
 msgid ""
 "Screensaver of various happenings in the Solar System. 187 events in all!"
 msgstr ""
-"Protector de ecran cu diverse evenimente în Sistemul Solar. 171 evenimente "
-"în total!"
+"Ecran de siguranță cu diferite evenimente din sistemul solar. 187 de "
+"evenimente în total!"
 
 #: src/translations.h:281
 msgid "A tour of the western constellations."
@@ -1569,14 +1564,12 @@ msgstr ""
 "Supernove trebuie să fie activat."
 
 #: src/translations.h:287
-#, fuzzy
 msgid "Earth Greatest Elongations and Brilliancies from Mars 2000-3000"
-msgstr "Cele mai mari elongaţii şi străluciri ale Pământului de pe Marte"
+msgstr "Pământul Cele mai mari elongații și străluciri de pe Marte 2000-3000"
 
 #: src/translations.h:288
-#, fuzzy
 msgid "Earth Greatest Elongations from Jupiter 2000-3000"
-msgstr "Cele mai mari elongaţii şi străluciri ale Pământului de pe Marte"
+msgstr "Pământul Cea mai mare elongație față de Jupiter 2000-3000"
 
 #: src/translations.h:292
 msgid "Andorra"
@@ -2392,7 +2385,7 @@ msgstr "Republica Arabă Siriană"
 
 #: src/translations.h:495
 msgid "Swaziland"
-msgstr "Swaziland"
+msgstr "Țara Swazi"
 
 #: src/translations.h:496
 msgid "Turks and Caicos Islands"
@@ -2548,7 +2541,7 @@ msgstr "Despre"
 
 #: qml/InfoPanel.qml:125
 msgid "Unnamed"
-msgstr ""
+msgstr "Fără nume"
 
 #: qml/LandscapesDialog.qml:5 qml/SettingsPanel.qml:47
 msgid "Landscape"
@@ -2556,12 +2549,11 @@ msgstr "Peisaj"
 
 #: qml/LocationCityPicker.qml:25
 msgid "Pick City"
-msgstr ""
+msgstr "Alege orașul"
 
 #: qml/LocationCityPicker.qml:25
-#, fuzzy
 msgid "Pick Country"
-msgstr "Țară:"
+msgstr "Alege țara"
 
 #: qml/LocationDialog.qml:25 qml/SettingsPanel.qml:51
 msgid "Location"
@@ -2569,12 +2561,11 @@ msgstr "Locație"
 
 #: qml/LocationDialog.qml:37
 msgid "Use GPS"
-msgstr ""
+msgstr "Utilizați GPS"
 
 #: qml/LocationDialog.qml:37
-#, fuzzy
 msgid " (searching)"
-msgstr "Garching"
+msgstr " (căutare)"
 
 #: qml/LocationDialog.qml:72
 msgid "Name/City:"
@@ -2582,7 +2573,7 @@ msgstr "Nume/Oraș:"
 
 #: qml/main.qml:75
 msgid "It is daytime, fast forward time until…"
-msgstr ""
+msgstr "Este ziuă, timpul trece repede înainte până la…"
 
 #: qml/main.qml:214 qml/SettingsPanel.qml:24
 msgid "Settings"
@@ -2590,19 +2581,19 @@ msgstr "Setări"
 
 #: qml/main.qml:226
 msgid "Open Quick Bar"
-msgstr ""
+msgstr "Deschideți bara rapidă"
 
 #: qml/main.qml:261
 msgid "GPS…"
-msgstr ""
+msgstr "GPS…"
 
 #: qml/main.qml:263
 msgid "GPS"
-msgstr ""
+msgstr "GPS"
 
 #: qml/main.qml:334
 msgid "Drag sky to move in time"
-msgstr ""
+msgstr "Trageți cerul pentru a vă deplasa în timp"
 
 #: qml/SearchInput.qml:37 qml/SearchInput.qml:72 qml/SearchInput.qml:89
 #: qml/SearchInput.qml:98 qml/SearchInput.qml:102
@@ -2615,25 +2606,23 @@ msgstr "Mitologie stelară"
 
 #: qml/SettingsPanel.qml:59 qml/AdvancedDialog.qml:24
 msgid "Advanced"
-msgstr ""
+msgstr "Avansat"
 
 #: qml/StelDialog.qml:24
-#, fuzzy
 msgid "Stellarium"
-msgstr "Stellarium %1"
+msgstr "Steliarium"
 
 #: qml/TimeBar.qml:34
 msgid "Real time"
-msgstr ""
+msgstr "În timp real"
 
 #: qml/TimeBar.qml:36
 msgid "Stopped"
 msgstr "Oprit"
 
 #: qml/TimeDialog.qml:31
-#, fuzzy
 msgid "Advance to night at startup"
-msgstr "Demarare/conexiune la lansare"
+msgstr "Avansați la noapte la pornire"
 
 #: qml/AdvancedDialog.qml:45
 msgid "Show planet markers"
@@ -2648,18 +2637,16 @@ msgid "Show meridian line"
 msgstr "Arată linia meridianului"
 
 #: qml/AdvancedDialog.qml:70 qml/AdvancedDialog.qml:75
-#, fuzzy
 msgid "Light pollution"
-msgstr "Poluare luminoasă:"
+msgstr "Poluarea luminoasă"
 
 #: qml/AdvancedDialog.qml:87 qml/AdvancedDialog.qml:92
-#, fuzzy
 msgid "Milky Way brightness"
-msgstr "Strălucirea Căii Lactee"
+msgstr "Luminozitatea Căii Lactee"
 
 #: qml/AdvancedDialog.qml:104 qml/AdvancedDialog.qml:109
 msgid "Thickness of lines"
-msgstr ""
+msgstr "Grosimea liniilor"
 
 #: qml/AdvancedDialog.qml:120
 msgid "Restore default settings"

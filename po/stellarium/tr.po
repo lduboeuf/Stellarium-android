@@ -6,18 +6,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2019-07-15 06:02+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Turkish <https://hosted.weblate.org/projects/stellarium-"
-"mobile/app/tr/>\n"
+"PO-Revision-Date: 2020-10-18 20:26+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/"
+"stellarium-mobile/app/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 4.3.1-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:41+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -351,7 +351,7 @@ msgstr "çift yıldız"
 #: src/core/modules/StarWrapper.cpp:167
 #, qt-format
 msgid "Type: <b>%1, %2</b>"
-msgstr ""
+msgstr "Türü: <b>%1, %2</b>"
 
 #: src/core/modules/StarWrapper.cpp:206
 #, qt-format
@@ -371,7 +371,7 @@ msgstr "Uzaklık: %1 Işık Yılı"
 #: src/core/modules/StarWrapper.cpp:220
 #, qt-format
 msgid "Spectral Type: %1"
-msgstr "Tayf tipi: %1"
+msgstr "Tayf Türü: %1"
 
 #: src/core/modules/StarWrapper.cpp:223
 #, qt-format
@@ -460,35 +460,35 @@ msgstr "Zamanı şimdiye ayarla"
 
 #: src/core/StelCore.cpp:172
 msgid "Add 1 solar hour"
-msgstr "1 gunes saati ekle"
+msgstr "1 güneş saati ekle"
 
 #: src/core/StelCore.cpp:173
 msgid "Add 1 solar day"
-msgstr "1 gunes gunu ekle"
+msgstr "1 güneş günü ekle"
 
 #: src/core/StelCore.cpp:174
 msgid "Add 1 solar week"
-msgstr "1 gunes haftasi ekle"
+msgstr "1 güneş haftası ekle"
 
 #: src/core/StelCore.cpp:175
 msgid "Subtract 1 solar hour"
-msgstr "1 gunes saati cikar"
+msgstr "1 güneş saati çıkar"
 
 #: src/core/StelCore.cpp:176
 msgid "Subtract 1 solar day"
-msgstr "1 gunes gunu cikar"
+msgstr "1 güneş günü çıkar"
 
 #: src/core/StelCore.cpp:177
 msgid "Subtract 1 solar week"
-msgstr "1 gunes haftasi cikar"
+msgstr "1 güneş haftası çıkar"
 
 #: src/core/StelCore.cpp:178
 msgid "Add 1 sidereal day"
-msgstr "1 yildiz gunu ekle"
+msgstr "1 yıldız günü ekle"
 
 #: src/core/StelCore.cpp:179
 msgid "Add 1 sidereal week"
-msgstr "1 yildiz haftasi ekle"
+msgstr "1 yıldız haftası ekle"
 
 #: src/core/StelCore.cpp:180
 msgid "Add 1 sidereal month"
@@ -496,48 +496,47 @@ msgstr "1 yıldız ayı ekle"
 
 #: src/core/StelCore.cpp:181
 msgid "Add 1 sidereal year"
-msgstr "Bir yıldız yılı ekle"
+msgstr "1 yıldız yılı ekle"
 
 #: src/core/StelCore.cpp:182
-#, fuzzy
 msgid "Add 1 sidereal century"
-msgstr "Bir yıldız yılı ekle"
+msgstr "1 yıldız yüzyılı ekle"
 
 #: src/core/StelCore.cpp:183
 msgid "Add 1 synodic month"
-msgstr ""
+msgstr "1 sinodik ay ekle"
 
 #: src/core/StelCore.cpp:184
 msgid "Add 1 draconic month"
-msgstr ""
+msgstr "1 ejderha ayı ekle"
 
 #: src/core/StelCore.cpp:185
 msgid "Add 1 draconic year"
-msgstr ""
+msgstr "1 ejderha yılı ekle"
 
 #: src/core/StelCore.cpp:186
 msgid "Add 1 anomalistic month"
-msgstr ""
+msgstr "1 anomalistik ay ekle"
 
 #: src/core/StelCore.cpp:187
 msgid "Add 1 mean tropical month"
-msgstr ""
+msgstr "1 ortalama dönence ayı ekle"
 
 #: src/core/StelCore.cpp:188
 msgid "Add 1 mean tropical year"
-msgstr ""
+msgstr "1 ortalama dönence yılı ekle"
 
 #: src/core/StelCore.cpp:189
 msgid "Add 1 mean tropical century"
-msgstr ""
+msgstr "1 ortalama dönence yüzyılı ekle"
 
 #: src/core/StelCore.cpp:190
 msgid "Subtract 1 sidereal day"
-msgstr "1 yildiz gunu cikar"
+msgstr "1 yıldız günü çıkar"
 
 #: src/core/StelCore.cpp:191
 msgid "Subtract 1 sidereal week"
-msgstr "1 yildiz haftasi cikar"
+msgstr "1 yıldız haftası çıkar"
 
 #: src/core/StelCore.cpp:192
 msgid "Subtract 1 sidereal month"
@@ -545,49 +544,47 @@ msgstr "1 yıldız ayı çıkar"
 
 #: src/core/StelCore.cpp:193
 msgid "Subtract 1 sidereal year"
-msgstr "Bir yıldız yılı çıkar"
+msgstr "1 yıldız yılı çıkar"
 
 #: src/core/StelCore.cpp:194
-#, fuzzy
 msgid "Subtract 1 sidereal century"
-msgstr "Bir yıldız yılı çıkar"
+msgstr "1 yıldız yüzyılı çıkar"
 
 #: src/core/StelCore.cpp:195
 msgid "Subtract 1 synodic month"
-msgstr ""
+msgstr "1 sinodik ay çıkar"
 
 #: src/core/StelCore.cpp:196
 msgid "Subtract 1 draconic month"
-msgstr ""
+msgstr "1 ejderha ayı çıkar"
 
 #: src/core/StelCore.cpp:197
 msgid "Subtract 1 draconic year"
-msgstr ""
+msgstr "1 ejderha yılı çıkar"
 
 #: src/core/StelCore.cpp:198
 msgid "Subtract 1 anomalistic month"
-msgstr ""
+msgstr "1 anomalistik ay çıkar"
 
 #: src/core/StelCore.cpp:199
 msgid "Subtract 1 mean tropical month"
-msgstr ""
+msgstr "1 ortalama dönence ayı çıkar"
 
 #: src/core/StelCore.cpp:200
 msgid "Subtract 1 mean tropical year"
-msgstr ""
+msgstr "1 ortalama dönence yılı çıkar"
 
 #: src/core/StelCore.cpp:201
-#, fuzzy
 msgid "Subtract 1 mean tropical century"
-msgstr "Bir yıldız yılı çıkar"
+msgstr "1 ortalama dönence yüzyılı çıkar"
 
 #: src/core/StelCore.cpp:203
 msgid "Set home planet to selected planet"
-msgstr "Yerel gezegeni secilen secilen gezegene gore ayarla"
+msgstr "Ana gezegeni seçilen gezegene ayarla"
 
 #: src/core/StelCore.cpp:204
 msgid "Go to home"
-msgstr "Evet git"
+msgstr "Ana gezegene git"
 
 #: src/core/StelCore.cpp:205
 msgid "Flip scene horizontally"
@@ -595,7 +592,7 @@ msgstr "Görüntüyü yatay olarak çevir"
 
 #: src/core/StelCore.cpp:206
 msgid "Flip scene vertically"
-msgstr "Manzarayi dikey olarak cevir."
+msgstr "Manzarayı dikey olarak çevir"
 
 #: src/core/StelProjector.cpp:129
 msgid "Maximum FOV: "
@@ -675,8 +672,8 @@ msgid ""
 "The full name of this projection mode is <i>cylindrical equidistant "
 "projection</i>. With this projection all parallels are equally spaced."
 msgstr ""
-"Bu izdüşüm türünün tam adı, 'silindirik eşuzaklik izdüşümüdür'. Bu izdüşüm "
-"ile tüm paraleller eşit uzaklıktadır."
+"Bu izdüşüm türünün tam adı, <i>silindirik eşuzaklik izdüşümüdür</i>. Bu "
+"izdüşüm ile tüm paraleller eşit uzaklıktadır."
 
 #: src/core/StelProjectorClasses.cpp:270
 msgid "Mercator"
@@ -1116,7 +1113,7 @@ msgstr "Hygiea"
 #. TRANSLATORS: Asteroid (41) Daphne
 #: src/translations.h:123
 msgid "Daphne"
-msgstr ""
+msgstr "Daphne"
 
 #. TRANSLATORS: Asteroid (1221) Amor
 #: src/translations.h:125
@@ -1146,17 +1143,17 @@ msgstr "Hektor"
 #. TRANSLATORS: Asteroid (20000) Varuna
 #: src/translations.h:135
 msgid "Varuna"
-msgstr ""
+msgstr "Varuna"
 
 #. TRANSLATORS: Asteroid (136472) Makemake
 #: src/translations.h:137
 msgid "Makemake"
-msgstr ""
+msgstr "Makemake"
 
 #. TRANSLATORS: Proper name of comet C/1680 V1
 #: src/translations.h:140
 msgid "Great Comet of 1680 (C/1680 V1)"
-msgstr ""
+msgstr "1680 Büyük Kuyruklu Yıldızı (C/1680 V1)"
 
 #. TRANSLATORS: Name of supernova SN 1572A and script name
 #: src/translations.h:143
@@ -1206,9 +1203,8 @@ msgstr "ay"
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:166
-#, fuzzy
 msgid "plutoid"
-msgstr "Plüton"
+msgstr "cüce gezegen"
 
 #: src/translations.h:170
 msgid "Arabic"
@@ -1216,7 +1212,7 @@ msgstr "Arapça"
 
 #: src/translations.h:171
 msgid "Aztec"
-msgstr "Aztec"
+msgstr "Aztek"
 
 #: src/translations.h:172
 msgid "Chinese"
@@ -1232,7 +1228,7 @@ msgstr "Eskimo"
 
 #: src/translations.h:175
 msgid "Indian Vedic"
-msgstr ""
+msgstr "Hint Vedik"
 
 #: src/translations.h:176
 msgid "Korean"
@@ -1332,7 +1328,7 @@ msgstr "Başlangıç Komutu"
 #. TRANSLATORS: Name of script
 #: src/translations.h:223
 msgid "Zodiac"
-msgstr "Zodiac"
+msgstr "Zodyak"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:225
@@ -1406,9 +1402,8 @@ msgstr "Merkürden Dünya Olayları"
 
 #. TRANSLATORS: Name and description of script
 #: src/translations.h:253
-#, fuzzy
 msgid "Earth Events from Venus"
-msgstr "Marstan Dünya Olayları"
+msgstr "Venüsten Dünya Olayları"
 
 #. TRANSLATORS: Name and description of script
 #: src/translations.h:255
@@ -1445,7 +1440,7 @@ msgstr "Tam ay tutulmasını göstermek için gerekli komut."
 
 #: src/translations.h:270
 msgid "A slow, infinite tour of the sky, looking at random objects."
-msgstr "Rastgele nesnelere bakarak gökyüzünde yavaş,bitmeyen bir tur"
+msgstr "Rastgele nesnelere bakarak gökyüzünde yavaş, sonsuz bir tur."
 
 #: src/translations.h:271
 msgid ""
@@ -2514,7 +2509,7 @@ msgstr "Hakkında"
 
 #: qml/InfoPanel.qml:125
 msgid "Unnamed"
-msgstr ""
+msgstr "İsimsiz"
 
 #: qml/LandscapesDialog.qml:5 qml/SettingsPanel.qml:47
 msgid "Landscape"
@@ -2522,12 +2517,11 @@ msgstr "Alan Haritası"
 
 #: qml/LocationCityPicker.qml:25
 msgid "Pick City"
-msgstr ""
+msgstr "Şehir Seç"
 
 #: qml/LocationCityPicker.qml:25
-#, fuzzy
 msgid "Pick Country"
-msgstr "Ülke:"
+msgstr "Ülke Seç"
 
 #: qml/LocationDialog.qml:25 qml/SettingsPanel.qml:51
 msgid "Location"
@@ -2535,16 +2529,15 @@ msgstr "Konum"
 
 #: qml/LocationDialog.qml:37
 msgid "Use GPS"
-msgstr ""
+msgstr "GPS kullan"
 
 #: qml/LocationDialog.qml:37
-#, fuzzy
 msgid " (searching)"
-msgstr "Garching"
+msgstr " (aranıyor)"
 
 #: qml/LocationDialog.qml:72
 msgid "Name/City:"
-msgstr "Isim/Sehir"
+msgstr "Ad/Şehir:"
 
 #: qml/main.qml:75
 msgid "It is daytime, fast forward time until…"
@@ -2556,53 +2549,52 @@ msgstr "Ayarlar"
 
 #: qml/main.qml:226
 msgid "Open Quick Bar"
-msgstr ""
+msgstr "Hızlı Çubuğu Aç"
 
 #: qml/main.qml:261
 msgid "GPS…"
-msgstr ""
+msgstr "GPS…"
 
 #: qml/main.qml:263
 msgid "GPS"
-msgstr ""
+msgstr "GPS"
 
 #: qml/main.qml:334
 msgid "Drag sky to move in time"
-msgstr ""
+msgstr "Zamanda hareket etmek için gökyüzünü sürükleyin"
 
 #: qml/SearchInput.qml:37 qml/SearchInput.qml:72 qml/SearchInput.qml:89
 #: qml/SearchInput.qml:98 qml/SearchInput.qml:102
 msgid "Search"
-msgstr ""
+msgstr "Arama"
 
 #: qml/StarloreDialog.qml:24 qml/SettingsPanel.qml:55
 msgid "Starlore"
-msgstr "Yildiz bilgisi"
+msgstr "Yıldız bilgisi"
 
 #: qml/SettingsPanel.qml:59 qml/AdvancedDialog.qml:24
 msgid "Advanced"
-msgstr ""
+msgstr "Gelişmiş"
 
 #: qml/StelDialog.qml:24
-#, fuzzy
 msgid "Stellarium"
-msgstr "Stellarium %1"
+msgstr "Stellarium"
 
 #: qml/TimeBar.qml:34
 msgid "Real time"
-msgstr ""
+msgstr "Gerçek zaman"
 
 #: qml/TimeBar.qml:36
 msgid "Stopped"
-msgstr ""
+msgstr "Durduruldu"
 
 #: qml/TimeDialog.qml:31
 msgid "Advance to night at startup"
-msgstr ""
+msgstr "Başlangıçta geceye ilerle"
 
 #: qml/AdvancedDialog.qml:45
 msgid "Show planet markers"
-msgstr "Gezegen isaretlerini goster"
+msgstr "Gezegen işaretlerini göster"
 
 #: qml/AdvancedDialog.qml:52
 msgid "Show ecliptic line"
@@ -2613,18 +2605,16 @@ msgid "Show meridian line"
 msgstr "Meridyen çizgisini göster"
 
 #: qml/AdvancedDialog.qml:70 qml/AdvancedDialog.qml:75
-#, fuzzy
 msgid "Light pollution"
-msgstr "Düşük kirlilik:"
+msgstr "Işık kirliliği"
 
 #: qml/AdvancedDialog.qml:87 qml/AdvancedDialog.qml:92
-#, fuzzy
 msgid "Milky Way brightness"
-msgstr "Samanyolu parlaklığı"
+msgstr "Samanyolu'nun parlaklığı"
 
 #: qml/AdvancedDialog.qml:104 qml/AdvancedDialog.qml:109
 msgid "Thickness of lines"
-msgstr ""
+msgstr "Çizgilerin kalınlığı"
 
 #: qml/AdvancedDialog.qml:120
 msgid "Restore default settings"

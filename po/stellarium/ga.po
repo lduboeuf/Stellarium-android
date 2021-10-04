@@ -6,17 +6,20 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2015-03-02 05:39+0000\n"
-"Last-Translator: Alexander Wolf <Unknown>\n"
-"Language-Team: Irish <ga@li.org>\n"
+"PO-Revision-Date: 2021-04-19 11:27+0000\n"
+"Last-Translator: Richard Hughes <richard@hughes.ie>\n"
+"Language-Team: Irish <https://hosted.weblate.org/projects/stellarium-mobile/"
+"app/ga/>\n"
 "Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :("
+"n>6 && n<11) ? 3 : 4;\n"
+"X-Generator: Weblate 4.6\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:27+0000\n"
-"X-Generator: Launchpad (build 18269)\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
 #: src/core/modules/GridLinesMgr.cpp:674 src/core/modules/LandscapeMgr.cpp:313
@@ -28,15 +31,15 @@ msgstr "Roghanna Taispeána"
 
 #: src/core/modules/ConstellationMgr.cpp:111
 msgid "Constellation lines"
-msgstr "Línte i réaltbhuíonta"
+msgstr "Línte réaltbhuíonta"
 
 #: src/core/modules/ConstellationMgr.cpp:112
 msgid "Constellation art"
-msgstr ""
+msgstr "Tarraingtí réaltbhuíonta"
 
 #: src/core/modules/ConstellationMgr.cpp:113
 msgid "Constellation labels"
-msgstr ""
+msgstr "Lipéid réaltbhuíonta"
 
 #: src/core/modules/ConstellationMgr.cpp:114 qml/AdvancedDialog.qml:66
 msgid "Constellation boundaries"
@@ -48,7 +51,7 @@ msgstr "Réalta"
 
 #: src/core/modules/StarMgr.cpp:330
 msgid "Stars labels"
-msgstr ""
+msgstr "Ainmneacha réalta"
 
 #: src/core/modules/GridLinesMgr.cpp:525
 msgid "Meridian"
@@ -68,47 +71,47 @@ msgstr "Léaslíne"
 
 #: src/core/modules/GridLinesMgr.cpp:541
 msgid "Galactic Plane"
-msgstr ""
+msgstr "Plána réaltraí"
 
 #: src/core/modules/GridLinesMgr.cpp:675
 msgid "Equatorial grid"
-msgstr ""
+msgstr "Greille mheánchiorclaigh"
 
 #: src/core/modules/GridLinesMgr.cpp:676
 msgid "Azimuthal grid"
-msgstr ""
+msgstr "Greille asamatach"
 
 #: src/core/modules/GridLinesMgr.cpp:677
 msgid "Ecliptic line"
-msgstr ""
+msgstr "Líne éicliptigh"
 
 #: src/core/modules/GridLinesMgr.cpp:678
 msgid "Equator line"
-msgstr ""
+msgstr "Líne mheánchiorclach"
 
 #: src/core/modules/GridLinesMgr.cpp:679
 msgid "Meridian line"
-msgstr ""
+msgstr "Líne mheánlae"
 
 #: src/core/modules/GridLinesMgr.cpp:680
 msgid "Horizon line"
-msgstr ""
+msgstr "Léaslíne"
 
 #: src/core/modules/GridLinesMgr.cpp:681
 msgid "Equatorial J2000 grid"
-msgstr ""
+msgstr "Greille mheánchiorclaigh J2000"
 
 #: src/core/modules/GridLinesMgr.cpp:682
 msgid "Ecliptic J2000 grid"
-msgstr ""
+msgstr "Líne éicliptigh J2000"
 
 #: src/core/modules/GridLinesMgr.cpp:683
 msgid "Galactic grid"
-msgstr ""
+msgstr "Greille réaltraí"
 
 #: src/core/modules/GridLinesMgr.cpp:684
 msgid "Galactic plane"
-msgstr ""
+msgstr "Plána realtraí"
 
 #: src/core/modules/LandscapeMgr.cpp:314
 msgid "Atmosphere"
@@ -120,7 +123,7 @@ msgstr "Ceo"
 
 #: src/core/modules/LandscapeMgr.cpp:316
 msgid "Cardinal points"
-msgstr ""
+msgstr "Príomhairde"
 
 #: src/core/modules/LandscapeMgr.cpp:317
 msgid "Ground"
@@ -128,11 +131,11 @@ msgstr "Talamh"
 
 #: src/core/modules/LandscapeMgr.cpp:523
 msgid "Author: "
-msgstr "Author: "
+msgstr "Údar: "
 
 #: src/core/modules/LandscapeMgr.cpp:526
 msgid "Location: "
-msgstr "Location: "
+msgstr "Suíomh: "
 
 #: src/core/modules/LandscapeMgr.cpp:531
 #, qt-format
@@ -156,7 +159,7 @@ msgstr "Cineál: <b>%1</b>"
 #: src/core/modules/StarWrapper.cpp:56 src/core/modules/StarWrapper.cpp:179
 #, qt-format
 msgid "Magnitude: <b>%1</b> (extincted to: <b>%2</b>)"
-msgstr ""
+msgstr "Méid : <b>%1</b> (díofa go : <b>%2</b>)"
 
 #: src/core/modules/Nebula.cpp:110 src/core/modules/Planet.cpp:133
 #: src/core/modules/MinorPlanet.cpp:222 src/core/modules/Comet.cpp:132
@@ -191,13 +194,12 @@ msgid "Planetary nebula"
 msgstr "Réaltnéal pláinéadach"
 
 #: src/core/modules/Nebula.cpp:357
-#, fuzzy
 msgid "Dark Nebula"
-msgstr "Réaltnéal"
+msgstr "Réaltnéal dorcha"
 
 #: src/core/modules/Nebula.cpp:360
 msgid "Cluster associated with nebulosity"
-msgstr ""
+msgstr "Réaltbhraisle atá baint le réaltnéalmhaireacht"
 
 #: src/core/modules/Nebula.cpp:363
 msgid "Unknown"
@@ -205,11 +207,11 @@ msgstr "Anaithnid"
 
 #: src/core/modules/Nebula.cpp:366
 msgid "Undocumented type"
-msgstr ""
+msgstr "Cineál neamh-doiciméadaithe"
 
 #: src/core/modules/NebulaMgr.cpp:123
 msgid "Deep-sky objects"
-msgstr ""
+msgstr "Nithe domhainspéire"
 
 #: src/core/modules/Planet.cpp:136 src/core/modules/MinorPlanet.cpp:232
 #: src/core/modules/MinorPlanet.cpp:236 src/core/modules/Comet.cpp:141
@@ -221,7 +223,7 @@ msgstr "Dearbhmhéid: %1"
 #: src/core/modules/Planet.cpp:149
 #, qt-format
 msgid "Ecliptic Topocentric (of date): %1/%2"
-msgstr ""
+msgstr "Éiclipteach topalárnach (den dáta) : %1/%2"
 
 #: src/core/modules/Planet.cpp:150
 #, qt-format
@@ -363,9 +365,9 @@ msgid "Magnitude range: <b>%1</b>%2<b>%3/%4</b> (Photometric system: %5)"
 msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:215
-#, fuzzy, qt-format
+#, qt-format
 msgid "Distance: %1 Light Years"
-msgstr "Fad: %1AU"
+msgstr "Fad: %1 solasbhlianta"
 
 #: src/core/modules/StarWrapper.cpp:220
 #, qt-format
@@ -960,9 +962,8 @@ msgid "Umbriel"
 msgstr ""
 
 #: src/translations.h:77
-#, fuzzy
 msgid "Titania"
-msgstr "Tíotán"
+msgstr "Titania"
 
 #: src/translations.h:78
 msgid "Oberon"
@@ -996,7 +997,7 @@ msgstr ""
 
 #: src/translations.h:87
 msgid "Nereid"
-msgstr ""
+msgstr "Néiréid"
 
 #: src/translations.h:88
 msgid "Naiad"
@@ -1011,9 +1012,8 @@ msgid "Despina"
 msgstr ""
 
 #: src/translations.h:91
-#, fuzzy
 msgid "Galatea"
-msgstr "Réaltra"
+msgstr "Galatea"
 
 #: src/translations.h:92
 msgid "Larissa"
@@ -1024,18 +1024,16 @@ msgid "Proteus"
 msgstr ""
 
 #: src/translations.h:94
-#, fuzzy
 msgid "Halimede"
-msgstr "Ganaiméide"
+msgstr "Halimede"
 
 #: src/translations.h:95
 msgid "Psamathe"
 msgstr ""
 
 #: src/translations.h:96
-#, fuzzy
 msgid "Sao"
-msgstr "Láóis"
+msgstr "Sao"
 
 #: src/translations.h:97
 msgid "Laomedeia"
@@ -1072,9 +1070,8 @@ msgstr ""
 
 #. TRANSLATORS: Asteroid (5) Astraea
 #: src/translations.h:111
-#, fuzzy
 msgid "Astraea"
-msgstr "An Astráil"
+msgstr "Astraea"
 
 #. TRANSLATORS: Asteroid (6) Hebe
 #: src/translations.h:113
@@ -1153,24 +1150,24 @@ msgstr ""
 
 #: src/translations.h:148
 msgid "N"
-msgstr "N"
+msgstr "T"
 
 #: src/translations.h:149
 msgid "S"
-msgstr "S"
+msgstr "D"
 
 #: src/translations.h:150
 msgid "E"
-msgstr "E"
+msgstr "O"
 
 #: src/translations.h:151
 msgid "W"
-msgstr "W"
+msgstr "I"
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:158
 msgid "planet"
-msgstr "pláinéad"
+msgstr "rinn"
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:160
@@ -1185,17 +1182,16 @@ msgstr "astaróideach"
 #. TRANSLATORS: Type of object
 #: src/translations.h:164
 msgid "moon"
-msgstr ""
+msgstr "gealach"
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:166
-#, fuzzy
 msgid "plutoid"
-msgstr "Plútón"
+msgstr "plútón"
 
 #: src/translations.h:170
 msgid "Arabic"
-msgstr ""
+msgstr "Araibis"
 
 #: src/translations.h:171
 msgid "Aztec"
@@ -1215,7 +1211,7 @@ msgstr "Ionúiteach"
 
 #: src/translations.h:175
 msgid "Indian Vedic"
-msgstr ""
+msgstr "Véidis Indiaigh"
 
 #: src/translations.h:176
 msgid "Korean"
@@ -1251,7 +1247,7 @@ msgstr "Tupi-Guarani"
 
 #: src/translations.h:184
 msgid "Tongan"
-msgstr ""
+msgstr "Tongach"
 
 #: src/translations.h:185
 msgid "Western"
@@ -1260,12 +1256,12 @@ msgstr "Iartharach"
 #. TRANSLATORS: Name of landscape
 #: src/translations.h:191
 msgid "Guereins"
-msgstr ""
+msgstr "Guereins"
 
 #. TRANSLATORS: Name of landscape
 #: src/translations.h:193
 msgid "Trees"
-msgstr ""
+msgstr "Crainn"
 
 #. TRANSLATORS: Landscape name: Hurricane Ridge
 #: src/translations.h:197
@@ -1280,22 +1276,22 @@ msgstr "Aigéan"
 #. TRANSLATORS: Landscape name: Garching bei Munchen
 #: src/translations.h:201
 msgid "Garching"
-msgstr ""
+msgstr "Garching"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:211
 msgid "Landscape Tour"
-msgstr ""
+msgstr "Turas Tírdhreacha"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:213
 msgid "Partial Lunar Eclipse"
-msgstr ""
+msgstr "Éiclips na Gealaí pháirtigh"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:215
 msgid "Total Lunar Eclipse"
-msgstr ""
+msgstr "Éiclips na Gealaí iomláin"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:217
@@ -1305,17 +1301,17 @@ msgstr "Sábháilscáileán"
 #. TRANSLATORS: Name of script
 #: src/translations.h:219
 msgid "Solar Eclipse 2009"
-msgstr ""
+msgstr "Éiclips na Gréine 2009"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:221
 msgid "Startup Script"
-msgstr ""
+msgstr "Script Tosaithe"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:223
 msgid "Zodiac"
-msgstr ""
+msgstr "Stoidiaca"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:225
@@ -1592,7 +1588,7 @@ msgstr "An Asarbaiseáin"
 
 #: src/translations.h:308
 msgid "Bosnia and Herzegowina"
-msgstr ""
+msgstr "an Bhoisnia agus an Heirseagaivéin"
 
 #: src/translations.h:309
 msgid "Barbados"
@@ -2228,7 +2224,7 @@ msgstr "Portó Ríce"
 
 #: src/translations.h:467
 msgid "Palestinian Territories"
-msgstr ""
+msgstr "Críocha Palaistíneach"
 
 #: src/translations.h:468
 msgid "Portugal"
@@ -2236,301 +2232,295 @@ msgstr "An Phortaingéil"
 
 #: src/translations.h:469
 msgid "Palau"
-msgstr ""
+msgstr "Oileáin Palau"
 
 #: src/translations.h:470
 msgid "Paraguay"
-msgstr ""
+msgstr "Paragua"
 
 #: src/translations.h:471
 msgid "Qatar"
-msgstr ""
+msgstr "Catar"
 
 #: src/translations.h:472
 msgid "Réunion"
-msgstr ""
+msgstr "La Réunion"
 
 #: src/translations.h:473
 msgid "Romania"
-msgstr ""
+msgstr "an Rómáin"
 
 #: src/translations.h:474
 msgid "Serbia"
-msgstr ""
+msgstr "an tSeirbia"
 
 #: src/translations.h:475
 msgid "Russian Federation"
-msgstr ""
+msgstr "Cónaidhm na Rúise"
 
 #: src/translations.h:476
 msgid "Rwanda"
-msgstr ""
+msgstr "Ruaindis"
 
 #: src/translations.h:477
 msgid "Saudi Arabia"
-msgstr ""
+msgstr "an Araib Shádach"
 
 #: src/translations.h:478
 msgid "Solomon Islands"
-msgstr ""
+msgstr "Oileáin Sholaimh"
 
 #: src/translations.h:479
 msgid "Seychelles"
-msgstr ""
+msgstr "na Séiséil"
 
 #: src/translations.h:480
 msgid "Sudan"
-msgstr ""
+msgstr "an tSúdáin"
 
 #: src/translations.h:481
 msgid "Sweden"
-msgstr ""
+msgstr "an tSualainn"
 
 #: src/translations.h:482
 msgid "Singapore"
-msgstr ""
+msgstr "Singeapór"
 
 #: src/translations.h:483
-#, fuzzy
 msgid "Saint Helena"
-msgstr "Saint Lucia"
+msgstr "San Héilin"
 
 #: src/translations.h:484
 msgid "Slovenia"
-msgstr ""
+msgstr "an tSlóivéin"
 
 #: src/translations.h:485
 msgid "Svalbard and Jan Mayen"
-msgstr ""
+msgstr "Svalbard agus Jan Mayen"
 
 #: src/translations.h:486
 msgid "Slovakia"
-msgstr ""
+msgstr "an tSlóvaic"
 
 #: src/translations.h:487
 msgid "Sierra Leone"
-msgstr ""
+msgstr "Siarra Leon"
 
 #: src/translations.h:488
 msgid "San Marino"
-msgstr ""
+msgstr "San Mairíne"
 
 #: src/translations.h:489
 msgid "Senegal"
-msgstr ""
+msgstr "an tSeineagáil"
 
 #: src/translations.h:490
 msgid "Somalia"
-msgstr ""
+msgstr "an tSomáil"
 
 #: src/translations.h:491
 msgid "Suriname"
-msgstr ""
+msgstr "Suranam"
 
 #: src/translations.h:492
 msgid "Sao Tome and Principe"
-msgstr ""
+msgstr "São Tomé and Príncipe"
 
 #: src/translations.h:493
 msgid "El Salvador"
-msgstr ""
+msgstr "an tSalvadóir"
 
 #: src/translations.h:494
-#, fuzzy
 msgid "Syrian Arab Republic"
-msgstr "Poblacht na hAfraice Láir"
+msgstr "Poblacht Arabach na Siria"
 
 #: src/translations.h:495
 msgid "Swaziland"
-msgstr ""
+msgstr "an tSuasalainn"
 
 #: src/translations.h:496
-#, fuzzy
 msgid "Turks and Caicos Islands"
-msgstr "Oileáin na gCócónna"
+msgstr "Oileáin na dTurcach agus Caicos"
 
 #: src/translations.h:497
 msgid "Chad"
-msgstr ""
+msgstr "Sead"
 
 #: src/translations.h:498
 msgid "French Southern Territories"
-msgstr ""
+msgstr "Críocha Francacha Dheisceart an Domhain"
 
 #: src/translations.h:499
 msgid "Togo"
-msgstr ""
+msgstr "Tóga"
 
 #: src/translations.h:500
 msgid "Thailand"
-msgstr ""
+msgstr "an Téalainn"
 
 #: src/translations.h:501
 msgid "Tajikistan"
-msgstr ""
+msgstr "an Táidsíceastáin"
 
 #: src/translations.h:502
 msgid "Tokelau"
-msgstr ""
+msgstr "Tócaláis"
 
 #: src/translations.h:503
 msgid "East Timor"
-msgstr ""
+msgstr "Tíomór Thoir"
 
 #: src/translations.h:504
 msgid "Turkmenistan"
-msgstr ""
+msgstr "an Tuircméanastáin"
 
 #: src/translations.h:505
 msgid "Tunisia"
-msgstr ""
+msgstr "an Túinéis"
 
 #: src/translations.h:506
 msgid "Tonga"
-msgstr ""
+msgstr "Tonga"
 
 #: src/translations.h:507
 msgid "Turkey"
-msgstr ""
+msgstr "an Tuirc"
 
 #: src/translations.h:508
 msgid "Trinidad and Tobago"
-msgstr ""
+msgstr "Oileán na Tríonóide agus Tobága"
 
 #: src/translations.h:509
 msgid "Tuvalu"
-msgstr ""
+msgstr "Túvalú"
 
 #: src/translations.h:510
 msgid "Taiwan"
-msgstr ""
+msgstr "an Téaváin"
 
 #: src/translations.h:511
 msgid "Tanzania"
-msgstr ""
+msgstr "an Tansáin"
 
 #: src/translations.h:512
 msgid "Ukraine"
-msgstr ""
+msgstr "an Úcráin"
 
 #: src/translations.h:513
 msgid "Uganda"
-msgstr ""
+msgstr "Uganda"
 
 #: src/translations.h:514
 msgid "United States Minor Outlying Islands"
-msgstr ""
+msgstr "Oileáin Mhiona Eachtartha na Stát Aontaithe"
 
 #: src/translations.h:515
 msgid "United States"
-msgstr ""
+msgstr "na Stáit Aontaithe"
 
 #: src/translations.h:516
 msgid "Uruguay"
-msgstr ""
+msgstr "Uragua"
 
 #: src/translations.h:517
 msgid "Uzbekistan"
-msgstr ""
+msgstr "an Úisbéiceastáin"
 
 #: src/translations.h:518
 msgid "Vatican City State"
-msgstr ""
+msgstr "Stát Chathair na Vatacáine"
 
 #: src/translations.h:519
-#, fuzzy
 msgid "Saint Vincent and the Grenadines"
-msgstr "Saint Kitts agus Nevis"
+msgstr "San Uinseann agus na Greanáidíní"
 
 #: src/translations.h:520
 msgid "Venezuela"
-msgstr ""
+msgstr "Veiniséala"
 
 #: src/translations.h:521
-#, fuzzy
 msgid "British Virgin Islands"
-msgstr "Oileáin Mariana Thuaidh"
+msgstr "Oileáin Bhriotanacha na Maighdean"
 
 #: src/translations.h:522
 msgid "United States Virgin Islands"
-msgstr ""
+msgstr "Oileáin Mhaighdean na Stát Aontaithe"
 
 #: src/translations.h:523
-#, fuzzy
 msgid "Viet Nam"
-msgstr "Ainmneacha na bpláinéad"
+msgstr "Vítneam"
 
 #: src/translations.h:524
 msgid "Vanuatu"
-msgstr ""
+msgstr "Vanuatú"
 
 #: src/translations.h:525
 msgid "Wallis and Futuna"
-msgstr ""
+msgstr "Wallis agus Futuna"
 
 #: src/translations.h:526
 msgid "Samoa"
-msgstr ""
+msgstr "Samó"
 
 #: src/translations.h:527
 msgid "Yemen"
-msgstr ""
+msgstr "Éimin"
 
 #: src/translations.h:528
 msgid "Mayotte"
-msgstr ""
+msgstr "Mayotte"
 
 #: src/translations.h:529
 msgid "Yugoslavia"
-msgstr ""
+msgstr "an Iúgslaiv"
 
 #: src/translations.h:530
 msgid "South Africa"
-msgstr ""
+msgstr "an Afraic Theas"
 
 #: src/translations.h:531
 msgid "Zambia"
-msgstr ""
+msgstr "an tSaimbia"
 
 #: src/translations.h:532
 msgid "Zimbabwe"
-msgstr ""
+msgstr "an tSiombáib"
 
 #: qml/AboutDialog.qml:24 qml/SettingsPanel.qml:63
 msgid "About"
-msgstr ""
+msgstr "Faoi"
 
 #: qml/InfoPanel.qml:125
 msgid "Unnamed"
-msgstr ""
+msgstr "Gan ainm"
 
 #: qml/LandscapesDialog.qml:5 qml/SettingsPanel.qml:47
 msgid "Landscape"
-msgstr ""
+msgstr "Tírdhreach"
 
 #: qml/LocationCityPicker.qml:25
 msgid "Pick City"
-msgstr ""
+msgstr "Pioc Cathair"
 
 #: qml/LocationCityPicker.qml:25
 msgid "Pick Country"
-msgstr ""
+msgstr "Pioc Tír"
 
 #: qml/LocationDialog.qml:25 qml/SettingsPanel.qml:51
 msgid "Location"
-msgstr "Áit"
+msgstr "Suíomh"
 
 #: qml/LocationDialog.qml:37
 msgid "Use GPS"
-msgstr ""
+msgstr "Úsáid GPS"
 
 #: qml/LocationDialog.qml:37
 msgid " (searching)"
-msgstr ""
+msgstr " (ag cuardaigh)"
 
 #: qml/LocationDialog.qml:72
 msgid "Name/City:"
-msgstr ""
+msgstr "Áit:"
 
 #: qml/main.qml:75
 msgid "It is daytime, fast forward time until…"
@@ -2546,11 +2536,11 @@ msgstr ""
 
 #: qml/main.qml:261
 msgid "GPS…"
-msgstr ""
+msgstr "GPS…"
 
 #: qml/main.qml:263
 msgid "GPS"
-msgstr ""
+msgstr "GPS"
 
 #: qml/main.qml:334
 msgid "Drag sky to move in time"
@@ -2570,17 +2560,16 @@ msgid "Advanced"
 msgstr ""
 
 #: qml/StelDialog.qml:24
-#, fuzzy
 msgid "Stellarium"
-msgstr "Cabhair Stellarium"
+msgstr "Stellarium"
 
 #: qml/TimeBar.qml:34
 msgid "Real time"
-msgstr ""
+msgstr "Fíor-am"
 
 #: qml/TimeBar.qml:36
 msgid "Stopped"
-msgstr ""
+msgstr "Stoptha"
 
 #: qml/TimeDialog.qml:31
 msgid "Advance to night at startup"
@@ -2605,9 +2594,8 @@ msgid "Light pollution"
 msgstr ""
 
 #: qml/AdvancedDialog.qml:87 qml/AdvancedDialog.qml:92
-#, fuzzy
 msgid "Milky Way brightness"
-msgstr "Déine an Bhealaigh na Bó Finne "
+msgstr "Déine an Bhealaigh na Bó Finne"
 
 #: qml/AdvancedDialog.qml:104 qml/AdvancedDialog.qml:109
 msgid "Thickness of lines"
@@ -2619,11 +2607,11 @@ msgstr ""
 
 #: qml/AnglePicker.qml:24
 msgid "Latitude"
-msgstr ""
+msgstr "Domhanleithead"
 
 #: qml/AnglePicker.qml:24
 msgid "Longitude"
-msgstr ""
+msgstr "Domhanfhad"
 
 #~ msgid "Select single constellation"
 #~ msgstr "Roghnaigh réaltbhuíon amháin"

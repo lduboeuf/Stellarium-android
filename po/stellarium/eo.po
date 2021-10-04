@@ -6,17 +6,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2016-07-17 20:37+0000\n"
-"Last-Translator: Alexander Wolf <Unknown>\n"
-"Language-Team: Esperanto <eo@li.org>\n"
+"PO-Revision-Date: 2021-03-06 15:50+0000\n"
+"Last-Translator: phlostically <phlostically@mailinator.com>\n"
+"Language-Team: Esperanto <https://hosted.weblate.org/projects/"
+"stellarium-mobile/app/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.5.1\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:26+0000\n"
-"X-Generator: Launchpad (build 18269)\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
 #: src/core/modules/GridLinesMgr.cpp:674 src/core/modules/LandscapeMgr.cpp:313
@@ -32,15 +34,15 @@ msgstr "Montru konstelaciajn liniojn"
 
 #: src/core/modules/ConstellationMgr.cpp:112
 msgid "Constellation art"
-msgstr ""
+msgstr "Konstelacia arto"
 
 #: src/core/modules/ConstellationMgr.cpp:113
 msgid "Constellation labels"
-msgstr ""
+msgstr "Konstelaciaj etikedoj"
 
 #: src/core/modules/ConstellationMgr.cpp:114 qml/AdvancedDialog.qml:66
 msgid "Constellation boundaries"
-msgstr ""
+msgstr "Konstelaciaj limoj"
 
 #: src/core/modules/StarMgr.cpp:329
 msgid "Stars"
@@ -48,7 +50,7 @@ msgstr "Steloj"
 
 #: src/core/modules/StarMgr.cpp:330
 msgid "Stars labels"
-msgstr ""
+msgstr "Stelaj etikedoj"
 
 #: src/core/modules/GridLinesMgr.cpp:525
 msgid "Meridian"
@@ -68,7 +70,7 @@ msgstr "Horizonto"
 
 #: src/core/modules/GridLinesMgr.cpp:541
 msgid "Galactic Plane"
-msgstr ""
+msgstr "Galaksia Ebeno"
 
 #: src/core/modules/GridLinesMgr.cpp:675
 msgid "Equatorial grid"
@@ -92,7 +94,7 @@ msgstr "Meridiana linio"
 
 #: src/core/modules/GridLinesMgr.cpp:680
 msgid "Horizon line"
-msgstr ""
+msgstr "Horizonta linio"
 
 #: src/core/modules/GridLinesMgr.cpp:681
 msgid "Equatorial J2000 grid"
@@ -100,15 +102,15 @@ msgstr "Ekvatora J2000 Krado"
 
 #: src/core/modules/GridLinesMgr.cpp:682
 msgid "Ecliptic J2000 grid"
-msgstr ""
+msgstr "Ekliptika krado J2000"
 
 #: src/core/modules/GridLinesMgr.cpp:683
 msgid "Galactic grid"
-msgstr ""
+msgstr "Galaksia krado"
 
 #: src/core/modules/GridLinesMgr.cpp:684
 msgid "Galactic plane"
-msgstr ""
+msgstr "Galaksia ebeno"
 
 #: src/core/modules/LandscapeMgr.cpp:314
 msgid "Atmosphere"
@@ -120,7 +122,7 @@ msgstr "Nebulo"
 
 #: src/core/modules/LandscapeMgr.cpp:316
 msgid "Cardinal points"
-msgstr ""
+msgstr "Ĉefpunktoj"
 
 #: src/core/modules/LandscapeMgr.cpp:317
 msgid "Ground"
@@ -191,9 +193,8 @@ msgid "Planetary nebula"
 msgstr "Planeda nebulozo"
 
 #: src/core/modules/Nebula.cpp:357
-#, fuzzy
 msgid "Dark Nebula"
-msgstr "Nebulozo"
+msgstr "Malhela Nebulozo"
 
 #: src/core/modules/Nebula.cpp:360
 msgid "Cluster associated with nebulosity"
@@ -209,7 +210,7 @@ msgstr "nekonata tipo"
 
 #: src/core/modules/NebulaMgr.cpp:123
 msgid "Deep-sky objects"
-msgstr ""
+msgstr "Profund-ĉielaj objektoj"
 
 #: src/core/modules/Planet.cpp:136 src/core/modules/MinorPlanet.cpp:232
 #: src/core/modules/MinorPlanet.cpp:236 src/core/modules/Comet.cpp:141
@@ -232,7 +233,7 @@ msgstr ""
 #: src/core/modules/Comet.cpp:153
 #, no-c-format, qt-format
 msgid "Distance: %1AU (%2 km)"
-msgstr ""
+msgstr "Distanco: %1 AU (%2 km)"
 
 #: src/core/modules/Planet.cpp:167 src/core/modules/MinorPlanet.cpp:256
 #: src/core/modules/Comet.cpp:160
@@ -243,7 +244,7 @@ msgstr "Distanco %1AU"
 #: src/core/modules/Planet.cpp:178
 #, qt-format
 msgid "Apparent diameter: %1, with rings: %2"
-msgstr ""
+msgstr "Ŝajna diametro: %1, kun ringoj: %2"
 
 #: src/core/modules/Planet.cpp:184 src/core/modules/MinorPlanet.cpp:262
 #, qt-format
@@ -255,22 +256,22 @@ msgstr "Ŝajna diametro: %1"
 #: src/core/modules/Comet.cpp:175
 #, qt-format
 msgid "Sidereal period: %1 days (%2 a)"
-msgstr ""
+msgstr "Sidera periodo: %1 tagoj (%2 juliaj jaroj)"
 
 #: src/core/modules/Planet.cpp:199
 #, qt-format
 msgid "Sidereal day: %1"
-msgstr ""
+msgstr "Sidera tago: %1"
 
 #: src/core/modules/Planet.cpp:200
 #, qt-format
 msgid "Mean solar day: %1"
-msgstr ""
+msgstr "Mezuma suna tago: %1"
 
 #: src/core/modules/Planet.cpp:206
 #, qt-format
 msgid "Phase Angle: %1"
-msgstr ""
+msgstr "Fazangulo: %1"
 
 #: src/core/modules/Planet.cpp:207
 #, qt-format
@@ -280,7 +281,7 @@ msgstr ""
 #: src/core/modules/Planet.cpp:208
 #, qt-format
 msgid "Phase: %1"
-msgstr ""
+msgstr "Fazo: %1"
 
 #: src/core/modules/Planet.cpp:209
 #, qt-format
@@ -290,7 +291,7 @@ msgstr ""
 #: src/core/modules/MinorPlanet.cpp:205
 #, qt-format
 msgid "Provisional designation: %1"
-msgstr ""
+msgstr "Provizora nomo: %1"
 
 #: src/core/modules/SolarSystem.cpp:151
 msgid "Planet labels"
@@ -306,7 +307,7 @@ msgstr ""
 
 #: src/core/modules/SolarSystem.cpp:154
 msgid "Planet markers"
-msgstr ""
+msgstr "Planedaj markiloj"
 
 #. TRANSLATORS: Type of object
 #: src/core/modules/StarWrapper.cpp:50 src/core/modules/StarWrapper.cpp:162
@@ -317,27 +318,27 @@ msgstr "stelo"
 #: src/core/modules/StarWrapper.cpp:64 src/core/modules/StarWrapper.cpp:190
 #, qt-format
 msgid "Color Index (B-V): <b>%2</b>"
-msgstr ""
+msgstr "Kolorindico (B-V): <b>%2</b>"
 
 #: src/core/modules/StarWrapper.cpp:143
 msgid "eruptive variable star"
-msgstr ""
+msgstr "erupcia varia stelo"
 
 #: src/core/modules/StarWrapper.cpp:145
 msgid "pulsating variable star"
-msgstr ""
+msgstr "pulsanta varia stelo"
 
 #: src/core/modules/StarWrapper.cpp:147
 msgid "rotating variable star"
-msgstr ""
+msgstr "rotacianta varia stelo"
 
 #: src/core/modules/StarWrapper.cpp:149
 msgid "cataclysmic variable star"
-msgstr ""
+msgstr "kataklisma varia stelo"
 
 #: src/core/modules/StarWrapper.cpp:152
 msgid "eclipsing binary system"
-msgstr ""
+msgstr "eklipsanta duopa sistemo"
 
 #: src/core/modules/StarWrapper.cpp:156
 msgid "variable star"
@@ -350,7 +351,7 @@ msgstr "duopa stelo"
 #: src/core/modules/StarWrapper.cpp:167
 #, qt-format
 msgid "Type: <b>%1, %2</b>"
-msgstr ""
+msgstr "Tipo: <b>%1, %2</b>"
 
 #: src/core/modules/StarWrapper.cpp:206
 #, qt-format
@@ -380,32 +381,32 @@ msgstr "Paralakso: %1\""
 #: src/core/modules/StarWrapper.cpp:229
 #, qt-format
 msgid "Epoch for minimum light: %1 JD"
-msgstr ""
+msgstr "Epoko de minimuma helo: %1 JD"
 
 #: src/core/modules/StarWrapper.cpp:231
 #, qt-format
 msgid "Epoch for maximum light: %1 JD"
-msgstr ""
+msgstr "Epoko de maksimuma helo: %1 JD"
 
 #: src/core/modules/StarWrapper.cpp:235
 #, qt-format
 msgid "Period: %1 days"
-msgstr ""
+msgstr "Periodo: %1 tagoj"
 
 #: src/core/modules/StarWrapper.cpp:245
 #, qt-format
 msgid "Next minimum light: %1 UTC"
-msgstr ""
+msgstr "Sekva minimuma helo: %1 UTK"
 
 #: src/core/modules/StarWrapper.cpp:247
 #, qt-format
 msgid "Next maximum light: %1 UTC"
-msgstr ""
+msgstr "Sekva maksimuma helo: %1 UTK"
 
 #: src/core/modules/StarWrapper.cpp:253
 #, qt-format
 msgid "Duration of eclipse: %1%"
-msgstr ""
+msgstr "Daŭro de eklipso: %1%"
 
 #: src/core/modules/StarWrapper.cpp:255
 #, qt-format
@@ -414,7 +415,7 @@ msgstr ""
 
 #: src/core/StelApp.cpp:466
 msgid "Night mode"
-msgstr "Nokta moduso"
+msgstr "Nokta reĝimo"
 
 #. TRANSLATORS: "Planet name" displayed when "flying" to another planet with Ctrl+G.
 #: src/core/StelObserver.cpp:282
@@ -431,19 +432,19 @@ msgstr ""
 
 #: src/core/StelCore.cpp:165
 msgid "Increase time speed"
-msgstr ""
+msgstr "Plirapidigi tempon"
 
 #: src/core/StelCore.cpp:166
 msgid "Decrease time speed"
-msgstr ""
+msgstr "Malplirapidigi tempon"
 
 #: src/core/StelCore.cpp:167
 msgid "Increase time speed (a little)"
-msgstr ""
+msgstr "Plirapidigi tempon (iomete)"
 
 #: src/core/StelCore.cpp:168
 msgid "Decrease time speed (a little)"
-msgstr ""
+msgstr "Malplirapidigi tempon (iomete)"
 
 #: src/core/StelCore.cpp:169
 msgid "Set normal time rate"
@@ -459,123 +460,123 @@ msgstr ""
 
 #: src/core/StelCore.cpp:172
 msgid "Add 1 solar hour"
-msgstr ""
+msgstr "Aldoni 1 sunan horon"
 
 #: src/core/StelCore.cpp:173
 msgid "Add 1 solar day"
-msgstr ""
+msgstr "Aldoni 1 sunan tagon"
 
 #: src/core/StelCore.cpp:174
 msgid "Add 1 solar week"
-msgstr ""
+msgstr "Aldoni 1 sunan semajnon"
 
 #: src/core/StelCore.cpp:175
 msgid "Subtract 1 solar hour"
-msgstr ""
+msgstr "Subtrahi 1 sunan horon"
 
 #: src/core/StelCore.cpp:176
 msgid "Subtract 1 solar day"
-msgstr ""
+msgstr "Subtrahi 1 sunan tagon"
 
 #: src/core/StelCore.cpp:177
 msgid "Subtract 1 solar week"
-msgstr ""
+msgstr "Subtrahi 1 sunan semajnon"
 
 #: src/core/StelCore.cpp:178
 msgid "Add 1 sidereal day"
-msgstr ""
+msgstr "Aldoni 1 sideran tagon"
 
 #: src/core/StelCore.cpp:179
 msgid "Add 1 sidereal week"
-msgstr ""
+msgstr "Aldoni 1 sideran semajnon"
 
 #: src/core/StelCore.cpp:180
 msgid "Add 1 sidereal month"
-msgstr ""
+msgstr "Aldoni 1 sideran monaton"
 
 #: src/core/StelCore.cpp:181
 msgid "Add 1 sidereal year"
-msgstr ""
+msgstr "Aldoni 1 sideran jaron"
 
 #: src/core/StelCore.cpp:182
 msgid "Add 1 sidereal century"
-msgstr ""
+msgstr "Aldoni 1 sideran jarcenton"
 
 #: src/core/StelCore.cpp:183
 msgid "Add 1 synodic month"
-msgstr ""
+msgstr "Aldoni 1 sinodikan monaton"
 
 #: src/core/StelCore.cpp:184
 msgid "Add 1 draconic month"
-msgstr ""
+msgstr "Aldoni 1 drakonan monaton"
 
 #: src/core/StelCore.cpp:185
 msgid "Add 1 draconic year"
-msgstr ""
+msgstr "Aldoni 1 drakonan jaron"
 
 #: src/core/StelCore.cpp:186
 msgid "Add 1 anomalistic month"
-msgstr ""
+msgstr "Aldoni 1 anomalian monaton"
 
 #: src/core/StelCore.cpp:187
 msgid "Add 1 mean tropical month"
-msgstr ""
+msgstr "Aldoni 1 mezuman tropikan monaton"
 
 #: src/core/StelCore.cpp:188
 msgid "Add 1 mean tropical year"
-msgstr ""
+msgstr "Aldoni 1 mezuman tropikan jaron"
 
 #: src/core/StelCore.cpp:189
 msgid "Add 1 mean tropical century"
-msgstr ""
+msgstr "Aldoni 1 mezuman tropikan jarcenton"
 
 #: src/core/StelCore.cpp:190
 msgid "Subtract 1 sidereal day"
-msgstr ""
+msgstr "Subtrahi 1 sideran tagon"
 
 #: src/core/StelCore.cpp:191
 msgid "Subtract 1 sidereal week"
-msgstr ""
+msgstr "Subtrahi 1 sideran semajnon"
 
 #: src/core/StelCore.cpp:192
 msgid "Subtract 1 sidereal month"
-msgstr ""
+msgstr "Subtrahi 1 sideran monaton"
 
 #: src/core/StelCore.cpp:193
 msgid "Subtract 1 sidereal year"
-msgstr ""
+msgstr "Subtrahi 1 sideran jaron"
 
 #: src/core/StelCore.cpp:194
 msgid "Subtract 1 sidereal century"
-msgstr ""
+msgstr "Subtrahi 1 sideran jarcenton"
 
 #: src/core/StelCore.cpp:195
 msgid "Subtract 1 synodic month"
-msgstr ""
+msgstr "Subtrahi 1 sinodikan monaton"
 
 #: src/core/StelCore.cpp:196
 msgid "Subtract 1 draconic month"
-msgstr ""
+msgstr "Subtrahi 1 drakonan monaton"
 
 #: src/core/StelCore.cpp:197
 msgid "Subtract 1 draconic year"
-msgstr ""
+msgstr "Subtrahi 1 drakonan jaron"
 
 #: src/core/StelCore.cpp:198
 msgid "Subtract 1 anomalistic month"
-msgstr ""
+msgstr "Subtrahi 1 anomalian monaton"
 
 #: src/core/StelCore.cpp:199
 msgid "Subtract 1 mean tropical month"
-msgstr ""
+msgstr "Subtrahi 1 mezuman tropikan monaton"
 
 #: src/core/StelCore.cpp:200
 msgid "Subtract 1 mean tropical year"
-msgstr ""
+msgstr "Subtrahi 1 mezuman tropikan jaron"
 
 #: src/core/StelCore.cpp:201
 msgid "Subtract 1 mean tropical century"
-msgstr ""
+msgstr "Subtrahi 1 mezuman tropikan jarcenton"
 
 #: src/core/StelCore.cpp:203
 msgid "Set home planet to selected planet"
@@ -599,7 +600,7 @@ msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:25
 msgid "Perspective"
-msgstr "Perspektivo"
+msgstr "Perspektiva"
 
 #: src/core/StelProjectorClasses.cpp:30
 msgid ""
@@ -609,7 +610,7 @@ msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:63
 msgid "Equal Area"
-msgstr "Egala Areo"
+msgstr "Egalarea"
 
 #: src/core/StelProjectorClasses.cpp:68
 msgid ""
@@ -642,7 +643,7 @@ msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:182
 msgid "Hammer-Aitoff"
-msgstr ""
+msgstr "Hammer-Aitoff"
 
 #: src/core/StelProjectorClasses.cpp:187
 msgid ""
@@ -652,7 +653,7 @@ msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:223
 msgid "Cylinder"
-msgstr "Cilindro"
+msgstr "Cilindra"
 
 #: src/core/StelProjectorClasses.cpp:228
 msgid ""
@@ -662,7 +663,7 @@ msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:270
 msgid "Mercator"
-msgstr "Mercator"
+msgstr "Merkatora"
 
 #: src/core/StelProjectorClasses.cpp:275
 msgid ""
@@ -703,7 +704,7 @@ msgstr "Hora angular/  :%1%2"
 
 #: src/core/StelObject.cpp:138 src/core/StelObject.cpp:160
 msgid "(apparent)"
-msgstr ""
+msgstr "(ŝajne)"
 
 #: src/core/StelObject.cpp:160 src/core/StelObject.cpp:164
 #, qt-format
@@ -752,15 +753,15 @@ msgstr ""
 
 #: src/core/SimbadSearcher.cpp:133
 msgid "Error"
-msgstr ""
+msgstr "Eraro"
 
 #: src/core/SimbadSearcher.cpp:135
 msgid "Not found"
-msgstr ""
+msgstr "Ne trovite"
 
 #: src/core/SimbadSearcher.cpp:135
 msgid "Found"
-msgstr ""
+msgstr "Trovite"
 
 #: src/main.cpp:320
 msgid "This system does not support OpenGL."
@@ -777,7 +778,7 @@ msgstr "Tutekrana moduso"
 #: src/StelMainView.cpp:356
 #, qt-format
 msgid "Stellarium %1"
-msgstr ""
+msgstr "Stellarium %1"
 
 #: src/translations.h:33
 msgid "Sun"
@@ -815,19 +816,19 @@ msgstr "Fobo"
 
 #: src/translations.h:41
 msgid "Ceres"
-msgstr ""
+msgstr "Cereso"
 
 #: src/translations.h:42
 msgid "Pallas"
-msgstr ""
+msgstr "Palaso"
 
 #: src/translations.h:43
 msgid "Juno"
-msgstr ""
+msgstr "Junono"
 
 #: src/translations.h:44
 msgid "Vesta"
-msgstr ""
+msgstr "Vesto"
 
 #: src/translations.h:45
 msgid "Jupiter"
@@ -835,7 +836,7 @@ msgstr "Jupitero"
 
 #: src/translations.h:46
 msgid "Io"
-msgstr "Ioo"
+msgstr "Iono"
 
 #: src/translations.h:47
 msgid "Europa"
@@ -847,7 +848,7 @@ msgstr "Ganimedo"
 
 #: src/translations.h:49
 msgid "Callisto"
-msgstr "Kalistoo"
+msgstr "Kalisto"
 
 #: src/translations.h:50
 msgid "Amalthea"
@@ -887,7 +888,7 @@ msgstr ""
 
 #: src/translations.h:59
 msgid "Thebe"
-msgstr ""
+msgstr "Tebo"
 
 #: src/translations.h:60
 msgid "Adrastea"
@@ -925,7 +926,7 @@ msgstr ""
 
 #: src/translations.h:68
 msgid "Titan"
-msgstr ""
+msgstr "Titano"
 
 #: src/translations.h:69
 msgid "Hyperion"
@@ -937,7 +938,7 @@ msgstr ""
 
 #: src/translations.h:71
 msgid "Phoebe"
-msgstr ""
+msgstr "Feba"
 
 #: src/translations.h:72
 msgid "Neptune"
@@ -961,7 +962,7 @@ msgstr ""
 
 #: src/translations.h:77
 msgid "Titania"
-msgstr ""
+msgstr "Titania"
 
 #: src/translations.h:78
 msgid "Oberon"
@@ -969,21 +970,21 @@ msgstr ""
 
 #: src/translations.h:79
 msgid "Pluto"
-msgstr ""
+msgstr "Plutono"
 
 #: src/translations.h:80
 msgid "Charon"
-msgstr ""
+msgstr "Karono"
 
 #. TRANSLATORS: Moon of Pluto (II)
 #: src/translations.h:82
 msgid "Nix"
-msgstr ""
+msgstr "Nikso"
 
 #. TRANSLATORS: Moon of Pluto (III)
 #: src/translations.h:84
 msgid "Hydra (moon)"
-msgstr ""
+msgstr "Hidro (satelito)"
 
 #: src/translations.h:85
 msgid "Eris"
@@ -991,15 +992,15 @@ msgstr ""
 
 #: src/translations.h:86
 msgid "Triton"
-msgstr ""
+msgstr "Tritono"
 
 #: src/translations.h:87
 msgid "Nereid"
-msgstr ""
+msgstr "Nereido"
 
 #: src/translations.h:88
 msgid "Naiad"
-msgstr ""
+msgstr "Najado"
 
 #: src/translations.h:89
 msgid "Thalassa"
@@ -1010,9 +1011,8 @@ msgid "Despina"
 msgstr ""
 
 #: src/translations.h:91
-#, fuzzy
 msgid "Galatea"
-msgstr "Galaksio"
+msgstr "Galateo"
 
 #: src/translations.h:92
 msgid "Larissa"
@@ -1020,7 +1020,7 @@ msgstr ""
 
 #: src/translations.h:93
 msgid "Proteus"
-msgstr ""
+msgstr "Proteo"
 
 #: src/translations.h:94
 #, fuzzy
@@ -1044,9 +1044,8 @@ msgid "Neso"
 msgstr ""
 
 #: src/translations.h:99
-#, fuzzy
 msgid "Solar System Observer"
-msgstr "Korpo  de la Sunsistemo: "
+msgstr "Sunsistema Observanto"
 
 #. TRANSLATORS: TNO/Asteroid (90377) Sedna
 #: src/translations.h:102
@@ -1061,7 +1060,7 @@ msgstr ""
 #. TRANSLATORS: TNO/Asteroid (90482) Orcus
 #: src/translations.h:106
 msgid "Orcus"
-msgstr ""
+msgstr "Orko"
 
 #. TRANSLATORS: TNO/Asteroid (136108) Haumea
 #: src/translations.h:108
@@ -1071,7 +1070,7 @@ msgstr ""
 #. TRANSLATORS: Asteroid (5) Astraea
 #: src/translations.h:111
 msgid "Astraea"
-msgstr ""
+msgstr "Astreo"
 
 #. TRANSLATORS: Asteroid (6) Hebe
 #: src/translations.h:113
@@ -1081,12 +1080,12 @@ msgstr ""
 #. TRANSLATORS: Asteroid (7) Iris
 #: src/translations.h:115
 msgid "Iris"
-msgstr ""
+msgstr "Iriso"
 
 #. TRANSLATORS: Asteroid (8) Flora
 #: src/translations.h:117
 msgid "Flora"
-msgstr ""
+msgstr "Floro"
 
 #. TRANSLATORS: Asteroid (10) Hygiea
 #: src/translations.h:121
@@ -1101,7 +1100,7 @@ msgstr ""
 #. TRANSLATORS: Asteroid (1221) Amor
 #: src/translations.h:125
 msgid "Amor"
-msgstr ""
+msgstr "Amoro"
 
 #. TRANSLATORS: Asteroid (99942) Apophis
 #: src/translations.h:127
@@ -1111,17 +1110,17 @@ msgstr ""
 #. TRANSLATORS: Asteroid (2060) Chiron
 #: src/translations.h:129
 msgid "Chiron"
-msgstr ""
+msgstr "Kirono"
 
 #. TRANSLATORS: Asteroid (433) Eros
 #: src/translations.h:131
 msgid "Eros"
-msgstr ""
+msgstr "Eroso"
 
 #. TRANSLATORS: Asteroid (624) Hektor
 #: src/translations.h:133
 msgid "Hektor"
-msgstr ""
+msgstr "Hektoro"
 
 #. TRANSLATORS: Asteroid (20000) Varuna
 #: src/translations.h:135
@@ -1136,86 +1135,86 @@ msgstr ""
 #. TRANSLATORS: Proper name of comet C/1680 V1
 #: src/translations.h:140
 msgid "Great Comet of 1680 (C/1680 V1)"
-msgstr ""
+msgstr "Granda Kometo de 1680 (C/1680 V1)"
 
 #. TRANSLATORS: Name of supernova SN 1572A and script name
 #: src/translations.h:143
 msgid "Tycho's Supernova"
-msgstr ""
+msgstr "Supernovao de Tycho"
 
 #. TRANSLATORS: Name of supernova SN 1604A
 #: src/translations.h:145
 msgid "Kepler's Supernova"
-msgstr ""
+msgstr "Supernovao de Keplero"
 
 #: src/translations.h:148
 msgid "N"
-msgstr ""
+msgstr "N"
 
 #: src/translations.h:149
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: src/translations.h:150
 msgid "E"
-msgstr ""
+msgstr "E"
 
 #: src/translations.h:151
 msgid "W"
-msgstr ""
+msgstr "U"
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:158
 msgid "planet"
-msgstr ""
+msgstr "planedo"
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:160
 msgid "comet"
-msgstr ""
+msgstr "kometo"
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:162
 msgid "asteroid"
-msgstr ""
+msgstr "planedeto"
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:164
 msgid "moon"
-msgstr ""
+msgstr "satelito"
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:166
 msgid "plutoid"
-msgstr ""
+msgstr "plutonoido"
 
 #: src/translations.h:170
 msgid "Arabic"
-msgstr ""
+msgstr "Araba"
 
 #: src/translations.h:171
 msgid "Aztec"
-msgstr ""
+msgstr "Azteka"
 
 #: src/translations.h:172
 msgid "Chinese"
-msgstr ""
+msgstr "Ĉina"
 
 #: src/translations.h:173
 msgid "Egyptian"
-msgstr ""
+msgstr "Egipta"
 
 #: src/translations.h:174
 msgid "Inuit"
-msgstr ""
+msgstr "Inuita"
 
 #: src/translations.h:175
 msgid "Indian Vedic"
-msgstr ""
+msgstr "Hinda Veda"
 
 #: src/translations.h:176
 msgid "Korean"
-msgstr ""
+msgstr "Korea"
 
 #: src/translations.h:177
 msgid "Lakota"
@@ -1223,7 +1222,7 @@ msgstr ""
 
 #: src/translations.h:178
 msgid "Maori"
-msgstr ""
+msgstr "Maoria"
 
 #: src/translations.h:179
 msgid "Navajo"
@@ -1231,15 +1230,15 @@ msgstr ""
 
 #: src/translations.h:180
 msgid "Norse"
-msgstr ""
+msgstr "Nordia"
 
 #: src/translations.h:181
 msgid "Polynesian"
-msgstr ""
+msgstr "Polinezia"
 
 #: src/translations.h:182
 msgid "Sami"
-msgstr ""
+msgstr "Samea"
 
 #: src/translations.h:183
 msgid "Tupi-Guarani"
@@ -1247,36 +1246,36 @@ msgstr ""
 
 #: src/translations.h:184
 msgid "Tongan"
-msgstr ""
+msgstr "Tonga"
 
 #: src/translations.h:185
 msgid "Western"
-msgstr ""
+msgstr "Okcidenta"
 
 #. TRANSLATORS: Name of landscape
 #: src/translations.h:191
 msgid "Guereins"
-msgstr ""
+msgstr "Guéreins"
 
 #. TRANSLATORS: Name of landscape
 #: src/translations.h:193
 msgid "Trees"
-msgstr ""
+msgstr "Arboj"
 
 #. TRANSLATORS: Landscape name: Hurricane Ridge
 #: src/translations.h:197
 msgid "Hurricane"
-msgstr ""
+msgstr "Uragano"
 
 #. TRANSLATORS: Name of landscape
 #: src/translations.h:199
 msgid "Ocean"
-msgstr ""
+msgstr "Oceano"
 
 #. TRANSLATORS: Landscape name: Garching bei Munchen
 #: src/translations.h:201
 msgid "Garching"
-msgstr ""
+msgstr "Garching"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:211
@@ -1286,22 +1285,22 @@ msgstr ""
 #. TRANSLATORS: Name of script
 #: src/translations.h:213
 msgid "Partial Lunar Eclipse"
-msgstr ""
+msgstr "Parta Luna Eklipso"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:215
 msgid "Total Lunar Eclipse"
-msgstr ""
+msgstr "Plena Luna Eklipso"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:217
 msgid "Screensaver"
-msgstr ""
+msgstr "Ekrankurteno"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:219
 msgid "Solar Eclipse 2009"
-msgstr ""
+msgstr "Suna Eklipso 2009"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:221
@@ -1311,12 +1310,12 @@ msgstr ""
 #. TRANSLATORS: Name of script
 #: src/translations.h:223
 msgid "Zodiac"
-msgstr ""
+msgstr "Zodiako"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:225
 msgid "Mercury Triple Sunrise and Sunset"
-msgstr ""
+msgstr "Trioblaj Sunleviĝo kaj Sunsubiro de Merkuro"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:227
@@ -1346,7 +1345,7 @@ msgstr ""
 #. TRANSLATORS: Name of script
 #: src/translations.h:237
 msgid "Solar System Screensaver"
-msgstr ""
+msgstr "Sunsistema Ekrankurteno"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:239
@@ -1356,7 +1355,7 @@ msgstr ""
 #. TRANSLATORS: Name of script
 #: src/translations.h:241
 msgid "Sun from different planets"
-msgstr ""
+msgstr "Suno vidata de diversaj planedoj"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:243
@@ -1381,17 +1380,17 @@ msgstr ""
 #. TRANSLATORS: Name and description of script
 #: src/translations.h:251
 msgid "Earth Events from Mercury"
-msgstr ""
+msgstr "Teraj Eventoj Vidataj de Merkuro"
 
 #. TRANSLATORS: Name and description of script
 #: src/translations.h:253
 msgid "Earth Events from Venus"
-msgstr ""
+msgstr "Teraj Eventoj Vidataj de Venuso"
 
 #. TRANSLATORS: Name and description of script
 #: src/translations.h:255
 msgid "Earth Events from Mars"
-msgstr ""
+msgstr "Teraj Eventoj Vidataj de Marso"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:257
@@ -1588,7 +1587,7 @@ msgstr ""
 
 #: src/translations.h:308
 msgid "Bosnia and Herzegowina"
-msgstr ""
+msgstr "Bosnio-Hercegovino"
 
 #: src/translations.h:309
 msgid "Barbados"
@@ -1596,19 +1595,19 @@ msgstr ""
 
 #: src/translations.h:310
 msgid "Bangladesh"
-msgstr ""
+msgstr "Bangladeŝo"
 
 #: src/translations.h:311
 msgid "Belgium"
-msgstr ""
+msgstr "Belgio"
 
 #: src/translations.h:312
 msgid "Burkina Faso"
-msgstr ""
+msgstr "Burkino"
 
 #: src/translations.h:313
 msgid "Bulgaria"
-msgstr ""
+msgstr "Bulgario"
 
 #: src/translations.h:314
 msgid "Bahrain"
@@ -1636,7 +1635,7 @@ msgstr ""
 
 #: src/translations.h:320
 msgid "Brazil"
-msgstr ""
+msgstr "Brazilo"
 
 #: src/translations.h:321
 msgid "Bahamas"
@@ -1652,19 +1651,19 @@ msgstr ""
 
 #: src/translations.h:324
 msgid "Botswana"
-msgstr ""
+msgstr "Bocvano"
 
 #: src/translations.h:325
 msgid "Belarus"
-msgstr ""
+msgstr "Belorusio"
 
 #: src/translations.h:326
 msgid "Belize"
-msgstr ""
+msgstr "Belizo"
 
 #: src/translations.h:327
 msgid "Canada"
-msgstr ""
+msgstr "Kanado"
 
 #: src/translations.h:328
 msgid "Cocos Islands"
@@ -1696,19 +1695,19 @@ msgstr ""
 
 #: src/translations.h:335
 msgid "Chile"
-msgstr ""
+msgstr "Ĉilio"
 
 #: src/translations.h:336
 msgid "Cameroon"
-msgstr ""
+msgstr "Kamerunio"
 
 #: src/translations.h:337
 msgid "China"
-msgstr ""
+msgstr "Ĉinio"
 
 #: src/translations.h:338
 msgid "Colombia"
-msgstr ""
+msgstr "Kolombio"
 
 #: src/translations.h:339
 msgid "Costa Rica"
@@ -1716,11 +1715,11 @@ msgstr ""
 
 #: src/translations.h:340
 msgid "Serbia and Montenegro"
-msgstr ""
+msgstr "Serbio-Montenegro"
 
 #: src/translations.h:341
 msgid "Cuba"
-msgstr ""
+msgstr "Kubo"
 
 #: src/translations.h:342
 msgid "Cape Verde"
@@ -1732,15 +1731,15 @@ msgstr ""
 
 #: src/translations.h:344
 msgid "Cyprus"
-msgstr ""
+msgstr "Kipro"
 
 #: src/translations.h:345
 msgid "Czech Republic"
-msgstr ""
+msgstr "Ĉeĥio"
 
 #: src/translations.h:346
 msgid "Germany"
-msgstr ""
+msgstr "Germanio"
 
 #: src/translations.h:347
 msgid "Djibouti"
@@ -1760,19 +1759,19 @@ msgstr ""
 
 #: src/translations.h:351
 msgid "Algeria"
-msgstr ""
+msgstr "Alĝerio"
 
 #: src/translations.h:352
 msgid "Ecuador"
-msgstr ""
+msgstr "Ekvadoro"
 
 #: src/translations.h:353
 msgid "Estonia"
-msgstr ""
+msgstr "Estonio"
 
 #: src/translations.h:354
 msgid "Egypt"
-msgstr ""
+msgstr "Egiptio"
 
 #: src/translations.h:355
 msgid "Western Sahara"
@@ -1788,15 +1787,15 @@ msgstr ""
 
 #: src/translations.h:358
 msgid "Ethiopia"
-msgstr ""
+msgstr "Etiopio"
 
 #: src/translations.h:359
 msgid "Finland"
-msgstr ""
+msgstr "Finnlando"
 
 #: src/translations.h:360
 msgid "Fiji"
-msgstr ""
+msgstr "Fiĝioj"
 
 #: src/translations.h:361
 msgid "Falkland Islands"
@@ -1804,7 +1803,7 @@ msgstr ""
 
 #: src/translations.h:362
 msgid "Micronesia"
-msgstr ""
+msgstr "Mikronezio"
 
 #: src/translations.h:363
 msgid "Faroe Islands"
@@ -1812,15 +1811,15 @@ msgstr ""
 
 #: src/translations.h:364
 msgid "France"
-msgstr ""
+msgstr "Francio"
 
 #: src/translations.h:365
 msgid "Gabon"
-msgstr ""
+msgstr "Gabono"
 
 #: src/translations.h:366
 msgid "United Kingdom"
-msgstr ""
+msgstr "Britio"
 
 #: src/translations.h:367
 msgid "Grenada"
@@ -1828,7 +1827,7 @@ msgstr ""
 
 #: src/translations.h:368
 msgid "Georgia"
-msgstr ""
+msgstr "Kartvelio"
 
 #: src/translations.h:369
 msgid "French Guiana"
@@ -1844,15 +1843,15 @@ msgstr ""
 
 #: src/translations.h:372
 msgid "Greenland"
-msgstr ""
+msgstr "Gronlando"
 
 #: src/translations.h:373
 msgid "Gambia"
-msgstr ""
+msgstr "Gambio"
 
 #: src/translations.h:374
 msgid "Guinea"
-msgstr ""
+msgstr "Gvineo"
 
 #: src/translations.h:375
 msgid "Guadeloupe"
@@ -1888,7 +1887,7 @@ msgstr ""
 
 #: src/translations.h:383
 msgid "Hong Kong"
-msgstr ""
+msgstr "Honkongo"
 
 #: src/translations.h:384
 msgid "Heard Island and McDonald Islands"
@@ -1920,11 +1919,11 @@ msgstr ""
 
 #: src/translations.h:391
 msgid "Israel"
-msgstr ""
+msgstr "Israelo"
 
 #: src/translations.h:392
 msgid "India"
-msgstr ""
+msgstr "Barato"
 
 #: src/translations.h:393
 msgid "British Indian Ocean Territory"
@@ -1956,19 +1955,19 @@ msgstr ""
 
 #: src/translations.h:400
 msgid "Japan"
-msgstr ""
+msgstr "Japanio"
 
 #: src/translations.h:401
 msgid "Kenya"
-msgstr ""
+msgstr "Kenjo"
 
 #: src/translations.h:402
 msgid "Kyrgyzstan"
-msgstr ""
+msgstr "Kirgizio"
 
 #: src/translations.h:403
 msgid "Cambodia"
-msgstr ""
+msgstr "Kamboĝo"
 
 #: src/translations.h:404
 msgid "Kiribati"
@@ -2008,7 +2007,7 @@ msgstr ""
 
 #: src/translations.h:413
 msgid "Lebanon"
-msgstr ""
+msgstr "Libano"
 
 #: src/translations.h:414
 msgid "Saint Lucia"
@@ -2404,7 +2403,7 @@ msgstr ""
 
 #: src/translations.h:512
 msgid "Ukraine"
-msgstr ""
+msgstr "Ukrainio"
 
 #: src/translations.h:513
 msgid "Uganda"
@@ -2416,7 +2415,7 @@ msgstr ""
 
 #: src/translations.h:515
 msgid "United States"
-msgstr ""
+msgstr "Usono"
 
 #: src/translations.h:516
 msgid "Uruguay"
@@ -2447,9 +2446,8 @@ msgid "United States Virgin Islands"
 msgstr ""
 
 #: src/translations.h:523
-#, fuzzy
 msgid "Viet Nam"
-msgstr "Planedaj Nomoj"
+msgstr "Vjetnamio"
 
 #: src/translations.h:524
 msgid "Vanuatu"
@@ -2465,7 +2463,7 @@ msgstr ""
 
 #: src/translations.h:527
 msgid "Yemen"
-msgstr ""
+msgstr "Jemeno"
 
 #: src/translations.h:528
 msgid "Mayotte"
@@ -2485,11 +2483,11 @@ msgstr ""
 
 #: src/translations.h:532
 msgid "Zimbabwe"
-msgstr ""
+msgstr "Zimbabvo"
 
 #: qml/AboutDialog.qml:24 qml/SettingsPanel.qml:63
 msgid "About"
-msgstr ""
+msgstr "Pri"
 
 #: qml/InfoPanel.qml:125
 msgid "Unnamed"
@@ -2497,15 +2495,15 @@ msgstr ""
 
 #: qml/LandscapesDialog.qml:5 qml/SettingsPanel.qml:47
 msgid "Landscape"
-msgstr ""
+msgstr "Pejzaĝo"
 
 #: qml/LocationCityPicker.qml:25
 msgid "Pick City"
-msgstr ""
+msgstr "Elektu Urbon"
 
 #: qml/LocationCityPicker.qml:25
 msgid "Pick Country"
-msgstr ""
+msgstr "Elektu Landon"
 
 #: qml/LocationDialog.qml:25 qml/SettingsPanel.qml:51
 msgid "Location"
@@ -2529,7 +2527,7 @@ msgstr ""
 
 #: qml/main.qml:214 qml/SettingsPanel.qml:24
 msgid "Settings"
-msgstr ""
+msgstr "Agordoj"
 
 #: qml/main.qml:226
 msgid "Open Quick Bar"
@@ -2581,23 +2579,20 @@ msgid "Show planet markers"
 msgstr ""
 
 #: qml/AdvancedDialog.qml:52
-#, fuzzy
 msgid "Show ecliptic line"
-msgstr "Ekliptika linio"
+msgstr "Montri ekliptikan linion"
 
 #: qml/AdvancedDialog.qml:59
-#, fuzzy
 msgid "Show meridian line"
-msgstr "Meridiana linio"
+msgstr "Montri meridianan linion"
 
 #: qml/AdvancedDialog.qml:70 qml/AdvancedDialog.qml:75
 msgid "Light pollution"
 msgstr ""
 
 #: qml/AdvancedDialog.qml:87 qml/AdvancedDialog.qml:92
-#, fuzzy
 msgid "Milky Way brightness"
-msgstr "Lumintenso de la Lakta Vojo: "
+msgstr "Lumintenso de Laktovojo"
 
 #: qml/AdvancedDialog.qml:104 qml/AdvancedDialog.qml:109
 msgid "Thickness of lines"
@@ -2609,11 +2604,11 @@ msgstr ""
 
 #: qml/AnglePicker.qml:24
 msgid "Latitude"
-msgstr ""
+msgstr "Latitudo"
 
 #: qml/AnglePicker.qml:24
 msgid "Longitude"
-msgstr ""
+msgstr "Longitudo"
 
 #~ msgid "constellation"
 #~ msgstr "konstelacio"

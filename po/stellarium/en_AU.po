@@ -6,17 +6,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2016-07-19 04:50+0000\n"
-"Last-Translator: Alexander Wolf <Unknown>\n"
-"Language-Team: English (Australia) <en_AU@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2020-10-11 10:39+0000\n"
+"Last-Translator: Rob Pearson <rob.dunedin@gmail.com>\n"
+"Language-Team: English (Australia) <https://hosted.weblate.org/projects/"
+"stellarium-mobile/app/en_AU/>\n"
+"Language: en_AU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.3-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:43+0000\n"
-"X-Generator: Launchpad (build 18269)\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
 #: src/core/modules/GridLinesMgr.cpp:674 src/core/modules/LandscapeMgr.cpp:313
@@ -48,7 +50,7 @@ msgstr "Stars"
 
 #: src/core/modules/StarMgr.cpp:330
 msgid "Stars labels"
-msgstr ""
+msgstr "Stars labels"
 
 #: src/core/modules/GridLinesMgr.cpp:525
 msgid "Meridian"

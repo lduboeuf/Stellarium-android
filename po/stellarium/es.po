@@ -8,10 +8,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2020-08-06 16:11+0000\n"
-"Last-Translator: Josué <j2g2rp@gmail.com>\n"
+"PO-Revision-Date: 2021-05-23 22:32+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/"
 "stellarium-mobile/app/es/>\n"
 "Language: es\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:39+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -28,7 +28,7 @@ msgstr ""
 #: src/core/StelApp.cpp:466 src/core/StelCore.cpp:163
 #: src/core/StelSkyLayerMgr.cpp:86 src/StelMainView.cpp:299
 msgid "Display Options"
-msgstr "Ver Opciones"
+msgstr "Opciones de visualización"
 
 #: src/core/modules/ConstellationMgr.cpp:111
 msgid "Constellation lines"
@@ -80,7 +80,7 @@ msgstr "Cuadrícula ecuatorial"
 
 #: src/core/modules/GridLinesMgr.cpp:676
 msgid "Azimuthal grid"
-msgstr "Cuadrícula azimutal"
+msgstr "Cuadrícula acimutal"
 
 #: src/core/modules/GridLinesMgr.cpp:677
 msgid "Ecliptic line"
@@ -92,7 +92,7 @@ msgstr "Línea del ecuador"
 
 #: src/core/modules/GridLinesMgr.cpp:679
 msgid "Meridian line"
-msgstr "Línea Meridiano"
+msgstr "Línea de meridiano"
 
 #: src/core/modules/GridLinesMgr.cpp:680
 msgid "Horizon line"
@@ -196,7 +196,7 @@ msgstr "Nebulosa planetaria"
 
 #: src/core/modules/Nebula.cpp:357
 msgid "Dark Nebula"
-msgstr "Nebulosa Oscura"
+msgstr "Nebulosa oscura"
 
 #: src/core/modules/Nebula.cpp:360
 msgid "Cluster associated with nebulosity"
@@ -212,7 +212,7 @@ msgstr "Tipo no documentado"
 
 #: src/core/modules/NebulaMgr.cpp:123
 msgid "Deep-sky objects"
-msgstr "Objetos de Espacio profundo"
+msgstr "Objetos de espacio profundo"
 
 #: src/core/modules/Planet.cpp:136 src/core/modules/MinorPlanet.cpp:232
 #: src/core/modules/MinorPlanet.cpp:236 src/core/modules/Comet.cpp:141
@@ -224,7 +224,7 @@ msgstr "Magnitud absoluta: %1"
 #: src/core/modules/Planet.cpp:149
 #, qt-format
 msgid "Ecliptic Topocentric (of date): %1/%2"
-msgstr "Eclíptica Topocéntrica (de fecha): %1/%2"
+msgstr "Eclíptica topocéntrica (de fecha): %1/%2"
 
 #: src/core/modules/Planet.cpp:150
 #, qt-format
@@ -258,7 +258,7 @@ msgstr "Diámetro aparente: %1"
 #: src/core/modules/Comet.cpp:175
 #, qt-format
 msgid "Sidereal period: %1 days (%2 a)"
-msgstr "Período sideral: %1 días (%2 a)"
+msgstr "Período sidéreo: %1 días (%2 a)"
 
 #: src/core/modules/Planet.cpp:199
 #, qt-format
@@ -273,7 +273,7 @@ msgstr "Día solar medio: %1"
 #: src/core/modules/Planet.cpp:206
 #, qt-format
 msgid "Phase Angle: %1"
-msgstr "Ángulo de Fase: %1"
+msgstr "Ángulo de fase: %1"
 
 #: src/core/modules/Planet.cpp:207
 #, qt-format
@@ -309,7 +309,7 @@ msgstr "Rutas de planetas"
 
 #: src/core/modules/SolarSystem.cpp:154
 msgid "Planet markers"
-msgstr "Marcador Planeta"
+msgstr "Marcadores de planetas"
 
 #. TRANSLATORS: Type of object
 #: src/core/modules/StarWrapper.cpp:50 src/core/modules/StarWrapper.cpp:162
@@ -340,7 +340,7 @@ msgstr "estrella variable cataclísmica"
 
 #: src/core/modules/StarWrapper.cpp:152
 msgid "eclipsing binary system"
-msgstr "sistema binario eclipsando"
+msgstr "sistema binario eclipsante"
 
 #: src/core/modules/StarWrapper.cpp:156
 msgid "variable star"
@@ -358,12 +358,13 @@ msgstr "Tipo: <b>%1, %2</b>"
 #: src/core/modules/StarWrapper.cpp:206
 #, qt-format
 msgid "Magnitude range: <b>%1</b>%2<b>%3</b> (Photometric system: %4)"
-msgstr "Rango de magnitud: <b>%1</b>%2<b>%3</b> (Sistema fotométrico: %4)"
+msgstr "Intervalo de magnitud: <b>%1</b>%2<b>%3</b> (Sistema fotométrico: %4)"
 
 #: src/core/modules/StarWrapper.cpp:208
 #, qt-format
 msgid "Magnitude range: <b>%1</b>%2<b>%3/%4</b> (Photometric system: %5)"
-msgstr "Rango magnitud: <b>%1</b>%2<b>%3/%4</b> (Sistema fotométrico: %5)"
+msgstr ""
+"Intervalo de magnitud: <b>%1</b>%2<b>%3/%4</b> (Sistema fotométrico: %5)"
 
 #: src/core/modules/StarWrapper.cpp:215
 #, qt-format
@@ -378,17 +379,17 @@ msgstr "Tipo espectral: %1"
 #: src/core/modules/StarWrapper.cpp:223
 #, qt-format
 msgid "Parallax: %1\""
-msgstr "Paralaje: %1\""
+msgstr "Paralaje: %1″"
 
 #: src/core/modules/StarWrapper.cpp:229
 #, qt-format
 msgid "Epoch for minimum light: %1 JD"
-msgstr "Epoch for minimum light: %1 FJ"
+msgstr "Época de luz mínima: %1 FJ"
 
 #: src/core/modules/StarWrapper.cpp:231
 #, qt-format
 msgid "Epoch for maximum light: %1 JD"
-msgstr "Epoch for maximum light: %1 FJ"
+msgstr "Época de luz máxima: %1 FJ"
 
 #: src/core/modules/StarWrapper.cpp:235
 #, qt-format
@@ -422,7 +423,7 @@ msgstr "Modo nocturno"
 #. TRANSLATORS: "Planet name" displayed when "flying" to another planet with Ctrl+G.
 #: src/core/StelObserver.cpp:282
 msgid "SpaceShip"
-msgstr "Nave Espacial"
+msgstr "Nave espacial"
 
 #: src/core/StelCore.cpp:161 qml/SettingsPanel.qml:43 qml/TimeDialog.qml:23
 msgid "Date and Time"
@@ -462,23 +463,23 @@ msgstr "Establecer fecha y hora a la actual"
 
 #: src/core/StelCore.cpp:172
 msgid "Add 1 solar hour"
-msgstr "Añadir 1 hora solar"
+msgstr "Sumar 1 hora solar"
 
 #: src/core/StelCore.cpp:173
 msgid "Add 1 solar day"
-msgstr "Añadir 1 día solar"
+msgstr "Sumar 1 día solar"
 
 #: src/core/StelCore.cpp:174
 msgid "Add 1 solar week"
-msgstr "Añadir 1 semana solar"
+msgstr "Sumar 1 semana solar"
 
 #: src/core/StelCore.cpp:175
 msgid "Subtract 1 solar hour"
-msgstr "restar 1 hora solar"
+msgstr "Restar 1 hora solar"
 
 #: src/core/StelCore.cpp:176
 msgid "Subtract 1 solar day"
-msgstr "restar 1 día solar"
+msgstr "Restar 1 día solar"
 
 #: src/core/StelCore.cpp:177
 msgid "Subtract 1 solar week"
@@ -486,55 +487,55 @@ msgstr "Restar 1 semana solar"
 
 #: src/core/StelCore.cpp:178
 msgid "Add 1 sidereal day"
-msgstr "Añadir 1 día sidéreo"
+msgstr "Sumar 1 día sidéreo"
 
 #: src/core/StelCore.cpp:179
 msgid "Add 1 sidereal week"
-msgstr "Añadir 1 semana sidérea"
+msgstr "Sumar 1 semana sidérea"
 
 #: src/core/StelCore.cpp:180
 msgid "Add 1 sidereal month"
-msgstr "Agregar 1 mes sideral"
+msgstr "Sumar 1 mes sidéreo"
 
 #: src/core/StelCore.cpp:181
 msgid "Add 1 sidereal year"
-msgstr "Agregar 1 año sideral"
+msgstr "Sumar 1 año sidéreo"
 
 #: src/core/StelCore.cpp:182
 msgid "Add 1 sidereal century"
-msgstr "Agregar 1 siglo sideral"
+msgstr "Sumar 1 siglo sidéreo"
 
 #: src/core/StelCore.cpp:183
 msgid "Add 1 synodic month"
-msgstr "Añadir 1 mes sinódico"
+msgstr "Sumar 1 mes sinódico"
 
 #: src/core/StelCore.cpp:184
 msgid "Add 1 draconic month"
-msgstr "Añadir 1 mes dracónico"
+msgstr "Sumar 1 mes dracónico"
 
 #: src/core/StelCore.cpp:185
 msgid "Add 1 draconic year"
-msgstr "Añadir 1 año dracónico"
+msgstr "Sumar 1 año dracónico"
 
 #: src/core/StelCore.cpp:186
 msgid "Add 1 anomalistic month"
-msgstr "Añadir 1 mes anómalo"
+msgstr "Sumar 1 mes anómalo"
 
 #: src/core/StelCore.cpp:187
 msgid "Add 1 mean tropical month"
-msgstr "Añadir 1 mes tropical"
+msgstr "Sumar 1 mes tropical"
 
 #: src/core/StelCore.cpp:188
 msgid "Add 1 mean tropical year"
-msgstr "Añadir 1 año trópico"
+msgstr "Sumar 1 año trópico"
 
 #: src/core/StelCore.cpp:189
 msgid "Add 1 mean tropical century"
-msgstr "Agregar 1 siglo tropical medio"
+msgstr "Sumar 1 siglo tropical medio"
 
 #: src/core/StelCore.cpp:190
 msgid "Subtract 1 sidereal day"
-msgstr "Substraer 1 día sidéreo"
+msgstr "Restar 1 día sidéreo"
 
 #: src/core/StelCore.cpp:191
 msgid "Subtract 1 sidereal week"
@@ -542,39 +543,39 @@ msgstr "Restar 1 semana sidérea"
 
 #: src/core/StelCore.cpp:192
 msgid "Subtract 1 sidereal month"
-msgstr "Restar 1 mes sideral"
+msgstr "Restar 1 mes sidéreo"
 
 #: src/core/StelCore.cpp:193
 msgid "Subtract 1 sidereal year"
-msgstr "Substraer 1 año sideral"
+msgstr "Restar 1 año sidéreo"
 
 #: src/core/StelCore.cpp:194
 msgid "Subtract 1 sidereal century"
-msgstr "Restar 1 siglo sideral"
+msgstr "Restar 1 siglo sidéreo"
 
 #: src/core/StelCore.cpp:195
 msgid "Subtract 1 synodic month"
-msgstr "Substraer 1 mes sinódico"
+msgstr "Restar 1 mes sinódico"
 
 #: src/core/StelCore.cpp:196
 msgid "Subtract 1 draconic month"
-msgstr "Substraer 1 mes dracónico"
+msgstr "Restar 1 mes dracónico"
 
 #: src/core/StelCore.cpp:197
 msgid "Subtract 1 draconic year"
-msgstr "Substraer 1 año dracónico"
+msgstr "Restar 1 año dracónico"
 
 #: src/core/StelCore.cpp:198
 msgid "Subtract 1 anomalistic month"
-msgstr "Substraer 1 mes anómalo"
+msgstr "Restar 1 mes anómalo"
 
 #: src/core/StelCore.cpp:199
 msgid "Subtract 1 mean tropical month"
-msgstr "Substraer 1 mes tropical"
+msgstr "Restar 1 mes tropical medio"
 
 #: src/core/StelCore.cpp:200
 msgid "Subtract 1 mean tropical year"
-msgstr "Substraer 1 año tropical"
+msgstr "Restar 1 año tropical medio"
 
 #: src/core/StelCore.cpp:201
 msgid "Subtract 1 mean tropical century"
@@ -610,7 +611,7 @@ msgid ""
 "name for this projection method is <i>gnomonic projection</i>."
 msgstr ""
 "La proyección en perspectiva permite mantener el horizonte en línea recta. "
-"El nombre matemático de esta proyección es <i>proyección gnomónica<i>."
+"En matemáticas, esta proyección se conoce como <i>gnomónica</i>."
 
 #: src/core/StelProjectorClasses.cpp:63
 msgid "Equal Area"
@@ -621,7 +622,7 @@ msgid ""
 "The full name of this projection method is, <i>Lambert azimuthal equal-area "
 "projection</i>. It preserves the area but not the angle."
 msgstr ""
-"El nombre completo de este sistema es <i>Proyección azimutal equivalente de "
+"El nombre completo de este sistema es <i>Proyección acimutal equivalente de "
 "Lambert</i>. Las áreas no sufren deformación, aunque no sucede lo mismo con "
 "los ángulos."
 
@@ -651,7 +652,7 @@ msgid ""
 "centre of the field of view (like the distortions seen with very wide angle "
 "camera lenses)."
 msgstr ""
-"En la proyección de ojo de pez, o <i>proyección azimutal equidistante</i>, "
+"En la proyección de ojo de pez, o <i>proyección acimutal equidistante</i>, "
 "las líneas rectas se convierten en curvas cuando aparecen a una distancia "
 "angular considerable respecto del centro del campo de visión (igual que la "
 "distorsión producida con una lente fotográfica de tipo gran angular)."
@@ -697,14 +698,14 @@ msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:322
 msgid "Orthographic"
-msgstr "Ortográfica"
+msgstr "Ortogonal"
 
 #: src/core/StelProjectorClasses.cpp:327
 msgid ""
 "Orthographic projection is related to perspective projection, but the point "
 "of perspective is set to an infinite distance."
 msgstr ""
-"La proyección ortográfica está relacionada con la proyección en perspectiva, "
+"La proyección ortogonal está relacionada con la proyección en perspectiva, "
 "pero el punto de vista se sitúa en el infinito."
 
 #: src/core/StelObject.cpp:112
@@ -746,7 +747,7 @@ msgstr "Miscelánea"
 
 #: src/core/StelMovementMgr.cpp:106
 msgid "Switch between equatorial and azimuthal mount"
-msgstr "Alternar entre montura ecuatorial y azimutal"
+msgstr "Alternar entre montura ecuatorial y acimutal"
 
 #: src/core/StelMovementMgr.cpp:107
 msgid "Center on selected object"
@@ -754,11 +755,11 @@ msgstr "Centrar sobre el objeto seleccionado"
 
 #: src/core/StelMovementMgr.cpp:108
 msgid "Zoom in on selected object"
-msgstr "Zum sobre el objeto seleccionado"
+msgstr "Acercar el objeto seleccionado"
 
 #: src/core/StelMovementMgr.cpp:109
 msgid "Zoom out"
-msgstr "Disminuir zoom"
+msgstr "Alejar"
 
 #: src/core/StelMovementMgr.cpp:110
 msgid "Track object"
@@ -766,11 +767,11 @@ msgstr "Seguir objeto"
 
 #: src/core/SimbadSearcher.cpp:56
 msgid "Network error"
-msgstr "Error en red"
+msgstr "Error de red"
 
 #: src/core/SimbadSearcher.cpp:93 src/core/SimbadSearcher.cpp:105
 msgid "Error parsing position"
-msgstr "Error al analizar la  posición"
+msgstr "Error al analizar la posición"
 
 #: src/core/SimbadSearcher.cpp:131
 msgid "Querying"
@@ -790,7 +791,7 @@ msgstr "Encontrado"
 
 #: src/main.cpp:320
 msgid "This system does not support OpenGL."
-msgstr "Este sistema no soporta OpenGL."
+msgstr "Este sistema no admite OpenGL."
 
 #: src/StelMainView.cpp:298
 msgid "Save screenshot"
@@ -1313,12 +1314,12 @@ msgstr "Recorrido por los paisajes"
 #. TRANSLATORS: Name of script
 #: src/translations.h:213
 msgid "Partial Lunar Eclipse"
-msgstr "Eclipse Parcial de Luna"
+msgstr "Eclipse parcial de luna"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:215
 msgid "Total Lunar Eclipse"
-msgstr "Eclipse Total de Luna"
+msgstr "Eclipse total de luna"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:217
@@ -1328,7 +1329,7 @@ msgstr "Salvapantallas"
 #. TRANSLATORS: Name of script
 #: src/translations.h:219
 msgid "Solar Eclipse 2009"
-msgstr "Eclipse Solar 2009"
+msgstr "Eclipse solar 2009"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:221
@@ -1378,7 +1379,7 @@ msgstr "Salvapantallas del Sistema Solar"
 #. TRANSLATORS: Name of script
 #: src/translations.h:239
 msgid "Constellations Tour"
-msgstr "Paseo por Constelaciones"
+msgstr "Paseo por constelaciones"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:241
@@ -1408,17 +1409,17 @@ msgstr "Paseo de Culturas Estelares"
 #. TRANSLATORS: Name and description of script
 #: src/translations.h:251
 msgid "Earth Events from Mercury"
-msgstr "Eventos terrestres desde Mercurio"
+msgstr "Sucesos terrestres desde Mercurio"
 
 #. TRANSLATORS: Name and description of script
 #: src/translations.h:253
 msgid "Earth Events from Venus"
-msgstr "Eventos terrestres desde Venus"
+msgstr "Sucesos terrestres desde Venus"
 
 #. TRANSLATORS: Name and description of script
 #: src/translations.h:255
 msgid "Earth Events from Mars"
-msgstr "Eventos terrestres desde Marte"
+msgstr "Sucesos terrestres desde Marte"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:257
@@ -1442,11 +1443,11 @@ msgstr "Visualiza cada cultura estelar instalada."
 
 #: src/translations.h:268
 msgid "Script to demonstrate a partial lunar eclipse."
-msgstr "Script para demostrar un eclipse parcial de luna"
+msgstr "Secuencia para demostrar un eclipse parcial de luna."
 
 #: src/translations.h:269
 msgid "Script to demonstrate a total lunar eclipse."
-msgstr "Script para demostrar un eclipse total de luna"
+msgstr "Secuencia para demostrar un eclipse total de luna."
 
 #: src/translations.h:270
 msgid "A slow, infinite tour of the sky, looking at random objects."
@@ -1481,8 +1482,7 @@ msgid ""
 "will rise & set 3 different times in one Mercury day."
 msgstr ""
 "Debido a las peculiaridades en la órbita de Mercurio y la rotación en "
-"ciertos lugares el sol saldrá y ocultará 3 diferentes momentos en un día de "
-"Mercurio"
+"ciertos lugares, el sol saldrá y se ocultará tres veces en un día mercuriano."
 
 #: src/translations.h:275
 msgid ""
@@ -1525,12 +1525,12 @@ msgid ""
 "emerges from Mars it is still eclipsed and dimmed in Mars' shadow, only to "
 "light up later."
 msgstr ""
-"Fobos encarrera delante de Marte y transita el sol, pasa a través de el y "
-"luego retrocede hacia el sol y parcialmente lo transita de nuevo (solo visto "
-"en el hemisferio sur de Deimos), después Marte eclipsa totalmente el sol "
-"mientras Fobos transita en la obscuridad entre Marte y Deimos. Cuando Fobos "
-"emerge desde Marte aún está eclipsado y desvanecido en la sombra,  sólo para "
-"iluminarse después."
+"Fobos se adelanta a Marte y circula por el Sol, lo atraviesa y luego "
+"retrocede y lo vuelve a transitar parcialmente (solo se ve en el hemisferio "
+"sur de Deimos); luego, Marte eclipsa totalmente el Sol mientras que Fobos "
+"transita en la oscuridad entre Marte y Deimos. Cuando Fobos emerge de Marte, "
+"sigue eclipsado y oscurecido por la sombra de Marte, para luego iluminarse "
+"nuevamente."
 
 #: src/translations.h:280
 msgid ""
@@ -1550,8 +1550,8 @@ msgstr "Mira al sol desde grandes planetas del Sistema solar y Plutón."
 #: src/translations.h:283
 msgid "Best views of Earth from other Solar System bodies in the 21st Century."
 msgstr ""
-"Las mejores vistas de la tierra desde otros cuerpos del Sistema solar en el "
-"siglo XXI"
+"Las mejores vistas de la tierra desde otros cuerpos del sistema solar en el "
+"siglo XXI."
 
 #: src/translations.h:284
 msgid "Transit of Venus as seen from Sydney Australia, 6th June 2012."
@@ -1795,7 +1795,7 @@ msgstr "Chipre"
 
 #: src/translations.h:345
 msgid "Czech Republic"
-msgstr "República Checa"
+msgstr "Chequia"
 
 #: src/translations.h:346
 msgid "Germany"
@@ -2395,7 +2395,7 @@ msgstr "Siria"
 
 #: src/translations.h:495
 msgid "Swaziland"
-msgstr "Suazilandia"
+msgstr "Esuatini"
 
 #: src/translations.h:496
 msgid "Turks and Caicos Islands"

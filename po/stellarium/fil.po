@@ -6,17 +6,20 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2015-05-15 14:52+0000\n"
-"Last-Translator: Noli Calvo <noriumezu@gmail.com>\n"
-"Language-Team: Filipino <fil@li.org>\n"
+"PO-Revision-Date: 2021-04-27 12:32+0000\n"
+"Last-Translator: Shiratori <kuromaruhatake@gmail.com>\n"
+"Language-Team: Filipino <https://hosted.weblate.org/projects/"
+"stellarium-mobile/app/fil/>\n"
 "Language: fil\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1 && n != 2 && n != 3 && (n % 10 == 4 "
+"|| n % 10 == 6 || n % 10 == 9);\n"
+"X-Generator: Weblate 4.7-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:44+0000\n"
-"X-Generator: Launchpad (build 18269)\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
 #: src/core/modules/GridLinesMgr.cpp:674 src/core/modules/LandscapeMgr.cpp:313
@@ -89,7 +92,7 @@ msgstr "Linya ng Ekwator"
 
 #: src/core/modules/GridLinesMgr.cpp:679
 msgid "Meridian line"
-msgstr ""
+msgstr "Linya ng Meridian"
 
 #: src/core/modules/GridLinesMgr.cpp:680
 msgid "Horizon line"
@@ -122,7 +125,7 @@ msgstr "Hamog"
 
 #: src/core/modules/LandscapeMgr.cpp:316
 msgid "Cardinal points"
-msgstr ""
+msgstr "Puntos ng kardinal"
 
 #: src/core/modules/LandscapeMgr.cpp:317
 msgid "Ground"

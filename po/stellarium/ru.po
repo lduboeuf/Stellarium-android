@@ -6,19 +6,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2020-07-24 07:42+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/stellarium-"
-"mobile/app/ru/>\n"
+"PO-Revision-Date: 2021-10-03 22:36+0000\n"
+"Last-Translator: Artem <Localizer_in_Russian@protonmail.com>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/"
+"stellarium-mobile/app/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:37+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -240,7 +240,7 @@ msgstr "Расстояние: %1 а.е. (%2 км)"
 #: src/core/modules/Comet.cpp:160
 #, no-c-format, qt-format
 msgid "Distance: %1AU"
-msgstr "Расстояние: %1 а.е."
+msgstr "Расстояние: %1 св. лет"
 
 #: src/core/modules/Planet.cpp:178
 #, qt-format
@@ -1567,11 +1567,11 @@ msgstr ""
 
 #: src/translations.h:287
 msgid "Earth Greatest Elongations and Brilliancies from Mars 2000-3000"
-msgstr "Наибольшие элонгации и яркость Земли с Марса в 2000-3000 годах."
+msgstr "Наибольшие элонгации и яркость Земли с Марса в 2000-3000 годах"
 
 #: src/translations.h:288
 msgid "Earth Greatest Elongations from Jupiter 2000-3000"
-msgstr "Наибольшие элонгации Земли с Юпитера в 2000-3000 годах."
+msgstr "Наибольшие элонгации Земли с Юпитера в 2000-3000 годах"
 
 #: src/translations.h:292
 msgid "Andorra"
@@ -1739,7 +1739,7 @@ msgstr "Швейцария"
 
 #: src/translations.h:333
 msgid "Cote d'Ivoire"
-msgstr "Берег Слоновой Кости"
+msgstr "Кот-д'Ивуар"
 
 #: src/translations.h:334
 msgid "Cook Islands"
@@ -1807,7 +1807,7 @@ msgstr "Доминика"
 
 #: src/translations.h:350
 msgid "Dominican Republic"
-msgstr "Доминиканская республика"
+msgstr "Доминиканская Республика"
 
 #: src/translations.h:351
 msgid "Algeria"
@@ -1935,7 +1935,7 @@ msgstr "Гвинея-Биссау"
 
 #: src/translations.h:382
 msgid "Guyana"
-msgstr "Гвиана"
+msgstr "Гайана"
 
 #: src/translations.h:383
 msgid "Hong Kong"
@@ -2015,7 +2015,7 @@ msgstr "Кения"
 
 #: src/translations.h:402
 msgid "Kyrgyzstan"
-msgstr "Кыргызстан"
+msgstr "Киргизия"
 
 #: src/translations.h:403
 msgid "Cambodia"
@@ -2027,7 +2027,7 @@ msgstr "Кирибати"
 
 #: src/translations.h:405
 msgid "Comoros"
-msgstr "Коморские Острова"
+msgstr "Коморы"
 
 #: src/translations.h:406
 msgid "Saint Kitts and Nevis"
@@ -2127,7 +2127,7 @@ msgstr "Мали"
 
 #: src/translations.h:430
 msgid "Myanmar"
-msgstr "Бирма"
+msgstr "мьянма"
 
 #: src/translations.h:431
 msgid "Mongolia"
@@ -2151,7 +2151,7 @@ msgstr "Мавритания"
 
 #: src/translations.h:436
 msgid "Montserrat"
-msgstr "Монсеррат"
+msgstr "Монтсеррат"
 
 #: src/translations.h:437
 msgid "Malta"
@@ -2323,7 +2323,7 @@ msgstr "Соломоновы острова"
 
 #: src/translations.h:479
 msgid "Seychelles"
-msgstr "Сейшельские острова"
+msgstr "Сейшелы"
 
 #: src/translations.h:480
 msgid "Sudan"
@@ -2543,21 +2543,19 @@ msgstr "О программе"
 
 #: qml/InfoPanel.qml:125
 msgid "Unnamed"
-msgstr ""
+msgstr "Безымянный"
 
 #: qml/LandscapesDialog.qml:5 qml/SettingsPanel.qml:47
 msgid "Landscape"
 msgstr "Ландшафт"
 
 #: qml/LocationCityPicker.qml:25
-#, fuzzy
 msgid "Pick City"
-msgstr "Ватикан"
+msgstr "Выберите город"
 
 #: qml/LocationCityPicker.qml:25
-#, fuzzy
 msgid "Pick Country"
-msgstr "Страна:"
+msgstr "Выберите страну"
 
 #: qml/LocationDialog.qml:25 qml/SettingsPanel.qml:51
 msgid "Location"
@@ -2565,12 +2563,11 @@ msgstr "Место"
 
 #: qml/LocationDialog.qml:37
 msgid "Use GPS"
-msgstr ""
+msgstr "Использовать GPS"
 
 #: qml/LocationDialog.qml:37
-#, fuzzy
 msgid " (searching)"
-msgstr "Гархинг"
+msgstr " (поиск)"
 
 #: qml/LocationDialog.qml:72
 msgid "Name/City:"
@@ -2578,7 +2575,7 @@ msgstr "Место:"
 
 #: qml/main.qml:75
 msgid "It is daytime, fast forward time until…"
-msgstr ""
+msgstr "Сейчас день, перемотайте время вперед…"
 
 #: qml/main.qml:214 qml/SettingsPanel.qml:24
 msgid "Settings"
@@ -2586,20 +2583,19 @@ msgstr "Настройки"
 
 #: qml/main.qml:226
 msgid "Open Quick Bar"
-msgstr ""
+msgstr "Открыть быструю панель"
 
 #: qml/main.qml:261
 msgid "GPS…"
-msgstr ""
+msgstr "GPS…"
 
 #: qml/main.qml:263
-#, fuzzy
 msgid "GPS"
-msgstr "СГП"
+msgstr "GPS"
 
 #: qml/main.qml:334
 msgid "Drag sky to move in time"
-msgstr ""
+msgstr "Перетащите небо, чтобы двигаться во времени"
 
 #: qml/SearchInput.qml:37 qml/SearchInput.qml:72 qml/SearchInput.qml:89
 #: qml/SearchInput.qml:98 qml/SearchInput.qml:102
@@ -2612,26 +2608,23 @@ msgstr "Знания о звёздах"
 
 #: qml/SettingsPanel.qml:59 qml/AdvancedDialog.qml:24
 msgid "Advanced"
-msgstr ""
+msgstr "Дополнительно"
 
 #: qml/StelDialog.qml:24
-#, fuzzy
 msgid "Stellarium"
-msgstr "Stellarium %1"
+msgstr "Stellarium"
 
 #: qml/TimeBar.qml:34
-#, fuzzy
 msgid "Real time"
-msgstr "и время:"
+msgstr "Реальное время"
 
 #: qml/TimeBar.qml:36
 msgid "Stopped"
 msgstr "Остановлен"
 
 #: qml/TimeDialog.qml:31
-#, fuzzy
 msgid "Advance to night at startup"
-msgstr "Включить/подключиться при запуске"
+msgstr "Переход к ночи при запуске"
 
 #: qml/AdvancedDialog.qml:45
 msgid "Show planet markers"
@@ -2646,18 +2639,16 @@ msgid "Show meridian line"
 msgstr "Показывать линию меридиана"
 
 #: qml/AdvancedDialog.qml:70 qml/AdvancedDialog.qml:75
-#, fuzzy
 msgid "Light pollution"
-msgstr "Засветка:"
+msgstr "Световое загрязнение"
 
 #: qml/AdvancedDialog.qml:87 qml/AdvancedDialog.qml:92
-#, fuzzy
 msgid "Milky Way brightness"
-msgstr "Яркость Млечного пути:"
+msgstr "Яркость Млечного Пути"
 
 #: qml/AdvancedDialog.qml:104 qml/AdvancedDialog.qml:109
 msgid "Thickness of lines"
-msgstr ""
+msgstr "Толщина линий"
 
 #: qml/AdvancedDialog.qml:120
 msgid "Restore default settings"
