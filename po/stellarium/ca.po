@@ -9,10 +9,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ca\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2020-08-07 06:38+0000\n"
-"Last-Translator: Joan CiberSheep <cibersheep@gmail.com>\n"
+"PO-Revision-Date: 2022-02-28 17:55+0000\n"
+"Last-Translator: Maite Guix <maite.guix@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/"
 "stellarium-mobile/app/ca/>\n"
 "Language: ca\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.11.1-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:24+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -653,7 +653,7 @@ msgstr ""
 "En la projecció ull de peix, o <i>projecció azimutal equidistant</i>, les "
 "línies rectes es converteixen en corbes quan apareixen a una gran distància "
 "angular del centre del camp de visió (com les distorsions en càmeres "
-"fotogràfiques amb lents de ample camp de visió )"
+"fotogràfiques amb lents de ample camp de visió)"
 
 #: src/core/StelProjectorClasses.cpp:182
 msgid "Hammer-Aitoff"
@@ -1430,7 +1430,7 @@ msgstr "Majors elongacions de la Terra i Mart des de Jupiter"
 #. TRANSLATORS: Description of the landscape tour script.
 #: src/translations.h:265
 msgid "Look around each installed landscape."
-msgstr "Fer una ullada a cadascun dels paisatges instal·lats"
+msgstr "Fer una ullada a cadascun dels paisatges instal·lats."
 
 #. TRANSLATORS: Description of the sky culture tour script.
 #: src/translations.h:267
@@ -1439,15 +1439,15 @@ msgstr "Veure cada una de les cultures del cel instal·lades."
 
 #: src/translations.h:268
 msgid "Script to demonstrate a partial lunar eclipse."
-msgstr "Script per mostrar un eclipsi parcial de lluna"
+msgstr "Script per mostrar un eclipsi parcial de lluna."
 
 #: src/translations.h:269
 msgid "Script to demonstrate a total lunar eclipse."
-msgstr "Script per mostrar un eclipsi total de lluna"
+msgstr "Script per mostrar un eclipsi total de lluna."
 
 #: src/translations.h:270
 msgid "A slow, infinite tour of the sky, looking at random objects."
-msgstr "Una volta lenta i infinita pel cel, mirant objectes aleatòriament"
+msgstr "Una volta lenta i infinita pel cel, mirant objectes aleatòriament."
 
 #: src/translations.h:271
 msgid ""
@@ -1477,7 +1477,7 @@ msgid ""
 "will rise & set 3 different times in one Mercury day."
 msgstr ""
 "A causa de les peculiaritats en l'òrbita de Mercuri i la rotació, en certs "
-"llocs el sol sortirà i es pondrà  3 cops en un dia de Mercuri."
+"llocs el sol sortirà i es pondrà 3 cops en un dia de Mercuri."
 
 #: src/translations.h:275
 msgid ""
@@ -1497,7 +1497,7 @@ msgstr ""
 
 #: src/translations.h:277
 msgid "Phobos eclipsing the Sun as seen from Olympus Mons on Jan 10, 2068."
-msgstr "Fobos eclipsant al Sol vist des del Mont Olimp el 10 de gener del 2068"
+msgstr "Fobos eclipsant al Sol vist des del Mont Olimp el 10 de gener de 2068."
 
 #: src/translations.h:278
 msgid ""
@@ -1522,8 +1522,8 @@ msgstr ""
 "després de manera retrograda de tornada cap al sol i només parcialment "
 "transita de nou (només es veu a l'hemisferi sud de Deimos), llavors Mart "
 "totalment eclipsa el sol mentre Fobos trànsits en la foscor entre Mart i "
-"Deimos. Quan  Fobos sorgeix de Mart encara està eclipsada i atenuat a "
-"l'ombra de Mart, sortint a la llum més tard."
+"Deimos. Quan Fobos sorgeix de Mart encara està eclipsada i atenuat a l'ombra "
+"de Mart, sortint a la llum més tard."
 
 #: src/translations.h:280
 msgid ""
@@ -1534,11 +1534,11 @@ msgstr ""
 
 #: src/translations.h:281
 msgid "A tour of the western constellations."
-msgstr "Un tour per les constel·lacions occidentals"
+msgstr "Un tour per les constel·lacions occidentals."
 
 #: src/translations.h:282
 msgid "Look at the Sun from big planets of Solar System and Pluto."
-msgstr "Mirar al Sol des de els planetes gegants del Sistema Solar i Plutó"
+msgstr "Mirar al Sol des de els planetes gegants del Sistema Solar i Plutó."
 
 #: src/translations.h:283
 msgid "Best views of Earth from other Solar System bodies in the 21st Century."
