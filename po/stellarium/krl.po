@@ -1,25 +1,23 @@
-# Filipino translation for stellarium
-# Copyright (c) 2007 Rosetta Contributors and Canonical Ltd 2007
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the stellarium package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2007.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
 "Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2022-08-31 00:14+0000\n"
-"Last-Translator: Marco Santos <enum.scima@gmail.com>\n"
-"Language-Team: Filipino <https://hosted.weblate.org/projects/"
-"stellarium-mobile/app/fil/>\n"
-"Language: fil\n"
+"PO-Revision-Date: 2022-01-18 15:55+0000\n"
+"Last-Translator: Olexii Ondrei <oleksiionoinen@gmail.com>\n"
+"Language-Team: Karelian <https://hosted.weblate.org/projects/"
+"stellarium-mobile/app/krl/>\n"
+"Language: krl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1 && n != 2 && n != 3 && (n % 10 == 4 "
-"|| n % 10 == 6 || n % 10 == 9);\n"
-"X-Generator: Weblate 4.14.1-dev\n"
-"X-Launchpad-Export-Date: 2016-11-20 05:44+0000\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11-dev\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
 #: src/core/modules/GridLinesMgr.cpp:674 src/core/modules/LandscapeMgr.cpp:313
@@ -27,124 +25,124 @@ msgstr ""
 #: src/core/StelApp.cpp:466 src/core/StelCore.cpp:163
 #: src/core/StelSkyLayerMgr.cpp:86 src/StelMainView.cpp:299
 msgid "Display Options"
-msgstr "Pagpapakita"
+msgstr ""
 
 #: src/core/modules/ConstellationMgr.cpp:111
 msgid "Constellation lines"
-msgstr "Linya ng konstelasyon"
+msgstr "Tähtistöijen viiva"
 
 #: src/core/modules/ConstellationMgr.cpp:112
 msgid "Constellation art"
-msgstr "Sining ng konstelasyon"
+msgstr ""
 
 #: src/core/modules/ConstellationMgr.cpp:113
 msgid "Constellation labels"
-msgstr "Label ng konstelasyon"
+msgstr ""
 
 #: src/core/modules/ConstellationMgr.cpp:114 qml/AdvancedDialog.qml:66
 msgid "Constellation boundaries"
-msgstr "Hangganan ng konstelasyon"
+msgstr ""
 
 #: src/core/modules/StarMgr.cpp:329
 msgid "Stars"
-msgstr "Mga bituin"
+msgstr "Tähet"
 
 #: src/core/modules/StarMgr.cpp:330
 msgid "Stars labels"
-msgstr "Label ng bituin"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:525
 msgid "Meridian"
-msgstr "Meridian"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:529
 msgid "Ecliptic"
-msgstr "Ecliptic"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:533
 msgid "Equator"
-msgstr "Equator"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:537
 msgid "Horizon"
-msgstr "Horizon"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:541
 msgid "Galactic Plane"
-msgstr "Plane ng Galaxy"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:675
 msgid "Equatorial grid"
-msgstr "Grid ng equator"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:676
 msgid "Azimuthal grid"
-msgstr "Grid ng azimuth"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:677
 msgid "Ecliptic line"
-msgstr "Linyang ecliptic"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:678
 msgid "Equator line"
-msgstr "Linya ng equator"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:679
 msgid "Meridian line"
-msgstr "Linya ng meridian"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:680
 msgid "Horizon line"
-msgstr "Linya ng horizon"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:681
 msgid "Equatorial J2000 grid"
-msgstr "J2000 grid ng equator"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:682
 msgid "Ecliptic J2000 grid"
-msgstr "J2000 grid na ecliptic"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:683
 msgid "Galactic grid"
-msgstr "Grid ng galaxy"
+msgstr ""
 
 #: src/core/modules/GridLinesMgr.cpp:684
 msgid "Galactic plane"
-msgstr "Plane ng galaxy"
+msgstr ""
 
 #: src/core/modules/LandscapeMgr.cpp:314
 msgid "Atmosphere"
-msgstr "Atmospera"
+msgstr ""
 
 #: src/core/modules/LandscapeMgr.cpp:315
 msgid "Fog"
-msgstr "Hamog"
+msgstr "Udu"
 
 #: src/core/modules/LandscapeMgr.cpp:316
 msgid "Cardinal points"
-msgstr "Pangunahing direksyon"
+msgstr ""
 
 #: src/core/modules/LandscapeMgr.cpp:317
 msgid "Ground"
-msgstr "Lupa"
+msgstr "Mua"
 
 #: src/core/modules/LandscapeMgr.cpp:523
 msgid "Author: "
-msgstr "May-akda: "
+msgstr "Luadija: "
 
 #: src/core/modules/LandscapeMgr.cpp:526
 msgid "Location: "
-msgstr "Lokasyon: "
+msgstr "Sija: "
 
 #: src/core/modules/LandscapeMgr.cpp:531
 #, qt-format
 msgid ", %1 m"
-msgstr ", %1 m"
+msgstr ""
 
 #: src/core/modules/LandscapeMgr.cpp:535
 msgid "Planet: "
-msgstr "Planeta: "
+msgstr ""
 
 #: src/core/modules/Nebula.cpp:102 src/core/modules/Planet.cpp:124
 #: src/core/modules/MinorPlanet.cpp:213 src/core/modules/Comet.cpp:123
@@ -152,482 +150,476 @@ msgstr "Planeta: "
 #: src/core/modules/StarWrapper.cpp:172
 #, qt-format
 msgid "Type: <b>%1</b>"
-msgstr "Uri: <b>%1</b>"
+msgstr ""
 
 #: src/core/modules/Nebula.cpp:107 src/core/modules/Planet.cpp:130
 #: src/core/modules/MinorPlanet.cpp:219 src/core/modules/Comet.cpp:129
 #: src/core/modules/StarWrapper.cpp:56 src/core/modules/StarWrapper.cpp:179
 #, qt-format
 msgid "Magnitude: <b>%1</b> (extincted to: <b>%2</b>)"
-msgstr "Kalakhan: <b>%1</b> (na-extinct sa: <b>%2</b>)"
+msgstr ""
 
 #: src/core/modules/Nebula.cpp:110 src/core/modules/Planet.cpp:133
 #: src/core/modules/MinorPlanet.cpp:222 src/core/modules/Comet.cpp:132
 #: src/core/modules/StarWrapper.cpp:59 src/core/modules/StarWrapper.cpp:182
 #, qt-format
 msgid "Magnitude: <b>%1</b>"
-msgstr "Kalakhan: <b>%1</b>"
+msgstr ""
 
 #: src/core/modules/Nebula.cpp:115
 #, qt-format
 msgid "Size: %1"
-msgstr "Sukat: %1"
+msgstr ""
 
 #: src/core/modules/Nebula.cpp:342
 msgid "Galaxy"
-msgstr "Kalawakan"
+msgstr ""
 
 #: src/core/modules/Nebula.cpp:345
 msgid "Open cluster"
-msgstr "Bukas na klaster"
+msgstr ""
 
 #: src/core/modules/Nebula.cpp:348
 msgid "Globular cluster"
-msgstr "Globong klaster"
+msgstr ""
 
 #: src/core/modules/Nebula.cpp:351
 msgid "Nebula"
-msgstr "Nebula"
+msgstr ""
 
 #: src/core/modules/Nebula.cpp:354
 msgid "Planetary nebula"
-msgstr "Planetaryong nebula"
+msgstr ""
 
 #: src/core/modules/Nebula.cpp:357
 msgid "Dark Nebula"
-msgstr "Madilim na nebula"
+msgstr ""
 
 #: src/core/modules/Nebula.cpp:360
 msgid "Cluster associated with nebulosity"
-msgstr "Klaster na may kaugnayan sa nebulosidad"
+msgstr ""
 
 #: src/core/modules/Nebula.cpp:363
 msgid "Unknown"
-msgstr "Hindi alam"
+msgstr ""
 
 #: src/core/modules/Nebula.cpp:366
 msgid "Undocumented type"
-msgstr "Hindi dokumentadong uri"
+msgstr ""
 
 #: src/core/modules/NebulaMgr.cpp:123
 msgid "Deep-sky objects"
-msgstr "Mga bagay sa deep sky"
+msgstr ""
 
 #: src/core/modules/Planet.cpp:136 src/core/modules/MinorPlanet.cpp:232
 #: src/core/modules/MinorPlanet.cpp:236 src/core/modules/Comet.cpp:141
 #: src/core/modules/StarWrapper.cpp:186
 #, qt-format
 msgid "Absolute Magnitude: %1"
-msgstr "Tiyak na Kalakhan: %1"
+msgstr ""
 
 #: src/core/modules/Planet.cpp:149
 #, qt-format
 msgid "Ecliptic Topocentric (of date): %1/%2"
-msgstr "Ecliptic Topocentric (ng petsa): %1/%2"
+msgstr ""
 
 #: src/core/modules/Planet.cpp:150
 #, qt-format
 msgid "Obliquity (of date, for Earth): %1"
-msgstr "Obliquity (ng petsa, para sa Daigdig): %1"
+msgstr ""
 
 #: src/core/modules/Planet.cpp:160 src/core/modules/MinorPlanet.cpp:249
 #: src/core/modules/Comet.cpp:153
 #, no-c-format, qt-format
 msgid "Distance: %1AU (%2 km)"
-msgstr "Layo: %1AU (%2 km)"
+msgstr ""
 
 #: src/core/modules/Planet.cpp:167 src/core/modules/MinorPlanet.cpp:256
 #: src/core/modules/Comet.cpp:160
 #, no-c-format, qt-format
 msgid "Distance: %1AU"
-msgstr "Layo: %1AU"
+msgstr ""
 
 #: src/core/modules/Planet.cpp:178
 #, qt-format
 msgid "Apparent diameter: %1, with rings: %2"
-msgstr "Nakikitang diametro: %1, kasama singsing: %2"
+msgstr ""
 
 #: src/core/modules/Planet.cpp:184 src/core/modules/MinorPlanet.cpp:262
 #, qt-format
 msgid "Apparent diameter: %1"
-msgstr "Nakikitang diametro: %1"
+msgstr ""
 
 #. TRANSLATORS: Sidereal (orbital) period for solar system bodies in days and in Julian years (symbol: a)
 #: src/core/modules/Planet.cpp:196 src/core/modules/MinorPlanet.cpp:269
 #: src/core/modules/Comet.cpp:175
 #, qt-format
 msgid "Sidereal period: %1 days (%2 a)"
-msgstr "Sidereal period: %1 araw (%2 a)"
+msgstr ""
 
 #: src/core/modules/Planet.cpp:199
 #, qt-format
 msgid "Sidereal day: %1"
-msgstr "Sidereal na araw: %1"
+msgstr ""
 
 #: src/core/modules/Planet.cpp:200
 #, qt-format
 msgid "Mean solar day: %1"
-msgstr "Mean na solar na araw: %1"
+msgstr ""
 
 #: src/core/modules/Planet.cpp:206
 #, qt-format
 msgid "Phase Angle: %1"
-msgstr "Anggulo ng phase: %1"
+msgstr ""
 
 #: src/core/modules/Planet.cpp:207
 #, qt-format
 msgid "Elongation: %1"
-msgstr "Paghaba: %1"
+msgstr ""
 
 #: src/core/modules/Planet.cpp:208
 #, qt-format
 msgid "Phase: %1"
-msgstr "Phase: %1"
+msgstr ""
 
 #: src/core/modules/Planet.cpp:209
 #, qt-format
 msgid "Illuminated: %1%"
-msgstr "Naliliwanagan: %1%"
+msgstr ""
 
 #: src/core/modules/MinorPlanet.cpp:205
 #, qt-format
 msgid "Provisional designation: %1"
-msgstr "Pansamantalang pangalan: %1"
+msgstr ""
 
 #: src/core/modules/SolarSystem.cpp:151
 msgid "Planet labels"
-msgstr "Label ng planeta"
+msgstr ""
 
 #: src/core/modules/SolarSystem.cpp:152
 msgid "Planet orbits"
-msgstr "Orbit ng planeta"
+msgstr ""
 
 #: src/core/modules/SolarSystem.cpp:153
 msgid "Planet trails"
-msgstr "Daanan ng planeta"
+msgstr ""
 
 #: src/core/modules/SolarSystem.cpp:154
 msgid "Planet markers"
-msgstr "Marker ng planeta"
+msgstr ""
 
 #. TRANSLATORS: Type of object
 #: src/core/modules/StarWrapper.cpp:50 src/core/modules/StarWrapper.cpp:162
 #: src/translations.h:156
 msgid "star"
-msgstr "bituin"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:64 src/core/modules/StarWrapper.cpp:190
 #, qt-format
 msgid "Color Index (B-V): <b>%2</b>"
-msgstr "Index ng kulay (B-V): <b>%2</b>"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:143
 msgid "eruptive variable star"
-msgstr "pumuputok na nagbabagong bituin"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:145
 msgid "pulsating variable star"
-msgstr "kumikislap na nagbabagong bituin"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:147
 msgid "rotating variable star"
-msgstr "umiikot na nagbabagong bituin"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:149
 msgid "cataclysmic variable star"
-msgstr "cataclysmic na nagbabagong bituin"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:152
 msgid "eclipsing binary system"
-msgstr "nag-eeclipse na sistemang dalawahan"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:156
 msgid "variable star"
-msgstr "nagbabagong bituin"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:160
 msgid "double star"
-msgstr "dobleng bituin"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:167
 #, qt-format
 msgid "Type: <b>%1, %2</b>"
-msgstr "Uri: <b>%1, %2</b>"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:206
 #, qt-format
 msgid "Magnitude range: <b>%1</b>%2<b>%3</b> (Photometric system: %4)"
-msgstr "Saklaw na kalakhan: <b>%1</b> %2<b>%3</b> (sistemang potometriko: %4)"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:208
 #, qt-format
 msgid "Magnitude range: <b>%1</b>%2<b>%3/%4</b> (Photometric system: %5)"
 msgstr ""
-"Saklaw na kalakhan: <b>%1</b> %2<b>%3/%4</b> (sistemang potometriko: %5)"
 
 #: src/core/modules/StarWrapper.cpp:215
 #, qt-format
 msgid "Distance: %1 Light Years"
-msgstr "Layo: %1 taon-liwanag"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:220
 #, qt-format
 msgid "Spectral Type: %1"
-msgstr "Uri ng ispektra: %1"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:223
 #, qt-format
 msgid "Parallax: %1\""
-msgstr "Parallax: %1\""
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:229
 #, qt-format
 msgid "Epoch for minimum light: %1 JD"
-msgstr "Epoch para sa minimum na liwanag: %1 JD"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:231
 #, qt-format
 msgid "Epoch for maximum light: %1 JD"
-msgstr "Epoch para sa maximum na liwanag: %1 JD"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:235
 #, qt-format
 msgid "Period: %1 days"
-msgstr "Period: %1 araw"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:245
 #, qt-format
 msgid "Next minimum light: %1 UTC"
-msgstr "Susunod na minimum na liwanag: %1 UTC"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:247
 #, qt-format
 msgid "Next maximum light: %1 UTC"
-msgstr "Susunod na maximum na liwanag: %1 UTC"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:253
 #, qt-format
 msgid "Duration of eclipse: %1%"
-msgstr "Haba ng eclipse: %1%"
+msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:255
 #, qt-format
 msgid "Rising time: %1%"
-msgstr "Oras ng pagsikat: %1%"
+msgstr ""
 
 #: src/core/StelApp.cpp:466
 msgid "Night mode"
-msgstr "Madilim na tema"
+msgstr ""
 
 #. TRANSLATORS: "Planet name" displayed when "flying" to another planet with Ctrl+G.
 #: src/core/StelObserver.cpp:282
 msgid "SpaceShip"
-msgstr "Spaceship"
+msgstr ""
 
 #: src/core/StelCore.cpp:161 qml/SettingsPanel.qml:43 qml/TimeDialog.qml:23
 msgid "Date and Time"
-msgstr "Petsa at oras"
+msgstr ""
 
 #: src/core/StelCore.cpp:162 src/core/StelMovementMgr.cpp:105
 msgid "Movement and Selection"
-msgstr "Paggalaw at pagpili"
+msgstr ""
 
 #: src/core/StelCore.cpp:165
 msgid "Increase time speed"
-msgstr "Bilisan ang oras"
+msgstr ""
 
 #: src/core/StelCore.cpp:166
 msgid "Decrease time speed"
-msgstr "Bagalan ang oras"
+msgstr ""
 
 #: src/core/StelCore.cpp:167
 msgid "Increase time speed (a little)"
-msgstr "Bilisan ang oras (nang konti)"
+msgstr ""
 
 #: src/core/StelCore.cpp:168
 msgid "Decrease time speed (a little)"
-msgstr "Bagalan ang oras (nang konti)"
+msgstr ""
 
 #: src/core/StelCore.cpp:169
 msgid "Set normal time rate"
-msgstr "Itakda ang normal na oras"
+msgstr ""
 
 #: src/core/StelCore.cpp:170
 msgid "Set time rate to zero"
-msgstr "Itakda ang oras sa zero"
+msgstr ""
 
 #: src/core/StelCore.cpp:171 qml/TimeDialog.qml:38
 msgid "Set time to now"
-msgstr "Itakda ang oras sa kasalukuyan"
+msgstr ""
 
 #: src/core/StelCore.cpp:172
 msgid "Add 1 solar hour"
-msgstr "Magdagdag ng 1 solar na oras"
+msgstr ""
 
 #: src/core/StelCore.cpp:173
 msgid "Add 1 solar day"
-msgstr "Magdagdag ng 1 solar na araw"
+msgstr ""
 
 #: src/core/StelCore.cpp:174
 msgid "Add 1 solar week"
-msgstr "Magdagdag ng 1 solar na linggo"
+msgstr ""
 
 #: src/core/StelCore.cpp:175
 msgid "Subtract 1 solar hour"
-msgstr "Magbawas ng 1 solar na oras"
+msgstr ""
 
 #: src/core/StelCore.cpp:176
 msgid "Subtract 1 solar day"
-msgstr "Magbáwas ng 1 solar na araw"
+msgstr ""
 
 #: src/core/StelCore.cpp:177
 msgid "Subtract 1 solar week"
-msgstr "Magbáwas ng 1 solar na linggo"
+msgstr ""
 
 #: src/core/StelCore.cpp:178
 msgid "Add 1 sidereal day"
-msgstr "Magdagdag ng 1 sidereal na araw"
+msgstr ""
 
 #: src/core/StelCore.cpp:179
 msgid "Add 1 sidereal week"
-msgstr "Magdagdag ng 1 sidereal na linggo"
+msgstr ""
 
 #: src/core/StelCore.cpp:180
 msgid "Add 1 sidereal month"
-msgstr "Magdagdag ng 1 sidereal na buwan"
+msgstr ""
 
 #: src/core/StelCore.cpp:181
 msgid "Add 1 sidereal year"
-msgstr "Magdagdag ng 1 sidereal na taon"
+msgstr ""
 
 #: src/core/StelCore.cpp:182
 msgid "Add 1 sidereal century"
-msgstr "Magdagdag ng 1 sidereal na siglo"
+msgstr ""
 
 #: src/core/StelCore.cpp:183
 msgid "Add 1 synodic month"
-msgstr "Magdagdag ng 1 synodic na buwan"
+msgstr ""
 
 #: src/core/StelCore.cpp:184
 msgid "Add 1 draconic month"
-msgstr "Magdagdag ng 1 draconic na buwan"
+msgstr ""
 
 #: src/core/StelCore.cpp:185
 msgid "Add 1 draconic year"
-msgstr "Magdagdag ng 1 draconic na taon"
+msgstr ""
 
 #: src/core/StelCore.cpp:186
 msgid "Add 1 anomalistic month"
-msgstr "Magdagdag ng 1 maanomalyang buwan"
+msgstr ""
 
 #: src/core/StelCore.cpp:187
 msgid "Add 1 mean tropical month"
-msgstr "Magdagdag ng 1 mean na tropikal na buwan"
+msgstr ""
 
 #: src/core/StelCore.cpp:188
 msgid "Add 1 mean tropical year"
-msgstr "Magdagdag ng 1 mean na tropikal na taon"
+msgstr ""
 
 #: src/core/StelCore.cpp:189
 msgid "Add 1 mean tropical century"
-msgstr "Magdagdag ng 1 mean na tropikal na siglo"
+msgstr ""
 
 #: src/core/StelCore.cpp:190
 msgid "Subtract 1 sidereal day"
-msgstr "Magbawas ng ng 1 sidereal na araw"
+msgstr ""
 
 #: src/core/StelCore.cpp:191
 msgid "Subtract 1 sidereal week"
-msgstr "Magbawas ng ng 1 sidereal na linggo"
+msgstr ""
 
 #: src/core/StelCore.cpp:192
 msgid "Subtract 1 sidereal month"
-msgstr "Magbawas ng ng 1 sidereal na buwan"
+msgstr ""
 
 #: src/core/StelCore.cpp:193
 msgid "Subtract 1 sidereal year"
-msgstr "Magbawas ng 1 sidereal na taon"
+msgstr ""
 
 #: src/core/StelCore.cpp:194
 msgid "Subtract 1 sidereal century"
-msgstr "Magbawas ng ng 1 sidereal na siglo"
+msgstr ""
 
 #: src/core/StelCore.cpp:195
 msgid "Subtract 1 synodic month"
-msgstr "Magbawas ng 1 synodic na buwan"
+msgstr ""
 
 #: src/core/StelCore.cpp:196
 msgid "Subtract 1 draconic month"
-msgstr "Magbawas ng 1 draconic na buwan"
+msgstr ""
 
 #: src/core/StelCore.cpp:197
 msgid "Subtract 1 draconic year"
-msgstr "Magbawas ng 1 draconic na taon"
+msgstr ""
 
 #: src/core/StelCore.cpp:198
 msgid "Subtract 1 anomalistic month"
-msgstr "Magbawas ng 1 maanomalyang buwan"
+msgstr ""
 
 #: src/core/StelCore.cpp:199
 msgid "Subtract 1 mean tropical month"
-msgstr "Magbawas ng 1 mean na tropikal na buwan"
+msgstr ""
 
 #: src/core/StelCore.cpp:200
 msgid "Subtract 1 mean tropical year"
-msgstr "Magbawas ng 1 mean na tropikal na taon"
+msgstr ""
 
 #: src/core/StelCore.cpp:201
 msgid "Subtract 1 mean tropical century"
-msgstr "Magbawas ng 1 mean na tropikal na siglo"
+msgstr ""
 
 #: src/core/StelCore.cpp:203
 msgid "Set home planet to selected planet"
-msgstr "Gawing tahanan ang napiling planeta"
+msgstr ""
 
 #: src/core/StelCore.cpp:204
 msgid "Go to home"
-msgstr "Umuwi"
+msgstr ""
 
 #: src/core/StelCore.cpp:205
 msgid "Flip scene horizontally"
-msgstr "Baligtarin pahiga ang eksena"
+msgstr ""
 
 #: src/core/StelCore.cpp:206
 msgid "Flip scene vertically"
-msgstr "Baligtarin patayo ang eksena"
+msgstr ""
 
 #: src/core/StelProjector.cpp:129
 msgid "Maximum FOV: "
-msgstr "Maximum na FOV: "
+msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:25
 msgid "Perspective"
-msgstr "Perspektibo"
+msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:30
 msgid ""
 "Perspective projection keeps the horizon a straight line. The mathematical "
 "name for this projection method is <i>gnomonic projection</i>."
 msgstr ""
-"Pinapanatili ng projection sa perspektibo ang pagiging tuwid ng linya ng "
-"horizon. Ang pangalan ng paraan ng projection na ito sa matematika ay "
-"<i>gnomonic projection</i>."
 
 #: src/core/StelProjectorClasses.cpp:63
 msgid "Equal Area"
-msgstr "Pantay na Area"
+msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:68
 msgid ""
 "The full name of this projection method is, <i>Lambert azimuthal equal-area "
 "projection</i>. It preserves the area but not the angle."
 msgstr ""
-"<i>Lambert azimuthal equal-area projection</i> ang buong pangalan nito sa "
-"Ingles. Pinepreserba nito ang area pero hindi ang anggulo."
 
 #: src/core/StelProjectorClasses.cpp:108
 msgid "Stereographic"
-msgstr "Stereographic"
+msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:113
 msgid ""
@@ -635,14 +627,10 @@ msgid ""
 "known as the planisphere projection. It preserves the angles at which curves "
 "cross each other but it does not preserve area."
 msgstr ""
-"Kilala na noon pang sinaunang panahon ang projection na stereographic at "
-"orihinal na kilala ito sa tawag na planisphere projection. Pinepreserba nito "
-"ang mga anggulo sa punto ng kurba kung saan nagkikita-kita ang mga ito, pero "
-"hindi nito pinepreserba ang area."
 
 #: src/core/StelProjectorClasses.cpp:145
 msgid "Fish-eye"
-msgstr "Mata ng isda"
+msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:150
 msgid ""
@@ -651,40 +639,30 @@ msgid ""
 "centre of the field of view (like the distortions seen with very wide angle "
 "camera lenses)."
 msgstr ""
-"Sa projection ng mata ng isda, o <i>azimuthal equidistant projection</i>, "
-"kumukurba ang mga tuwid na linya kapag nakikita sila sa isang malawak na "
-"layo ng anggulo mula sa sentro ng tingin (tulad ng mga distortion na "
-"makikita sa mga lente ng kamera na may malalawak na anggulo)."
 
 #: src/core/StelProjectorClasses.cpp:182
 msgid "Hammer-Aitoff"
-msgstr "Hammer-Aitoff"
+msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:187
 msgid ""
 "The Hammer projection is an equal-area map projection, described by Ernst "
 "Hammer in 1892 and directly inspired by the Aitoff projection."
 msgstr ""
-"Isang pantay na area na projection sa mapa ang projection na Hammer, na "
-"unang inilarawan ni Ernst Hammer noong 1892 at direktang mula sa projection "
-"na Aitoff."
 
 #: src/core/StelProjectorClasses.cpp:223
 msgid "Cylinder"
-msgstr "Silindro"
+msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:228
 msgid ""
 "The full name of this projection mode is <i>cylindrical equidistant "
 "projection</i>. With this projection all parallels are equally spaced."
 msgstr ""
-"<i>Cylindrical equidistant projection</i> ang buong pangalan ng projection "
-"na ito sa Ingles. Dito, pantay-pantay ang espasyo sa pagitan ng mga parallel "
-"na linya."
 
 #: src/core/StelProjectorClasses.cpp:270
 msgid "Mercator"
-msgstr "Mercator"
+msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:275
 msgid ""
@@ -692,430 +670,425 @@ msgid ""
 "preserves direction and shapes but distorts size, in an increasing degree "
 "away from the equator."
 msgstr ""
-"Isa sa mga pinakaginagamit na projection sa mapa ang projection na mercator. "
-"Pinepreserba nito ang direksyon at hugis, pero dino-distort nito ang laki, "
-"patindi nang patindi habang palayo nang palayo sa equator."
 
 #: src/core/StelProjectorClasses.cpp:322
 msgid "Orthographic"
-msgstr "Orthographic"
+msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:327
 msgid ""
 "Orthographic projection is related to perspective projection, but the point "
 "of perspective is set to an infinite distance."
 msgstr ""
-"May kinalaman sa projection na perspektibo ang projection na orthographic, "
-"pero nakatakda ang punto ng perspektibo nito sa isang walang-hanggang layo."
 
 #: src/core/StelObject.cpp:112
 #, qt-format
 msgid "RA/DE (J2000): %1/%2"
-msgstr "RA/DE (J2000): %1/%2"
+msgstr ""
 
 #: src/core/StelObject.cpp:119
 #, qt-format
 msgid "RA/DE (of date): %1/%2"
-msgstr "RA/DE (ng petsa): %1/%2"
+msgstr ""
 
 #: src/core/StelObject.cpp:126
 #, qt-format
 msgid "Galactic longitude/latitude: %1/%2"
-msgstr "Longhitud/latitud sa kalawakan: %1/%2"
+msgstr ""
 
 #: src/core/StelObject.cpp:138 src/core/StelObject.cpp:142
 #, qt-format
 msgid "Hour angle/DE: %1/%2"
-msgstr "Anggulo sa oras/DE: %1/%2"
+msgstr ""
 
 #: src/core/StelObject.cpp:138 src/core/StelObject.cpp:160
 msgid "(apparent)"
-msgstr "(nakikita)"
+msgstr ""
 
 #: src/core/StelObject.cpp:160 src/core/StelObject.cpp:164
 #, qt-format
 msgid "Az/Alt: %1/%2"
-msgstr "Az/Alt: %1/%2"
+msgstr ""
 
 #: src/core/StelSkyLayerMgr.cpp:86
 msgid "Deep-sky objects background images"
-msgstr "Mga larawan sa likuran ng mga bagay sa deep-sky"
+msgstr ""
 
 #: src/core/StelMovementMgr.cpp:106 src/StelMainView.cpp:298
 msgid "Miscellaneous"
-msgstr "Iba pa"
+msgstr ""
 
 #: src/core/StelMovementMgr.cpp:106
 msgid "Switch between equatorial and azimuthal mount"
-msgstr "Pumili sa pagitan ng equatorial o azimuthal na mount"
+msgstr ""
 
 #: src/core/StelMovementMgr.cpp:107
 msgid "Center on selected object"
-msgstr "Sumentro sa napiling bagay"
+msgstr ""
 
 #: src/core/StelMovementMgr.cpp:108
 msgid "Zoom in on selected object"
-msgstr "Lumapit sa napiling bagay"
+msgstr ""
 
 #: src/core/StelMovementMgr.cpp:109
 msgid "Zoom out"
-msgstr "Lumayo"
+msgstr ""
 
 #: src/core/StelMovementMgr.cpp:110
 msgid "Track object"
-msgstr "Sundan ang bagay"
+msgstr ""
 
 #: src/core/SimbadSearcher.cpp:56
 msgid "Network error"
-msgstr "Error sa network"
+msgstr ""
 
 #: src/core/SimbadSearcher.cpp:93 src/core/SimbadSearcher.cpp:105
 msgid "Error parsing position"
-msgstr "Error sa pag-parse sa posisyon"
+msgstr ""
 
 #: src/core/SimbadSearcher.cpp:131
 msgid "Querying"
-msgstr "Hinahanap"
+msgstr ""
 
 #: src/core/SimbadSearcher.cpp:133
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/core/SimbadSearcher.cpp:135
 msgid "Not found"
-msgstr "Di nakita"
+msgstr ""
 
 #: src/core/SimbadSearcher.cpp:135
 msgid "Found"
-msgstr "Nakita"
+msgstr ""
 
 #: src/main.cpp:320
 msgid "This system does not support OpenGL."
-msgstr "Hindi suportado ng system na ito ang OpenGL."
+msgstr ""
 
 #: src/StelMainView.cpp:298
 msgid "Save screenshot"
-msgstr "I-save ang screenshot"
+msgstr ""
 
 #: src/StelMainView.cpp:299
 msgid "Full-screen mode"
-msgstr "Fullscreen"
+msgstr ""
 
 #: src/StelMainView.cpp:356
 #, qt-format
 msgid "Stellarium %1"
-msgstr "Stellarium %1"
+msgstr ""
 
 #: src/translations.h:33
 msgid "Sun"
-msgstr "Araw"
+msgstr ""
 
 #: src/translations.h:34
 msgid "Mercury"
-msgstr "Merkuryo"
+msgstr ""
 
 #: src/translations.h:35
 msgid "Venus"
-msgstr "Benus"
+msgstr ""
 
 #: src/translations.h:36
 msgid "Earth"
-msgstr "Daigdig"
+msgstr ""
 
 #. TRANSLATORS: Name of landscape and Earth's satellite
 #: src/translations.h:37 src/translations.h:195
 msgid "Moon"
-msgstr "Buwan"
+msgstr ""
 
 #. TRANSLATORS: Name of landscape and planet
 #: src/translations.h:38 src/translations.h:203
 msgid "Mars"
-msgstr "Marte"
+msgstr ""
 
 #: src/translations.h:39
 msgid "Deimos"
-msgstr "Deimos"
+msgstr ""
 
 #: src/translations.h:40
 msgid "Phobos"
-msgstr "Phobos"
+msgstr ""
 
 #: src/translations.h:41
 msgid "Ceres"
-msgstr "Ceres"
+msgstr ""
 
 #: src/translations.h:42
 msgid "Pallas"
-msgstr "Pallas"
+msgstr ""
 
 #: src/translations.h:43
 msgid "Juno"
-msgstr "Juno"
+msgstr ""
 
 #: src/translations.h:44
 msgid "Vesta"
-msgstr "Vesta"
+msgstr ""
 
 #: src/translations.h:45
 msgid "Jupiter"
-msgstr "Hupiter"
+msgstr ""
 
 #: src/translations.h:46
 msgid "Io"
-msgstr "Io"
+msgstr ""
 
 #: src/translations.h:47
 msgid "Europa"
-msgstr "Europa"
+msgstr ""
 
 #: src/translations.h:48
 msgid "Ganymede"
-msgstr "Ganymede"
+msgstr ""
 
 #: src/translations.h:49
 msgid "Callisto"
-msgstr "Callisto"
+msgstr ""
 
 #: src/translations.h:50
 msgid "Amalthea"
-msgstr "Amalthea"
+msgstr ""
 
 #: src/translations.h:51
 msgid "Himalia"
-msgstr "Himalia"
+msgstr ""
 
 #: src/translations.h:52
 msgid "Elara"
-msgstr "Elara"
+msgstr ""
 
 #: src/translations.h:53
 msgid "Pasiphae"
-msgstr "Pasiphae"
+msgstr ""
 
 #: src/translations.h:54
 msgid "Sinope"
-msgstr "Sinope"
+msgstr ""
 
 #: src/translations.h:55
 msgid "Lysithea"
-msgstr "Lysithea"
+msgstr ""
 
 #: src/translations.h:56
 msgid "Carme"
-msgstr "Carme"
+msgstr ""
 
 #: src/translations.h:57
 msgid "Ananke"
-msgstr "Ananke"
+msgstr ""
 
 #: src/translations.h:58
 msgid "Leda"
-msgstr "Leda"
+msgstr ""
 
 #: src/translations.h:59
 msgid "Thebe"
-msgstr "Thebe"
+msgstr ""
 
 #: src/translations.h:60
 msgid "Adrastea"
-msgstr "Adrastea"
+msgstr ""
 
 #. TRANSLATORS: Asteroid (9) Metis
 #: src/translations.h:61 src/translations.h:119
 msgid "Metis"
-msgstr "Metis"
+msgstr ""
 
 #. TRANSLATORS: Name of landscape and planet
 #: src/translations.h:62 src/translations.h:205
 msgid "Saturn"
-msgstr "Saturno"
+msgstr ""
 
 #: src/translations.h:63
 msgid "Mimas"
-msgstr "Mimas"
+msgstr ""
 
 #: src/translations.h:64
 msgid "Enceladus"
-msgstr "Enceladus"
+msgstr ""
 
 #: src/translations.h:65
 msgid "Tethys"
-msgstr "Tethys"
+msgstr ""
 
 #: src/translations.h:66
 msgid "Dione"
-msgstr "Dione"
+msgstr ""
 
 #: src/translations.h:67
 msgid "Rhea"
-msgstr "Rhea"
+msgstr ""
 
 #: src/translations.h:68
 msgid "Titan"
-msgstr "Titan"
+msgstr ""
 
 #: src/translations.h:69
 msgid "Hyperion"
-msgstr "Hyperion"
+msgstr ""
 
 #: src/translations.h:70
 msgid "Iapetus"
-msgstr "Iapetus"
+msgstr ""
 
 #: src/translations.h:71
 msgid "Phoebe"
-msgstr "Phoebe"
+msgstr ""
 
 #: src/translations.h:72
 msgid "Neptune"
-msgstr "Neptuno"
+msgstr ""
 
 #: src/translations.h:73
 msgid "Uranus"
-msgstr "Urano"
+msgstr ""
 
 #: src/translations.h:74
 msgid "Miranda"
-msgstr "Miranda"
+msgstr ""
 
 #: src/translations.h:75
 msgid "Ariel"
-msgstr "Ariel"
+msgstr ""
 
 #: src/translations.h:76
 msgid "Umbriel"
-msgstr "Umbriel"
+msgstr ""
 
 #: src/translations.h:77
 msgid "Titania"
-msgstr "Titania"
+msgstr ""
 
 #: src/translations.h:78
 msgid "Oberon"
-msgstr "Oberon"
+msgstr ""
 
 #: src/translations.h:79
 msgid "Pluto"
-msgstr "Pluto"
+msgstr ""
 
 #: src/translations.h:80
 msgid "Charon"
-msgstr "Charon"
+msgstr ""
 
 #. TRANSLATORS: Moon of Pluto (II)
 #: src/translations.h:82
 msgid "Nix"
-msgstr "Nix"
+msgstr ""
 
 #. TRANSLATORS: Moon of Pluto (III)
 #: src/translations.h:84
 msgid "Hydra (moon)"
-msgstr "Hydra (buwan)"
+msgstr ""
 
 #: src/translations.h:85
 msgid "Eris"
-msgstr "Eris"
+msgstr ""
 
 #: src/translations.h:86
 msgid "Triton"
-msgstr "Triton"
+msgstr ""
 
 #: src/translations.h:87
 msgid "Nereid"
-msgstr "Nereid"
+msgstr ""
 
 #: src/translations.h:88
 msgid "Naiad"
-msgstr "Naiad"
+msgstr ""
 
 #: src/translations.h:89
 msgid "Thalassa"
-msgstr "Thalassa"
+msgstr ""
 
 #: src/translations.h:90
 msgid "Despina"
-msgstr "Despina"
+msgstr ""
 
 #: src/translations.h:91
 msgid "Galatea"
-msgstr "Galatea"
+msgstr ""
 
 #: src/translations.h:92
 msgid "Larissa"
-msgstr "Larissa"
+msgstr ""
 
 #: src/translations.h:93
 msgid "Proteus"
-msgstr "Proteus"
+msgstr ""
 
 #: src/translations.h:94
 msgid "Halimede"
-msgstr "Halimede"
+msgstr ""
 
 #: src/translations.h:95
 msgid "Psamathe"
-msgstr "Psamathe"
+msgstr ""
 
 #: src/translations.h:96
 msgid "Sao"
-msgstr "Sao"
+msgstr ""
 
 #: src/translations.h:97
 msgid "Laomedeia"
-msgstr "Laomedeia"
+msgstr ""
 
 #: src/translations.h:98
 msgid "Neso"
-msgstr "Neso"
+msgstr ""
 
 #: src/translations.h:99
 msgid "Solar System Observer"
-msgstr "Manonood ng Sistemang Solar"
+msgstr ""
 
 #. TRANSLATORS: TNO/Asteroid (90377) Sedna
 #: src/translations.h:102
 msgid "Sedna"
-msgstr "Sedna"
+msgstr ""
 
 #. TRANSLATORS: TNO/Asteroid (50000) Quaoar
 #: src/translations.h:104
 msgid "Quaoar"
-msgstr "Quaoar"
+msgstr ""
 
 #. TRANSLATORS: TNO/Asteroid (90482) Orcus
 #: src/translations.h:106
 msgid "Orcus"
-msgstr "Orcus"
+msgstr ""
 
 #. TRANSLATORS: TNO/Asteroid (136108) Haumea
 #: src/translations.h:108
 msgid "Haumea"
-msgstr "Haumea"
+msgstr ""
 
 #. TRANSLATORS: Asteroid (5) Astraea
 #: src/translations.h:111
 msgid "Astraea"
-msgstr "Astraea"
+msgstr ""
 
 #. TRANSLATORS: Asteroid (6) Hebe
 #: src/translations.h:113
 msgid "Hebe"
-msgstr "Hebe"
+msgstr ""
 
 #. TRANSLATORS: Asteroid (7) Iris
 #: src/translations.h:115
 msgid "Iris"
-msgstr "Iris"
+msgstr ""
 
 #. TRANSLATORS: Asteroid (8) Flora
 #: src/translations.h:117
 msgid "Flora"
-msgstr "Flora"
+msgstr ""
 
 #. TRANSLATORS: Asteroid (10) Hygiea
 #: src/translations.h:121
 msgid "Hygiea"
-msgstr "Hygiea"
+msgstr ""
 
 #. TRANSLATORS: Asteroid (41) Daphne
 #: src/translations.h:123
@@ -1160,304 +1133,300 @@ msgstr ""
 #. TRANSLATORS: Proper name of comet C/1680 V1
 #: src/translations.h:140
 msgid "Great Comet of 1680 (C/1680 V1)"
-msgstr "Dakilang Kometa ng 1680 (C/1680 V1)"
+msgstr ""
 
 #. TRANSLATORS: Name of supernova SN 1572A and script name
 #: src/translations.h:143
 msgid "Tycho's Supernova"
-msgstr "Supernova ni Tycho"
+msgstr ""
 
 #. TRANSLATORS: Name of supernova SN 1604A
 #: src/translations.h:145
 msgid "Kepler's Supernova"
-msgstr "Supernova ni Kepler"
+msgstr ""
 
 #: src/translations.h:148
 msgid "N"
-msgstr "H"
+msgstr ""
 
 #: src/translations.h:149
 msgid "S"
-msgstr "T"
+msgstr ""
 
 #: src/translations.h:150
 msgid "E"
-msgstr "S"
+msgstr ""
 
 #: src/translations.h:151
 msgid "W"
-msgstr "K"
+msgstr ""
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:158
 msgid "planet"
-msgstr "planeta"
+msgstr ""
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:160
 msgid "comet"
-msgstr "kometa"
+msgstr ""
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:162
 msgid "asteroid"
-msgstr "asteroid"
+msgstr ""
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:164
 msgid "moon"
-msgstr "buwan"
+msgstr ""
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:166
 msgid "plutoid"
-msgstr "mala-Pluto"
+msgstr ""
 
 #: src/translations.h:170
 msgid "Arabic"
-msgstr "Arabo"
+msgstr ""
 
 #: src/translations.h:171
 msgid "Aztec"
-msgstr "Aztec"
+msgstr ""
 
 #: src/translations.h:172
 msgid "Chinese"
-msgstr "Tsino"
+msgstr ""
 
 #: src/translations.h:173
 msgid "Egyptian"
-msgstr "Ehipto"
+msgstr ""
 
 #: src/translations.h:174
 msgid "Inuit"
-msgstr "Inuit"
+msgstr ""
 
 #: src/translations.h:175
 msgid "Indian Vedic"
-msgstr "Vedic ng India"
+msgstr ""
 
 #: src/translations.h:176
 msgid "Korean"
-msgstr "Koreano"
+msgstr ""
 
 #: src/translations.h:177
 msgid "Lakota"
-msgstr "Lakota"
+msgstr ""
 
 #: src/translations.h:178
 msgid "Maori"
-msgstr "Maori"
+msgstr ""
 
 #: src/translations.h:179
 msgid "Navajo"
-msgstr "Navajo"
+msgstr ""
 
 #: src/translations.h:180
 msgid "Norse"
-msgstr "Norse"
+msgstr ""
 
 #: src/translations.h:181
 msgid "Polynesian"
-msgstr "Polynesia"
+msgstr ""
 
 #: src/translations.h:182
 msgid "Sami"
-msgstr "Sami"
+msgstr ""
 
 #: src/translations.h:183
 msgid "Tupi-Guarani"
-msgstr "Tupi-Guarani"
+msgstr ""
 
 #: src/translations.h:184
 msgid "Tongan"
-msgstr "Tonga"
+msgstr ""
 
 #: src/translations.h:185
 msgid "Western"
-msgstr "Kanluranin"
+msgstr ""
 
 #. TRANSLATORS: Name of landscape
 #: src/translations.h:191
 msgid "Guereins"
-msgstr "Guereins"
+msgstr ""
 
 #. TRANSLATORS: Name of landscape
 #: src/translations.h:193
 msgid "Trees"
-msgstr "Gubat"
+msgstr ""
 
 #. TRANSLATORS: Landscape name: Hurricane Ridge
 #: src/translations.h:197
 msgid "Hurricane"
-msgstr "Bagyo"
+msgstr ""
 
 #. TRANSLATORS: Name of landscape
 #: src/translations.h:199
 msgid "Ocean"
-msgstr "Karagatan"
+msgstr ""
 
 #. TRANSLATORS: Landscape name: Garching bei Munchen
 #: src/translations.h:201
 msgid "Garching"
-msgstr "Garching"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:211
 msgid "Landscape Tour"
-msgstr "Landscape Tour"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:213
 msgid "Partial Lunar Eclipse"
-msgstr "Bahagyang Eclipse ng Buwan"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:215
 msgid "Total Lunar Eclipse"
-msgstr "Buong Eclipse ng Buwan"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:217
 msgid "Screensaver"
-msgstr "Screensaver"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:219
 msgid "Solar Eclipse 2009"
-msgstr "Solar Eclipse 2009"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:221
 msgid "Startup Script"
-msgstr "Panimulang Script"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:223
 msgid "Zodiac"
-msgstr "Zodiac"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:225
 msgid "Mercury Triple Sunrise and Sunset"
-msgstr "Tatlong Pagsikat at Paglubog ng Merkuryo"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:227
 msgid "Double eclipse from Deimos in 2017"
-msgstr "Dobleng Eclipse mula sa Deimos noong 2017"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:229
 msgid "Double eclipse from Deimos in 2031"
-msgstr "Dobleng eclipse mula sa Deimos sa 2031"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:231
 msgid "Eclipse from Olympus Mons Jan 10 2068"
-msgstr "Eclipse mula sa Olympis Mons 10 Enero 2068"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:233
 msgid "Occultation of Earth and Jupiter 2048"
-msgstr "Paghilera ng Daigdig at Hupiter 2048"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:235
 msgid "3 Transits and 2 Eclipses from Deimos 2027"
-msgstr "3 Transit at 2 Eclipse mula sa Deimos 2027"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:237
 msgid "Solar System Screensaver"
-msgstr "Screensaver ng Sistemang Solar"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:239
 msgid "Constellations Tour"
-msgstr "Constellations Tour"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:241
 msgid "Sun from different planets"
-msgstr "Ang Araw mula sa ibat-ibang planeta"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:243
 msgid "Earth best views from other bodies"
-msgstr "Pinakamagagandang view ng Daigdig mula sa ibang mga body"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:245
 msgid "Transit of Venus"
-msgstr "Transit ng Venus"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:247
 msgid "Analemma"
-msgstr "Analemma"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:249
 msgid "Sky Culture Tour"
-msgstr "Sky Culture Tour"
+msgstr ""
 
 #. TRANSLATORS: Name and description of script
 #: src/translations.h:251
 msgid "Earth Events from Mercury"
-msgstr "Mga Pangyayari sa Daigdig mula Merkuryo"
+msgstr ""
 
 #. TRANSLATORS: Name and description of script
 #: src/translations.h:253
 msgid "Earth Events from Venus"
-msgstr "Mga Pangyayari sa Daigdig mula Benus"
+msgstr ""
 
 #. TRANSLATORS: Name and description of script
 #: src/translations.h:255
 msgid "Earth Events from Mars"
-msgstr "Mga Pangyayari sa Daigdig mula Marte"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:257
 msgid "Earth Greatest Elongations and Brilliancies from Mars"
-msgstr "Mga Pinakamatinding Paghaba at Pagkinang ng Daigdig mula Marte"
+msgstr ""
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:259
 msgid "Earth and Mars Greatest Elongations from Jupiter"
-msgstr "Mga Pinakamatinding Paghaba ng Daigdig at Marte mula Hupiter"
+msgstr ""
 
 #. TRANSLATORS: Description of the landscape tour script.
 #: src/translations.h:265
 msgid "Look around each installed landscape."
-msgstr "Tumingin-tingin sa mga naka-install na tanawin."
+msgstr ""
 
 #. TRANSLATORS: Description of the sky culture tour script.
 #: src/translations.h:267
 msgid "Look at each installed sky culture."
-msgstr "Tumingin-tingin sa mga naka-install na sky culture."
+msgstr ""
 
 #: src/translations.h:268
 msgid "Script to demonstrate a partial lunar eclipse."
-msgstr "Script para ipakita ang isang bahagyang eclipse ng buwan."
+msgstr ""
 
 #: src/translations.h:269
 msgid "Script to demonstrate a total lunar eclipse."
-msgstr "Script para ipakita ang isang buong eclipse ng buwan."
+msgstr ""
 
 #: src/translations.h:270
 msgid "A slow, infinite tour of the sky, looking at random objects."
 msgstr ""
-"Mabagal at walang-hanggang paglalakbay sa kalangitan, tumitingin sa kung ano-"
-"anong mga bagay."
 
 #: src/translations.h:271
 msgid ""
 "Script to demonstrate a total solar eclipse which has happened in 2009 "
 "(location=Rangpur, Bangladesh)."
 msgstr ""
-"Script para ipakita ang isang buong eclipse ng araw na nangyari noong 2009 ("
-"lugar=Rangpur, Bangladesh)."
 
 #: src/translations.h:272
 msgid "Script which runs automatically at startup"
@@ -2031,9 +2000,8 @@ msgid "Kazakhstan"
 msgstr ""
 
 #: src/translations.h:412
-#, fuzzy
 msgid "Lao"
-msgstr "Lakota"
+msgstr ""
 
 #: src/translations.h:413
 msgid "Lebanon"
@@ -2476,9 +2444,8 @@ msgid "United States Virgin Islands"
 msgstr ""
 
 #: src/translations.h:523
-#, fuzzy
 msgid "Viet Nam"
-msgstr "Pangalan ng mga Planeta"
+msgstr ""
 
 #: src/translations.h:524
 msgid "Vanuatu"
@@ -2518,7 +2485,7 @@ msgstr ""
 
 #: qml/AboutDialog.qml:24 qml/SettingsPanel.qml:63
 msgid "About"
-msgstr "Patungkol"
+msgstr ""
 
 #: qml/InfoPanel.qml:125
 msgid "Unnamed"
@@ -2533,13 +2500,12 @@ msgid "Pick City"
 msgstr ""
 
 #: qml/LocationCityPicker.qml:25
-#, fuzzy
 msgid "Pick Country"
-msgstr "Bansa:"
+msgstr ""
 
 #: qml/LocationDialog.qml:25 qml/SettingsPanel.qml:51
 msgid "Location"
-msgstr "Kinaroroonan"
+msgstr ""
 
 #: qml/LocationDialog.qml:37
 msgid "Use GPS"
@@ -2551,7 +2517,7 @@ msgstr ""
 
 #: qml/LocationDialog.qml:72
 msgid "Name/City:"
-msgstr "Ngalan/Lungsod:"
+msgstr ""
 
 #: qml/main.qml:75
 msgid "It is daytime, fast forward time until…"
@@ -2591,9 +2557,8 @@ msgid "Advanced"
 msgstr ""
 
 #: qml/StelDialog.qml:24
-#, fuzzy
 msgid "Stellarium"
-msgstr "Tulong sa Stellarium"
+msgstr ""
 
 #: qml/TimeBar.qml:34
 msgid "Real time"
@@ -2612,24 +2577,20 @@ msgid "Show planet markers"
 msgstr ""
 
 #: qml/AdvancedDialog.qml:52
-#, fuzzy
 msgid "Show ecliptic line"
-msgstr "Linya ng Ekliptiko"
+msgstr ""
 
 #: qml/AdvancedDialog.qml:59
-#, fuzzy
 msgid "Show meridian line"
-msgstr "Linya ng Meridian"
+msgstr ""
 
 #: qml/AdvancedDialog.qml:70 qml/AdvancedDialog.qml:75
-#, fuzzy
 msgid "Light pollution"
-msgstr "Polusyon ng liwánag: "
+msgstr ""
 
 #: qml/AdvancedDialog.qml:87 qml/AdvancedDialog.qml:92
-#, fuzzy
 msgid "Milky Way brightness"
-msgstr "Liwanag ng Milky Way "
+msgstr ""
 
 #: qml/AdvancedDialog.qml:104 qml/AdvancedDialog.qml:109
 msgid "Thickness of lines"
@@ -2646,446 +2607,3 @@ msgstr ""
 #: qml/AnglePicker.qml:24
 msgid "Longitude"
 msgstr ""
-
-#~ msgid "Opposition/conjunction longitude line"
-#~ msgstr "Linyang Kasalungat/Kasabay na Longhitud"
-
-#~ msgid "Illumination"
-#~ msgstr "Iluminasyon"
-
-#~ msgid "Celestial body:"
-#~ msgstr "Lamang kalawakan"
-
-#~ msgid "Opacity: <b>%1</b>"
-#~ msgstr "Kalabuan: <b>%1</b>"
-
-#~ msgid "Surface brightness: <b>%1</b>"
-#~ msgstr "Liwanag: <b>%1</b>"
-
-#~ msgid "Planets"
-#~ msgstr "Mga Planeta"
-
-#~ msgid "Select screenshot directory"
-#~ msgstr "Piliin ang directory para sa mga screenshot"
-
-#~ msgid "Authors"
-#~ msgstr "Mga May-Akda"
-
-#~ msgid "Running script: "
-#~ msgstr "Running script: "
-
-#~ msgid "Running script: [none]"
-#~ msgstr "Pinatatakbo ang script: [wala]"
-
-#~ msgid ""
-#~ "Finished downloading new star catalogs!\n"
-#~ "Restart Stellarium to display them."
-#~ msgstr ""
-#~ "Tapos nang i-download ang mga bagong talaan ng mga bituin!\n"
-#~ "Isara at buksan muli ang Stellarium upang makita ang mga ito."
-
-#~ msgid "Get catalog %1 of %2"
-#~ msgstr "Kinukuha ang talaan %1 ng %2"
-
-#~ msgid ""
-#~ "Error downloading %1:\n"
-#~ "%2"
-#~ msgstr ""
-#~ "Pagkakamali sa pag-download %1:\n"
-#~ "%2"
-
-#~ msgid ""
-#~ "Error downloading %1:\n"
-#~ "File is corrupted."
-#~ msgstr ""
-#~ "Pagkakamali sa pag-download %1:\n"
-#~ "Sira ang file."
-
-#~ msgid "Keys"
-#~ msgstr "Mga Susi"
-
-#~ msgid "Further Reading"
-#~ msgstr "Karagdagang Impormasyon"
-
-#~ msgid "Arrow keys & left mouse drag"
-#~ msgstr "Mga arrow key & paggalaw sa mouse"
-
-#~ msgid "Zoom in/out"
-#~ msgstr "Palapitin/palayuin"
-
-#~ msgid "Page Up/Down"
-#~ msgstr "Page Up/Down"
-
-#~ msgid "Select object"
-#~ msgstr "Piliin ang bagay"
-
-#~ msgid "Left click"
-#~ msgstr "Kaliwang klik"
-
-#~ msgid "Right click"
-#~ msgstr "Kanang klik"
-
-#~ msgid ""
-#~ "The following links are external web links, and will launch your web "
-#~ "browser:\n"
-#~ msgstr ""
-#~ "Ang mga sumusunod ay mga panlabas na kawing (link). Bubuksan nila ang "
-#~ "inyong web browser:\n"
-
-#~ msgid "The Stellarium User Guide"
-#~ msgstr "Ang Gabay para sa mga Gumagamit ng Stellarium"
-
-#~ msgid "{Frequently Asked Questions} about Stellarium.  Answers too."
-#~ msgstr "{Kadalasang mga Itinatanong} ukol sa Stellarium. Mga sagot rin."
-
-#~ msgid ""
-#~ "{The Stellarium Wiki} - General information.  You can also find user-"
-#~ "contributed landscapes and scripts here."
-#~ msgstr ""
-#~ "{The Stellarium Wiki} - Pangkalahatang impormasyon. Maaari din kayong "
-#~ "makakita dito ng mga lupain at script na ginawa ng iba."
-
-#~ msgid ""
-#~ "{Support ticket system} - if you need help using Stellarium, post a "
-#~ "support request here and we'll try to help."
-#~ msgstr ""
-#~ "{Support ticket system} - kung nangangailangan kayo ng tulong sa paggamit "
-#~ "ng Stellarium, magpadala lamang ng support request dito at susubukan "
-#~ "namin kayong tulungan."
-
-#~ msgid "{Forums} - discuss Stellarium with other users."
-#~ msgstr ""
-#~ "{Mga Forum} - makipagtalakayan sa ibang mga gumagamit ukol sa Stellarium"
-
-#~ msgid "Windows"
-#~ msgstr "Mga Dungawan"
-
-#~ msgid "Quit"
-#~ msgstr "Lumísan"
-
-#~ msgid "Configuration window"
-#~ msgstr "Window ng mga Kaayusan"
-
-#~ msgid "Search window"
-#~ msgstr "Dungawan ng Paghahanap"
-
-#~ msgid "Date/time window"
-#~ msgstr "Dungawan ng fetsa/oras"
-
-#~ msgid "Location window"
-#~ msgstr "Dungawan ng kinaroroonan"
-
-#~ msgid "%1m"
-#~ msgstr "%1m"
-
-#~ msgid "No shooting stars"
-#~ msgstr "Walang mga bulalakaw"
-
-#~ msgid "Constellations"
-#~ msgstr "Mga Konstelasyon"
-
-#~ msgid "Delete"
-#~ msgstr "Tanggalin"
-
-#~ msgid "Cancel"
-#~ msgstr "Huwag ituloy"
-
-#~ msgid "Help"
-#~ msgstr "Tulong"
-
-#~ msgid "Current location information"
-#~ msgstr "Kaalaman ukol sa kasalukuyang kinaroroonan"
-
-#~ msgid "Add to list"
-#~ msgstr "Idagdag sa talaan"
-
-#~ msgid "Longitude:"
-#~ msgstr "Longhitud:"
-
-#~ msgid "Latitude:"
-#~ msgstr "Latitud:"
-
-#~ msgid " m"
-#~ msgstr " m"
-
-#~ msgid "New Location"
-#~ msgstr "Bagong Kinaroroónan"
-
-#~ msgid "Planet:"
-#~ msgstr "Planeta:"
-
-#~ msgid "Options"
-#~ msgstr "Mga Papípilian"
-
-#~ msgid "View"
-#~ msgstr "Tingnan"
-
-#~ msgid "Twinkle:"
-#~ msgstr "Kutitap:"
-
-#~ msgid "Shooting Stars"
-#~ msgstr "Mga Bulalakaw"
-
-#~ msgid "Show boundaries"
-#~ msgstr "Ipakita ang mga hangganan"
-
-#~ msgid "Sky"
-#~ msgstr "Langit"
-
-#~ msgid "Configuration"
-#~ msgstr "Pagsasaayos"
-
-#~ msgid "None"
-#~ msgstr "Wala"
-
-#~ msgid "Short"
-#~ msgstr "Maiksî"
-
-#~ msgid "Information"
-#~ msgstr "Impormasyon"
-
-#~ msgid "Author"
-#~ msgstr "May-akdâ"
-
-#~ msgid "OK"
-#~ msgstr "OK"
-
-#~ msgid "AU"
-#~ msgstr "AU"
-
-#~ msgid "Cardinal Points"
-#~ msgstr "Mga Direksyon"
-
-#~ msgid "Azimuthal Grid"
-#~ msgstr "Azimuthal Grid"
-
-#~ msgid "Equator Line"
-#~ msgstr "Linya ng Equator"
-
-#~ msgid "Ecliptic Line"
-#~ msgstr "Linya ng Ecliptic"
-
-#~ msgid "Equatorial Grid"
-#~ msgstr "Equatorial Grid"
-
-#~ msgid "Sky Language: "
-#~ msgstr "Wika ng Langit: "
-
-#~ msgid "Date & Time"
-#~ msgstr "Petsa &Oras"
-
-#~ msgid "Language"
-#~ msgstr "Wika"
-
-#~ msgid "Magnitude Sizing Multiplier: "
-#~ msgstr "Multiplier para sa Paglaki: "
-
-#~ msgid "Effects "
-#~ msgstr "Mga Effect "
-
-#~ msgid "Stars "
-#~ msgstr "Mga Bituin "
-
-#~ msgid "General "
-#~ msgstr "Pangkalahatan "
-
-#~ msgid "Scripts "
-#~ msgstr "Mga Script "
-
-#~ msgid "Altitude (m): "
-#~ msgstr "Taas (m): "
-
-#~ msgid "Latitude: "
-#~ msgstr "Latitude: "
-
-#~ msgid "Longitude: "
-#~ msgstr "Longitude: "
-
-#~ msgid "Actual Time"
-#~ msgstr "Kasalukuyang Oras"
-
-#~ msgid "Date Display Format: "
-#~ msgstr "Paraan ng Pagpapakita ng Petsa: "
-
-#~ msgid "Solar System Body: "
-#~ msgstr "Solar System Body: "
-
-#~ msgid "Sky Time: "
-#~ msgstr "Oras ng Kalangitan: "
-
-#~ msgid "Sky Time At Start-up: "
-#~ msgstr "Oras ng Kalangitan sa Pagsimula: "
-
-#~ msgid "Set Time Zone: "
-#~ msgstr "Ibigay ang Time Zone: "
-
-#~ msgid "Preset Sky Time: "
-#~ msgstr "Paunang Oras ng Kalangitan: "
-
-#~ msgid "Time Display Format: "
-#~ msgstr "Paraan ng Pagpapakita ng Oras: "
-
-#~ msgid "Show: "
-#~ msgstr "Ipakita: "
-
-#~ msgid "Constellation Art Intensity"
-#~ msgstr "Liwanag ng Larawan ng mga Konstelasyon"
-
-#~ msgid "Maximum Magnitude to Label: "
-#~ msgstr "Pinakamaliwanag para sa Pangalan: "
-
-#~ msgid "Twinkling: "
-#~ msgstr "Pagkutitap: "
-
-#~ msgid "Object Sizing Rule: "
-#~ msgstr "Gabay sa Pagpapalaki ng mga Bagay "
-
-#~ msgid "Manual zoom: "
-#~ msgstr "Manual zoom: "
-
-#~ msgid "Landscape: "
-#~ msgstr "Tanawin: "
-
-#~ msgid "Magnitude"
-#~ msgstr "Lakas/Liwanag"
-
-#~ msgid "Nebula Names"
-#~ msgstr "Pangalan ng mga Nebula"
-
-#~ msgid "Nebula Circles"
-#~ msgstr "Lipon ng mga Nebula"
-
-#~ msgid "Update me via Internet: "
-#~ msgstr "Mag-Update mula sa Internet: "
-
-#~ msgid "Local Script: "
-#~ msgstr "Local Script: "
-
-#~ msgid "CD/DVD Script: "
-#~ msgstr "CD/DVD Script: "
-
-#~ msgid "Load Default Configuration: "
-#~ msgstr "Gamitin ang Default na Kaayusan: "
-
-#~ msgid "Save Current Configuration as Default: "
-#~ msgstr "I-save ang Kasalukuyang Kaayusan bilang Default: "
-
-#~ msgid "Cursor Timeout: "
-#~ msgstr "Timeout ng Cursor: "
-
-#~ msgid "Zoom Duration: "
-#~ msgstr "Tagal ng pag-Zoom: "
-
-#~ msgid "Maximum Nebula Magnitude to Label: "
-#~ msgstr "Pinakamaliwanag ng Nebula sa Pangalan: "
-
-#~ msgid "Set UI Locale: "
-#~ msgstr "Ibigay ang UI Locale: "
-
-#~ msgid "Arrow down to load list."
-#~ msgstr "Mag-arrow down para ipakita ang listahan."
-
-#~ msgid "Hydra"
-#~ msgstr "Hydra"
-
-#~ msgid "Light Pollution Luminance: "
-#~ msgstr "Light Pollution Luminance: "
-
-#~ msgid "Calendar"
-#~ msgstr "Kalendaryo"
-
-#~ msgid "CTRL + Left click"
-#~ msgstr "CTRL + Kaliwang klik"
-
-#~ msgid "CTRL + Up/Down"
-#~ msgstr "CTRL + Taas/Baba"
-
-#~ msgid "No description"
-#~ msgstr "Walang paglalarawan"
-
-#~ msgid ":"
-#~ msgstr ":"
-
-#~ msgid "/"
-#~ msgstr "/"
-
-#~ msgid "Show planets"
-#~ msgstr "Ipakita ang mga planeta"
-
-#~ msgid "Program language"
-#~ msgstr "Wika ng palatuntunan"
-
-#~ msgid "Set Location "
-#~ msgstr "Itakdâ ang Kinaroroónan "
-
-#~ msgid "Constellation Boundaries"
-#~ msgstr "Hangganan ng mga Konstelasyon"
-
-#~ msgid "Planet Orbits"
-#~ msgstr "Mga Orbit ng mga Planéta"
-
-#~ msgid "License"
-#~ msgstr "Pahintulot"
-
-#~ msgid "0"
-#~ msgstr "0"
-
-#~ msgid "10"
-#~ msgstr "10"
-
-#~ msgid "80"
-#~ msgstr "80"
-
-#~ msgid "10000"
-#~ msgstr "10000"
-
-#~ msgid "144000"
-#~ msgstr "144000"
-
-#~ msgid "Show lines"
-#~ msgstr "Ipakita ang mga guhit"
-
-#~ msgid "Show art"
-#~ msgstr "Ipakita ang sining"
-
-#~ msgid "Art brightness: "
-#~ msgstr "Liwanag ng sining: "
-
-#~ msgid "Preset Time"
-#~ msgstr "Kasalukuyang Oras"
-
-#~ msgid "Constellation Names"
-#~ msgstr "Mga Pangalan ng Konstelasyon"
-
-#~ msgid "Constellation Lines"
-#~ msgstr "Mga Guhit ng Konstelasyon"
-
-#~ msgid "USB Script: "
-#~ msgstr "USB Script: "
-
-#~ msgid "Set Time "
-#~ msgstr "Itakdâ ang Oras "
-
-#~ msgid "Colors "
-#~ msgstr "Mga Kúlay "
-
-#~ msgid "Administration "
-#~ msgstr "Pamamahálâ "
-
-#~ msgid "Sky Culture: "
-#~ msgstr "Kalinangan ng Langit: "
-
-#~ msgid "Planet Trails"
-#~ msgstr "Pinagdaanan ng mga Planeta"
-
-#~ msgid "Select and exit to run."
-#~ msgstr "Pumili at lumabas upang patakbuhin."
-
-#~ msgid "Shut Down: "
-#~ msgstr "Patayin "
-
-#~ msgid "Finished downloading all star catalogs!"
-#~ msgstr "Tapos nang i-download ang lahat ng mga star catalog"
-
-#~ msgid "Surface brightness: <b>%1</b> (extincted to: <b>%2</b>)"
-#~ msgstr "Liwanag: <b>%1</b> (extincted to: <b>%2</b>)"
