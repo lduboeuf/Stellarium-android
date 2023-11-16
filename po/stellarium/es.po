@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2021-05-23 22:32+0000\n"
-"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"PO-Revision-Date: 2023-11-05 01:30+0000\n"
+"Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/"
 "stellarium-mobile/app/es/>\n"
 "Language: es\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 5.2-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:39+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -886,7 +886,7 @@ msgstr "Himalia"
 
 #: src/translations.h:52
 msgid "Elara"
-msgstr "Elara"
+msgstr "Élara"
 
 #: src/translations.h:53
 msgid "Pasiphae"
@@ -1005,7 +1005,7 @@ msgstr "Caronte"
 #. TRANSLATORS: Moon of Pluto (II)
 #: src/translations.h:82
 msgid "Nix"
-msgstr "Nix"
+msgstr "Nyx"
 
 #. TRANSLATORS: Moon of Pluto (III)
 #: src/translations.h:84
@@ -1014,7 +1014,7 @@ msgstr "Hidra (luna)"
 
 #: src/translations.h:85
 msgid "Eris"
-msgstr "Eris"
+msgstr "Éride"
 
 #: src/translations.h:86
 msgid "Triton"
@@ -1034,7 +1034,7 @@ msgstr "Talasa"
 
 #: src/translations.h:90
 msgid "Despina"
-msgstr "Despina"
+msgstr "Despena"
 
 #: src/translations.h:91
 msgid "Galatea"
@@ -1050,7 +1050,7 @@ msgstr "Proteo"
 
 #: src/translations.h:94
 msgid "Halimede"
-msgstr "Halimede"
+msgstr "Halimede (Neptuno IX)"
 
 #: src/translations.h:95
 msgid "Psamathe"
@@ -1062,7 +1062,7 @@ msgstr "Sao"
 
 #: src/translations.h:97
 msgid "Laomedeia"
-msgstr "Laomedeia"
+msgstr "Laomedeia (Neptuno XII)"
 
 #: src/translations.h:98
 msgid "Neso"
@@ -1075,22 +1075,22 @@ msgstr "Observador del Sistema Solar"
 #. TRANSLATORS: TNO/Asteroid (90377) Sedna
 #: src/translations.h:102
 msgid "Sedna"
-msgstr "Sedna"
+msgstr "(90377) Sedna"
 
 #. TRANSLATORS: TNO/Asteroid (50000) Quaoar
 #: src/translations.h:104
 msgid "Quaoar"
-msgstr "Quaoar"
+msgstr "(50000) Quaoar"
 
 #. TRANSLATORS: TNO/Asteroid (90482) Orcus
 #: src/translations.h:106
 msgid "Orcus"
-msgstr "Orcus"
+msgstr "(90482) Orcus"
 
 #. TRANSLATORS: TNO/Asteroid (136108) Haumea
 #: src/translations.h:108
 msgid "Haumea"
-msgstr "Haumea"
+msgstr "(136108) Haumea"
 
 #. TRANSLATORS: Asteroid (5) Astraea
 #: src/translations.h:111
@@ -1100,12 +1100,12 @@ msgstr "Astrea"
 #. TRANSLATORS: Asteroid (6) Hebe
 #: src/translations.h:113
 msgid "Hebe"
-msgstr "Hebe"
+msgstr "(6) Hebe"
 
 #. TRANSLATORS: Asteroid (7) Iris
 #: src/translations.h:115
 msgid "Iris"
-msgstr "Iris"
+msgstr "(7) Iris"
 
 #. TRANSLATORS: Asteroid (8) Flora
 #: src/translations.h:117
@@ -1125,7 +1125,7 @@ msgstr "Dafne"
 #. TRANSLATORS: Asteroid (1221) Amor
 #: src/translations.h:125
 msgid "Amor"
-msgstr "Amor"
+msgstr "(1221) Amor"
 
 #. TRANSLATORS: Asteroid (99942) Apophis
 #: src/translations.h:127
@@ -1140,7 +1140,7 @@ msgstr "Quirón"
 #. TRANSLATORS: Asteroid (433) Eros
 #: src/translations.h:131
 msgid "Eros"
-msgstr "Eros"
+msgstr "(433) Eros"
 
 #. TRANSLATORS: Asteroid (624) Hektor
 #: src/translations.h:133
@@ -1155,7 +1155,7 @@ msgstr "Váruna"
 #. TRANSLATORS: Asteroid (136472) Makemake
 #: src/translations.h:137
 msgid "Makemake"
-msgstr "Makemake"
+msgstr "(136472) Makemake"
 
 #. TRANSLATORS: Proper name of comet C/1680 V1
 #: src/translations.h:140
@@ -1304,7 +1304,7 @@ msgstr "Océano"
 #. TRANSLATORS: Landscape name: Garching bei Munchen
 #: src/translations.h:201
 msgid "Garching"
-msgstr "Garching"
+msgstr "Garching bei München (Ciudad Alemana)"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:211
@@ -1715,7 +1715,7 @@ msgstr "Botsuana"
 
 #: src/translations.h:325
 msgid "Belarus"
-msgstr "Botsuana"
+msgstr "Bielorrusia"
 
 #: src/translations.h:326
 msgid "Belize"
@@ -2047,7 +2047,7 @@ msgstr "Corea del Norte"
 
 #: src/translations.h:408
 msgid "Republic of Korea"
-msgstr "República de Corea (Corea del Sur)"
+msgstr "Corea del Sur"
 
 #: src/translations.h:409
 msgid "Kuwait"

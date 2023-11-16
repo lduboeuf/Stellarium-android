@@ -8,10 +8,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2020-08-06 12:27+0000\n"
-"Last-Translator: Lionel Duboeuf <lduboeuf@ouvaton.org>\n"
+"PO-Revision-Date: 2023-11-11 15:33+0000\n"
+"Last-Translator: Eryk Michalak <gnu.ewm@protonmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/stellarium-mobile/"
 "app/pl/>\n"
 "Language: pl\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 5.2-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:36+0000\n"
 "X-Poedit-Country: SPAIN\n"
 "X-Poedit-Language: Spanish\n"
@@ -1288,7 +1288,7 @@ msgstr "zachodnia"
 #. TRANSLATORS: Name of landscape
 #: src/translations.h:191
 msgid "Guereins"
-msgstr ""
+msgstr "Guereins"
 
 #. TRANSLATORS: Name of landscape
 #: src/translations.h:193
@@ -1308,7 +1308,7 @@ msgstr "Ocean"
 #. TRANSLATORS: Landscape name: Garching bei Munchen
 #: src/translations.h:201
 msgid "Garching"
-msgstr ""
+msgstr "Garching"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:211

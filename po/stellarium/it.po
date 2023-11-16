@@ -6,18 +6,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2020-07-24 07:42+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Italian <https://hosted.weblate.org/projects/stellarium-"
-"mobile/app/it/>\n"
+"PO-Revision-Date: 2023-11-07 10:33+0000\n"
+"Last-Translator: rocco <roccofoti@gmail.com>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/"
+"stellarium-mobile/app/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 5.2-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:30+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -70,7 +70,7 @@ msgstr "Orizzonte"
 
 #: src/core/modules/GridLinesMgr.cpp:541
 msgid "Galactic Plane"
-msgstr "Piano galattico"
+msgstr "Piano Galattico"
 
 #: src/core/modules/GridLinesMgr.cpp:675
 msgid "Equatorial grid"
@@ -307,7 +307,7 @@ msgstr "Traiettorie pianeti"
 
 #: src/core/modules/SolarSystem.cpp:154
 msgid "Planet markers"
-msgstr ""
+msgstr "Evidenziatori Pianeti"
 
 #. TRANSLATORS: Type of object
 #: src/core/modules/StarWrapper.cpp:50 src/core/modules/StarWrapper.cpp:162
@@ -449,11 +449,11 @@ msgstr "Riduci la velocità del tempo (un po')"
 
 #: src/core/StelCore.cpp:169
 msgid "Set normal time rate"
-msgstr "Velocità del tempo normale"
+msgstr "Imposta la velocità del tempo normale"
 
 #: src/core/StelCore.cpp:170
 msgid "Set time rate to zero"
-msgstr "Impoasta la velocità del tempo a zero"
+msgstr "Imposta la velocità del tempo a zero"
 
 #: src/core/StelCore.cpp:171 qml/TimeDialog.qml:38
 msgid "Set time to now"
@@ -789,7 +789,7 @@ msgstr "Trovato"
 
 #: src/main.cpp:320
 msgid "This system does not support OpenGL."
-msgstr "Questo sistema non supporta OpenGL"
+msgstr "Questo sistema non supporta OpenGL."
 
 #: src/StelMainView.cpp:298
 msgid "Save screenshot"
@@ -1318,22 +1318,22 @@ msgstr "Eclissi lunare totale"
 #. TRANSLATORS: Name of script
 #: src/translations.h:217
 msgid "Screensaver"
-msgstr "Screensaver"
+msgstr "Salva schermo"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:219
 msgid "Solar Eclipse 2009"
-msgstr "Solar Eclipse 2009"
+msgstr "Eclissi solare 2009"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:221
 msgid "Startup Script"
-msgstr "Startup Script"
+msgstr "Script di avvio"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:223
 msgid "Zodiac"
-msgstr "Zodiac"
+msgstr "Zodiaco"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:225
@@ -1353,7 +1353,7 @@ msgstr "Doppia eclissi da Deimos nel 2031"
 #. TRANSLATORS: Name of script
 #: src/translations.h:231
 msgid "Eclipse from Olympus Mons Jan 10 2068"
-msgstr "Eclissi dal Monte Olympus del 10 gennaio 2068"
+msgstr "Eclissi dal Monte Olimpo del 10 gennaio 2068"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:233
@@ -1507,7 +1507,7 @@ msgid ""
 msgstr ""
 "Le occultazioni di Phobos della Terra sono comuni, così come le occultazioni "
 "di Giove. Ma le occultazioni di entrambi lo stesso giorno sono molto rare. "
-"Ecco quella che si svolge il 23/01/2048. In velocità reale."
+"Ecco quella che si svolge il 23/01/2048. A velocità reale."
 
 #: src/translations.h:279
 msgid ""
@@ -1544,12 +1544,12 @@ msgstr "Guarda il Sole dai grandi pianeti del Sistema Solare e Plutone."
 #: src/translations.h:283
 msgid "Best views of Earth from other Solar System bodies in the 21st Century."
 msgstr ""
-"La vista migliore della Terra da altri corpi del sistema solare nel 21 ° "
+"La vista migliore della Terra da altri corpi del sistema solare nel 21° "
 "secolo."
 
 #: src/translations.h:284
 msgid "Transit of Venus as seen from Sydney Australia, 6th June 2012."
-msgstr "Transito di Venere,  visto da Sydney (Australia) il 6 Giugno 2012."
+msgstr "Transito di Venere, visto da Sydney (Australia) il 6 Giugno 2012."
 
 #: src/translations.h:285
 msgid ""
@@ -2057,7 +2057,7 @@ msgstr "Kazakistan"
 
 #: src/translations.h:412
 msgid "Lao"
-msgstr "Lao"
+msgstr "Laos"
 
 #: src/translations.h:413
 msgid "Lebanon"
@@ -2545,7 +2545,7 @@ msgstr "Informazioni"
 
 #: qml/InfoPanel.qml:125
 msgid "Unnamed"
-msgstr ""
+msgstr "Senza nome"
 
 #: qml/LandscapesDialog.qml:5 qml/SettingsPanel.qml:47
 msgid "Landscape"
@@ -2553,12 +2553,11 @@ msgstr "Paesaggio"
 
 #: qml/LocationCityPicker.qml:25
 msgid "Pick City"
-msgstr ""
+msgstr "Scegli città"
 
 #: qml/LocationCityPicker.qml:25
-#, fuzzy
 msgid "Pick Country"
-msgstr "Nazione:"
+msgstr "Scegli nazione"
 
 #: qml/LocationDialog.qml:25 qml/SettingsPanel.qml:51
 msgid "Location"
@@ -2566,20 +2565,19 @@ msgstr "Località"
 
 #: qml/LocationDialog.qml:37
 msgid "Use GPS"
-msgstr ""
+msgstr "Usa GPS"
 
 #: qml/LocationDialog.qml:37
-#, fuzzy
 msgid " (searching)"
-msgstr "Garching"
+msgstr " (Cercando)"
 
 #: qml/LocationDialog.qml:72
 msgid "Name/City:"
-msgstr "Nome/Città"
+msgstr "Nome/Città:"
 
 #: qml/main.qml:75
 msgid "It is daytime, fast forward time until…"
-msgstr ""
+msgstr "É giorno, velocizza tempo fino a…"
 
 #: qml/main.qml:214 qml/SettingsPanel.qml:24
 msgid "Settings"
@@ -2587,19 +2585,19 @@ msgstr "Impostazioni"
 
 #: qml/main.qml:226
 msgid "Open Quick Bar"
-msgstr ""
+msgstr "Apri barra rapida"
 
 #: qml/main.qml:261
 msgid "GPS…"
-msgstr ""
+msgstr "GPS…"
 
 #: qml/main.qml:263
 msgid "GPS"
-msgstr ""
+msgstr "GPS"
 
 #: qml/main.qml:334
 msgid "Drag sky to move in time"
-msgstr ""
+msgstr "Trascina il cielo per scorrere il tempo"
 
 #: qml/SearchInput.qml:37 qml/SearchInput.qml:72 qml/SearchInput.qml:89
 #: qml/SearchInput.qml:98 qml/SearchInput.qml:102
@@ -2612,25 +2610,23 @@ msgstr "Tradizioni"
 
 #: qml/SettingsPanel.qml:59 qml/AdvancedDialog.qml:24
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzato"
 
 #: qml/StelDialog.qml:24
-#, fuzzy
 msgid "Stellarium"
-msgstr "Stellarium %1"
+msgstr "Stellarium"
 
 #: qml/TimeBar.qml:34
 msgid "Real time"
-msgstr ""
+msgstr "Tempo reale"
 
 #: qml/TimeBar.qml:36
 msgid "Stopped"
 msgstr "Interrotto"
 
 #: qml/TimeDialog.qml:31
-#, fuzzy
 msgid "Advance to night at startup"
-msgstr "Avvia/inizia all'avvio del programma"
+msgstr "Avanza fino a notte all'avvio"
 
 #: qml/AdvancedDialog.qml:45
 msgid "Show planet markers"
@@ -2645,18 +2641,16 @@ msgid "Show meridian line"
 msgstr "Mostra la linea del meridiano"
 
 #: qml/AdvancedDialog.qml:70 qml/AdvancedDialog.qml:75
-#, fuzzy
 msgid "Light pollution"
-msgstr "Inquinamento luminoso:"
+msgstr "Inquinamento luminoso"
 
 #: qml/AdvancedDialog.qml:87 qml/AdvancedDialog.qml:92
-#, fuzzy
 msgid "Milky Way brightness"
-msgstr "Luminosità della Via Lattea:"
+msgstr "Luminosità della Via Lattea"
 
 #: qml/AdvancedDialog.qml:104 qml/AdvancedDialog.qml:109
 msgid "Thickness of lines"
-msgstr ""
+msgstr "Spessore linee"
 
 #: qml/AdvancedDialog.qml:120
 msgid "Restore default settings"

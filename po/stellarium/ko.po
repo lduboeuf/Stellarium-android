@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: stellarium\n"
 "Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2021-10-25 04:38+0000\n"
-"Last-Translator: k ks <kmshts@naver.com>\n"
+"PO-Revision-Date: 2023-04-27 17:50+0000\n"
+"Last-Translator: simmon <simmon@nplob.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/stellarium-mobile/"
 "app/ko/>\n"
 "Language: ko\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:32+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -156,7 +156,7 @@ msgstr "분류: <b>%1</b>"
 #: src/core/modules/Nebula.cpp:107 src/core/modules/Planet.cpp:130
 #: src/core/modules/MinorPlanet.cpp:219 src/core/modules/Comet.cpp:129
 #: src/core/modules/StarWrapper.cpp:56 src/core/modules/StarWrapper.cpp:179
-#, fuzzy, qt-format
+#, qt-format
 msgid "Magnitude: <b>%1</b> (extincted to: <b>%2</b>)"
 msgstr "등급: <b>%1</b> (소멸 후: <b>%2</b>)"
 
@@ -2559,7 +2559,6 @@ msgid "Name/City:"
 msgstr "이름/도시:"
 
 #: qml/main.qml:75
-#, fuzzy
 msgid "It is daytime, fast forward time until…"
 msgstr "지금은 낮입니다, 다음까지 시간을 빨리 감습니다…"
 

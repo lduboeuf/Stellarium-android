@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: stellarium\n"
 "Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2020-10-25 17:26+0000\n"
-"Last-Translator: Aman ALam <alam.yellow@gmail.com>\n"
+"PO-Revision-Date: 2023-11-16 00:04+0000\n"
+"Last-Translator: Aman Alam <aalam@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Punjabi <https://hosted.weblate.org/projects/"
 "stellarium-mobile/app/pa/>\n"
 "Language: pa\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.3.2-dev\n"
+"X-Generator: Weblate 5.2-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:36+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -116,7 +116,7 @@ msgstr "ਗੈਲਕਸੀ ਦੀ ਭੂਮੱਧ-ਰੇਖਾ"
 
 #: src/core/modules/LandscapeMgr.cpp:314
 msgid "Atmosphere"
-msgstr ""
+msgstr "ਵਾਤਾਵਰਣ"
 
 #: src/core/modules/LandscapeMgr.cpp:315
 msgid "Fog"
@@ -128,7 +128,7 @@ msgstr ""
 
 #: src/core/modules/LandscapeMgr.cpp:317
 msgid "Ground"
-msgstr ""
+msgstr "ਧਰਾਤਲ"
 
 #: src/core/modules/LandscapeMgr.cpp:523
 msgid "Author: "
@@ -141,7 +141,7 @@ msgstr "ਟਿਕਾਣਾ: "
 #: src/core/modules/LandscapeMgr.cpp:531
 #, qt-format
 msgid ", %1 m"
-msgstr ""
+msgstr ", %1 m"
 
 #: src/core/modules/LandscapeMgr.cpp:535
 msgid "Planet: "
@@ -212,7 +212,7 @@ msgstr "ਨਾ-ਦਸਤਾਵੇਜ਼ ਕੀਤੀ ਕਿਸਮ"
 
 #: src/core/modules/NebulaMgr.cpp:123
 msgid "Deep-sky objects"
-msgstr ""
+msgstr "ਦੂਰ ਆਕਾਸ਼ੀ ਚੀਜ਼ਾਂ"
 
 #: src/core/modules/Planet.cpp:136 src/core/modules/MinorPlanet.cpp:232
 #: src/core/modules/MinorPlanet.cpp:236 src/core/modules/Comet.cpp:141
@@ -235,7 +235,7 @@ msgstr ""
 #: src/core/modules/Comet.cpp:153
 #, no-c-format, qt-format
 msgid "Distance: %1AU (%2 km)"
-msgstr ""
+msgstr "ਦੂਰੀ: %1AU (%2 km)"
 
 #: src/core/modules/Planet.cpp:167 src/core/modules/MinorPlanet.cpp:256
 #: src/core/modules/Comet.cpp:160
@@ -297,7 +297,7 @@ msgstr ""
 
 #: src/core/modules/SolarSystem.cpp:151
 msgid "Planet labels"
-msgstr ""
+msgstr "ਗ੍ਰਹਿ ਲੇਬਲ"
 
 #: src/core/modules/SolarSystem.cpp:152
 msgid "Planet orbits"
@@ -309,7 +309,7 @@ msgstr ""
 
 #: src/core/modules/SolarSystem.cpp:154
 msgid "Planet markers"
-msgstr ""
+msgstr "ਗ੍ਰਹਿ ਨਿਸ਼ਾਨ"
 
 #. TRANSLATORS: Type of object
 #: src/core/modules/StarWrapper.cpp:50 src/core/modules/StarWrapper.cpp:162
@@ -348,12 +348,12 @@ msgstr ""
 
 #: src/core/modules/StarWrapper.cpp:160
 msgid "double star"
-msgstr ""
+msgstr "ਦੂਹਰਾ ਤਾਰਾ"
 
 #: src/core/modules/StarWrapper.cpp:167
 #, qt-format
 msgid "Type: <b>%1, %2</b>"
-msgstr ""
+msgstr "ਕਿਸਮ: <b>%1, %2</b>"
 
 #: src/core/modules/StarWrapper.cpp:206
 #, qt-format
@@ -373,7 +373,7 @@ msgstr "ਦੂਰੀ: %1 ਪ੍ਰਕਾਸ਼ ਵਰ੍ਹੇ"
 #: src/core/modules/StarWrapper.cpp:220
 #, qt-format
 msgid "Spectral Type: %1"
-msgstr ""
+msgstr "ਖਾਸ ਕਿਸਮ: %1"
 
 #: src/core/modules/StarWrapper.cpp:223
 #, qt-format
@@ -393,17 +393,17 @@ msgstr ""
 #: src/core/modules/StarWrapper.cpp:235
 #, qt-format
 msgid "Period: %1 days"
-msgstr ""
+msgstr "ਅੰਤਰਾਲ: %1 ਦਿਨ"
 
 #: src/core/modules/StarWrapper.cpp:245
 #, qt-format
 msgid "Next minimum light: %1 UTC"
-msgstr ""
+msgstr "ਅਗਲੀ ਘੱਟੋ-ਘੱਟ ਰੌਸ਼ਨੀ: %1 UTC"
 
 #: src/core/modules/StarWrapper.cpp:247
 #, qt-format
 msgid "Next maximum light: %1 UTC"
-msgstr ""
+msgstr "ਅਗਲੀ ਵੱਧ ਤੋਂ ਵੱਧ ਰੌਸ਼ਨੀ: %1 UTC"
 
 #: src/core/modules/StarWrapper.cpp:253
 #, qt-format
@@ -413,17 +413,16 @@ msgstr ""
 #: src/core/modules/StarWrapper.cpp:255
 #, qt-format
 msgid "Rising time: %1%"
-msgstr ""
+msgstr "ਚੜ੍ਹਨ ਸਮਾਂ: %1%"
 
 #: src/core/StelApp.cpp:466
 msgid "Night mode"
-msgstr ""
+msgstr "ਰਾਤ ਦਾ ਢੰਗ"
 
 #. TRANSLATORS: "Planet name" displayed when "flying" to another planet with Ctrl+G.
 #: src/core/StelObserver.cpp:282
-#, fuzzy
 msgid "SpaceShip"
-msgstr "ਸਪੇਸ"
+msgstr "ਪੁਲਾੜੀ-ਜਹਾਜ਼"
 
 #: src/core/StelCore.cpp:161 qml/SettingsPanel.qml:43 qml/TimeDialog.qml:23
 msgid "Date and Time"
@@ -431,7 +430,7 @@ msgstr "ਮਿਤੀ ਅਤੇ ਸਮਾਂ"
 
 #: src/core/StelCore.cpp:162 src/core/StelMovementMgr.cpp:105
 msgid "Movement and Selection"
-msgstr ""
+msgstr "ਹਿਲਜੁਲ ਅਤੇ ਚੋਣ"
 
 #: src/core/StelCore.cpp:165
 msgid "Increase time speed"
@@ -467,7 +466,7 @@ msgstr ""
 
 #: src/core/StelCore.cpp:173
 msgid "Add 1 solar day"
-msgstr ""
+msgstr "1 ਸੂਰਜੀ ਦਿਨ ਜੋੜੋ"
 
 #: src/core/StelCore.cpp:174
 msgid "Add 1 solar week"
@@ -475,15 +474,15 @@ msgstr "1 ਸੂਰਜੀ ਹਫ਼ਤਾ ਜੋੜੋ"
 
 #: src/core/StelCore.cpp:175
 msgid "Subtract 1 solar hour"
-msgstr ""
+msgstr "1 ਸੂਰਜੀ ਘੰਟਾ ਘਟਾਓ"
 
 #: src/core/StelCore.cpp:176
 msgid "Subtract 1 solar day"
-msgstr ""
+msgstr "1 ਸੂਰਜੀ ਦਿਨ ਘਟਾਓ"
 
 #: src/core/StelCore.cpp:177
 msgid "Subtract 1 solar week"
-msgstr ""
+msgstr "1 ਸੂਰਜੀ ਹਫ਼ਤਾ ਘਟਾਓ"
 
 #: src/core/StelCore.cpp:178
 msgid "Add 1 sidereal day"
@@ -587,7 +586,7 @@ msgstr ""
 
 #: src/core/StelCore.cpp:204
 msgid "Go to home"
-msgstr ""
+msgstr "ਮੁ਼ੱਖ-ਸਥਾਨ ਤੇ ਜਾਓ"
 
 #: src/core/StelCore.cpp:205
 msgid "Flip scene horizontally"
@@ -613,7 +612,7 @@ msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:63
 msgid "Equal Area"
-msgstr ""
+msgstr "ਬਰਾਬਰ ਖੇਤਰ"
 
 #: src/core/StelProjectorClasses.cpp:68
 msgid ""
@@ -656,7 +655,7 @@ msgstr ""
 
 #: src/core/StelProjectorClasses.cpp:223
 msgid "Cylinder"
-msgstr ""
+msgstr "ਸਿਲੰਡਰ"
 
 #: src/core/StelProjectorClasses.cpp:228
 msgid ""
@@ -703,7 +702,7 @@ msgstr ""
 #: src/core/StelObject.cpp:138 src/core/StelObject.cpp:142
 #, qt-format
 msgid "Hour angle/DE: %1/%2"
-msgstr ""
+msgstr "ਘੰਟੇ ਦਾ ਕੋਣ/DE: %1/%2"
 
 #: src/core/StelObject.cpp:138 src/core/StelObject.cpp:160
 msgid "(apparent)"
@@ -716,7 +715,7 @@ msgstr ""
 
 #: src/core/StelSkyLayerMgr.cpp:86
 msgid "Deep-sky objects background images"
-msgstr ""
+msgstr "ਦੂਰੀ ਆਕਾਸ਼ੀ ਚੀਜ਼ਾਂ ਲਈ ਬੈਕਗਰਾਉਂਡ ਚਿੱਤਰ"
 
 #: src/core/StelMovementMgr.cpp:106 src/StelMainView.cpp:298
 msgid "Miscellaneous"
@@ -728,11 +727,11 @@ msgstr ""
 
 #: src/core/StelMovementMgr.cpp:107
 msgid "Center on selected object"
-msgstr ""
+msgstr "ਚੁਣੇ ਆਬਜੈਕਟ ਨੂੰ ਕੇਂਦਰ ਵਿੱਚ ਰੱਖੋ"
 
 #: src/core/StelMovementMgr.cpp:108
 msgid "Zoom in on selected object"
-msgstr ""
+msgstr "ਚੁਣੀ ਚੀਜ਼ ਉੱਤੇ ਜ਼ੂਮ ਇਨ ਕਰੋ"
 
 #: src/core/StelMovementMgr.cpp:109
 msgid "Zoom out"
@@ -740,7 +739,7 @@ msgstr "ਜ਼ੂਮ ਆਉਟ"
 
 #: src/core/StelMovementMgr.cpp:110
 msgid "Track object"
-msgstr ""
+msgstr "ਚੀਜ਼ ਦੀ ਟੋਹ ਲਵੋ"
 
 #: src/core/SimbadSearcher.cpp:56
 msgid "Network error"
@@ -748,7 +747,7 @@ msgstr "ਨੈੱਟਵਰਕ ਗਲਤੀ"
 
 #: src/core/SimbadSearcher.cpp:93 src/core/SimbadSearcher.cpp:105
 msgid "Error parsing position"
-msgstr ""
+msgstr "ਸਥਿਰੀ ਪਾਰਸ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ"
 
 #: src/core/SimbadSearcher.cpp:131
 msgid "Querying"
@@ -776,12 +775,12 @@ msgstr "ਸਕਰੀਨਸ਼ਾਟ ਸੰਭਾਲੋ"
 
 #: src/StelMainView.cpp:299
 msgid "Full-screen mode"
-msgstr ""
+msgstr "ਪੂਰੀ-ਸਕਰੀਨ ਢੰਗ"
 
 #: src/StelMainView.cpp:356
 #, qt-format
 msgid "Stellarium %1"
-msgstr ""
+msgstr "ਸਟੇਰਲਰੀਅਮ %1"
 
 #: src/translations.h:33
 msgid "Sun"
@@ -815,7 +814,7 @@ msgstr ""
 
 #: src/translations.h:40
 msgid "Phobos"
-msgstr ""
+msgstr "ਫ਼ੋਬੋ"
 
 #: src/translations.h:41
 msgid "Ceres"
@@ -827,20 +826,19 @@ msgstr ""
 
 #: src/translations.h:43
 msgid "Juno"
-msgstr ""
+msgstr "ਜੂਨੋ"
 
 #: src/translations.h:44
 msgid "Vesta"
-msgstr ""
+msgstr "ਵੇਸਟਾ"
 
 #: src/translations.h:45
 msgid "Jupiter"
 msgstr "ਬ੍ਰਹਿਸਪਤੀ"
 
 #: src/translations.h:46
-#, fuzzy
 msgid "Io"
-msgstr "ਜਾਣਕਾਰੀ"
+msgstr "ਘੱਟ"
 
 #: src/translations.h:47
 msgid "Europa"
@@ -1392,17 +1390,17 @@ msgstr ""
 #. TRANSLATORS: Name and description of script
 #: src/translations.h:251
 msgid "Earth Events from Mercury"
-msgstr ""
+msgstr "ਬੁੱਧ ਤੋਂ ਧਰਤੀ ਦੀਆਂ ਘਟਨਾਵਾਂ"
 
 #. TRANSLATORS: Name and description of script
 #: src/translations.h:253
 msgid "Earth Events from Venus"
-msgstr ""
+msgstr "ਸ਼ੁੱਕਰ ਤੋਂ ਧਰਤੀ ਦੀਆਂ ਘਟਨਾਵਾਂ"
 
 #. TRANSLATORS: Name and description of script
 #: src/translations.h:255
 msgid "Earth Events from Mars"
-msgstr ""
+msgstr "ਮੰਗਲ ਤੋਂ ਧਰਤੀ ਦੀਆਂ ਘਟਨਾਵਾਂ"
 
 #. TRANSLATORS: Name of script
 #: src/translations.h:257
@@ -1417,12 +1415,12 @@ msgstr ""
 #. TRANSLATORS: Description of the landscape tour script.
 #: src/translations.h:265
 msgid "Look around each installed landscape."
-msgstr ""
+msgstr "ਹਰ ਇੰਸਟਾਲ ਹੋਏ ਲੈਂਡਸਕੇਪ ਦੁਆਲੇ ਦੇਖੋ।"
 
 #. TRANSLATORS: Description of the sky culture tour script.
 #: src/translations.h:267
 msgid "Look at each installed sky culture."
-msgstr ""
+msgstr "ਹਰ ਇੰਸਟਾਲ ਹੋਏ ਆਕਾਸ਼ੀ ਕਲਚਰ ਨੂੰ ਵੇਖੋ।"
 
 #: src/translations.h:268
 msgid "Script to demonstrate a partial lunar eclipse."
@@ -1444,7 +1442,7 @@ msgstr ""
 
 #: src/translations.h:272
 msgid "Script which runs automatically at startup"
-msgstr ""
+msgstr "ਸਕ੍ਰਿਪਟ ਜੋ ਸ਼ੁਰੂ ਵੇਲੇ ਆਪਣੇ-ਆਪ ਚੱਲਦੀ ਹੈ"
 
 #: src/translations.h:273
 msgid ""
