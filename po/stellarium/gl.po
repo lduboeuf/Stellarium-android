@@ -6,18 +6,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2020-07-24 07:42+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Galician <https://hosted.weblate.org/projects/stellarium-"
-"mobile/app/gl/>\n"
+"PO-Revision-Date: 2023-11-05 01:30+0000\n"
+"Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
+"Language-Team: Galician <https://hosted.weblate.org/projects/"
+"stellarium-mobile/app/gl/>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 5.2-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:28+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -2540,21 +2540,19 @@ msgstr "Sobre"
 
 #: qml/InfoPanel.qml:125
 msgid "Unnamed"
-msgstr ""
+msgstr "Sen nome"
 
 #: qml/LandscapesDialog.qml:5 qml/SettingsPanel.qml:47
 msgid "Landscape"
 msgstr "Paisaxe"
 
 #: qml/LocationCityPicker.qml:25
-#, fuzzy
 msgid "Pick City"
-msgstr "Cidade do Vaticano"
+msgstr "Escollela cidade"
 
 #: qml/LocationCityPicker.qml:25
-#, fuzzy
 msgid "Pick Country"
-msgstr "País:"
+msgstr "Escolla do país"
 
 #: qml/LocationDialog.qml:25 qml/SettingsPanel.qml:51
 msgid "Location"
@@ -2562,12 +2560,11 @@ msgstr "Localización"
 
 #: qml/LocationDialog.qml:37
 msgid "Use GPS"
-msgstr ""
+msgstr "Usalo GPS"
 
 #: qml/LocationDialog.qml:37
-#, fuzzy
 msgid " (searching)"
-msgstr "Garching"
+msgstr " (procurar)"
 
 #: qml/LocationDialog.qml:72
 msgid "Name/City:"
@@ -2575,7 +2572,7 @@ msgstr "Nome/Cidade:"
 
 #: qml/main.qml:75
 msgid "It is daytime, fast forward time until…"
-msgstr ""
+msgstr "É o día, tempo de avance rápido ata que…"
 
 #: qml/main.qml:214 qml/SettingsPanel.qml:24
 msgid "Settings"
@@ -2583,20 +2580,19 @@ msgstr "Configuración"
 
 #: qml/main.qml:226
 msgid "Open Quick Bar"
-msgstr ""
+msgstr "Abrila barra rápida"
 
 #: qml/main.qml:261
 msgid "GPS…"
-msgstr ""
+msgstr "GPS…"
 
 #: qml/main.qml:263
-#, fuzzy
 msgid "GPS"
-msgstr "PNG"
+msgstr "GPS"
 
 #: qml/main.qml:334
 msgid "Drag sky to move in time"
-msgstr ""
+msgstr "Arrastralo ceo para moverte no tempo"
 
 #: qml/SearchInput.qml:37 qml/SearchInput.qml:72 qml/SearchInput.qml:89
 #: qml/SearchInput.qml:98 qml/SearchInput.qml:102
@@ -2609,26 +2605,23 @@ msgstr "Tradición estelar"
 
 #: qml/SettingsPanel.qml:59 qml/AdvancedDialog.qml:24
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzado"
 
 #: qml/StelDialog.qml:24
-#, fuzzy
 msgid "Stellarium"
-msgstr "Stellarium %1"
+msgstr "Stellarium"
 
 #: qml/TimeBar.qml:34
-#, fuzzy
 msgid "Real time"
-msgstr "e tempo:"
+msgstr "Tempo real"
 
 #: qml/TimeBar.qml:36
 msgid "Stopped"
 msgstr "Detido"
 
 #: qml/TimeDialog.qml:31
-#, fuzzy
 msgid "Advance to night at startup"
-msgstr "Iniciar/conectar ao comezar"
+msgstr "Avanza á noite ao inicio"
 
 #: qml/AdvancedDialog.qml:45
 msgid "Show planet markers"
@@ -2643,18 +2636,16 @@ msgid "Show meridian line"
 msgstr "Amosa a liña do meridiano"
 
 #: qml/AdvancedDialog.qml:70 qml/AdvancedDialog.qml:75
-#, fuzzy
 msgid "Light pollution"
-msgstr "Polución lumínica:"
+msgstr "Contaminación lumínica"
 
 #: qml/AdvancedDialog.qml:87 qml/AdvancedDialog.qml:92
-#, fuzzy
 msgid "Milky Way brightness"
 msgstr "Brillo da Vía Láctea"
 
 #: qml/AdvancedDialog.qml:104 qml/AdvancedDialog.qml:109
 msgid "Thickness of lines"
-msgstr ""
+msgstr "Espesor das liñas"
 
 #: qml/AdvancedDialog.qml:120
 msgid "Restore default settings"

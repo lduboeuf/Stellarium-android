@@ -6,17 +6,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Stellarium 0.9\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2016-01-11 03:06+0000\n"
-"Last-Translator: Giorgi Gzirishvili <Unknown>\n"
-"Language-Team: Georgian <ka@li.org>\n"
+"PO-Revision-Date: 2023-04-11 17:47+0000\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <https://hosted.weblate.org/projects/"
+"stellarium-mobile/app/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:27+0000\n"
-"X-Generator: Launchpad (build 18269)\n"
 "X-Poedit-Country: GEORGIA\n"
 "X-Poedit-Language: Georgian\n"
 
@@ -2531,9 +2533,8 @@ msgid "Pick City"
 msgstr ""
 
 #: qml/LocationCityPicker.qml:25
-#, fuzzy
 msgid "Pick Country"
-msgstr "ქვეყანა:"
+msgstr "აირჩიეთ ქვეყანა"
 
 #: qml/LocationDialog.qml:25 qml/SettingsPanel.qml:51
 msgid "Location"
@@ -2620,14 +2621,12 @@ msgid "Show meridian line"
 msgstr "მერიდიანის ხაზი"
 
 #: qml/AdvancedDialog.qml:70 qml/AdvancedDialog.qml:75
-#, fuzzy
 msgid "Light pollution"
-msgstr "სინათლის დაბინძურება: "
+msgstr "სინათლის დაბინძურება"
 
 #: qml/AdvancedDialog.qml:87 qml/AdvancedDialog.qml:92
-#, fuzzy
 msgid "Milky Way brightness"
-msgstr "ირმის ნახტომის სიკაშკაშე: "
+msgstr "ირმის ნახტომის სიკაშკაშე"
 
 #: qml/AdvancedDialog.qml:104 qml/AdvancedDialog.qml:109
 msgid "Thickness of lines"

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: stellarium\n"
 "Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2022-10-02 06:23+0000\n"
+"PO-Revision-Date: 2023-04-09 07:49+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/"
 "stellarium-mobile/app/fi/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.17-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:26+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -2577,7 +2577,7 @@ msgstr "Asetukset"
 
 #: qml/main.qml:226
 msgid "Open Quick Bar"
-msgstr ""
+msgstr "Avaa pikapalkki"
 
 #: qml/main.qml:261
 msgid "GPS…"

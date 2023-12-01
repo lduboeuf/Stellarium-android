@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: stellarium\n"
 "Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2021-04-19 11:27+0000\n"
+"PO-Revision-Date: 2023-11-05 01:30+0000\n"
 "Last-Translator: Richard Hughes <richard@hughes.ie>\n"
 "Language-Team: Irish <https://hosted.weblate.org/projects/stellarium-mobile/"
 "app/ga/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :("
 "n>6 && n<11) ? 3 : 4;\n"
-"X-Generator: Weblate 4.6\n"
+"X-Generator: Weblate 5.2-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:27+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -91,7 +91,7 @@ msgstr "Líne mheánchiorclach"
 
 #: src/core/modules/GridLinesMgr.cpp:679
 msgid "Meridian line"
-msgstr "Líne mheánlae"
+msgstr "Fadlíne"
 
 #: src/core/modules/GridLinesMgr.cpp:680
 msgid "Horizon line"
@@ -234,13 +234,13 @@ msgstr ""
 #: src/core/modules/Comet.cpp:153
 #, no-c-format, qt-format
 msgid "Distance: %1AU (%2 km)"
-msgstr ""
+msgstr "Fad: %1AR (%2 km)"
 
 #: src/core/modules/Planet.cpp:167 src/core/modules/MinorPlanet.cpp:256
 #: src/core/modules/Comet.cpp:160
 #, no-c-format, qt-format
 msgid "Distance: %1AU"
-msgstr "Fad: %1AU"
+msgstr "Fad: %1AR"
 
 #: src/core/modules/Planet.cpp:178
 #, qt-format
@@ -980,20 +980,20 @@ msgstr "Carón"
 #. TRANSLATORS: Moon of Pluto (II)
 #: src/translations.h:82
 msgid "Nix"
-msgstr ""
+msgstr "Nix"
 
 #. TRANSLATORS: Moon of Pluto (III)
 #: src/translations.h:84
 msgid "Hydra (moon)"
-msgstr ""
+msgstr "Hydra"
 
 #: src/translations.h:85
 msgid "Eris"
-msgstr ""
+msgstr "Earas"
 
 #: src/translations.h:86
 msgid "Triton"
-msgstr ""
+msgstr "Tríotón"
 
 #: src/translations.h:87
 msgid "Nereid"
@@ -1001,15 +1001,15 @@ msgstr "Néiréid"
 
 #: src/translations.h:88
 msgid "Naiad"
-msgstr ""
+msgstr "Náiad"
 
 #: src/translations.h:89
 msgid "Thalassa"
-msgstr ""
+msgstr "Thalassa"
 
 #: src/translations.h:90
 msgid "Despina"
-msgstr ""
+msgstr "Despina"
 
 #: src/translations.h:91
 msgid "Galatea"
@@ -1017,11 +1017,11 @@ msgstr "Galatea"
 
 #: src/translations.h:92
 msgid "Larissa"
-msgstr ""
+msgstr "Larissa"
 
 #: src/translations.h:93
 msgid "Proteus"
-msgstr ""
+msgstr "Próitéas"
 
 #: src/translations.h:94
 msgid "Halimede"
@@ -1029,7 +1029,7 @@ msgstr "Halimede"
 
 #: src/translations.h:95
 msgid "Psamathe"
-msgstr ""
+msgstr "Psamathe"
 
 #: src/translations.h:96
 msgid "Sao"
@@ -1037,36 +1037,35 @@ msgstr "Sao"
 
 #: src/translations.h:97
 msgid "Laomedeia"
-msgstr ""
+msgstr "Laomedeia"
 
 #: src/translations.h:98
 msgid "Neso"
-msgstr ""
+msgstr "Neso"
 
 #: src/translations.h:99
-#, fuzzy
 msgid "Solar System Observer"
-msgstr "Eagarthóir an ghrianchórais"
+msgstr "Breathnóir Ghrianchórais"
 
 #. TRANSLATORS: TNO/Asteroid (90377) Sedna
 #: src/translations.h:102
 msgid "Sedna"
-msgstr ""
+msgstr "Sedna"
 
 #. TRANSLATORS: TNO/Asteroid (50000) Quaoar
 #: src/translations.h:104
 msgid "Quaoar"
-msgstr ""
+msgstr "Quaoar"
 
 #. TRANSLATORS: TNO/Asteroid (90482) Orcus
 #: src/translations.h:106
 msgid "Orcus"
-msgstr ""
+msgstr "Orcus"
 
 #. TRANSLATORS: TNO/Asteroid (136108) Haumea
 #: src/translations.h:108
 msgid "Haumea"
-msgstr ""
+msgstr "Haumea"
 
 #. TRANSLATORS: Asteroid (5) Astraea
 #: src/translations.h:111
@@ -1076,77 +1075,77 @@ msgstr "Astraea"
 #. TRANSLATORS: Asteroid (6) Hebe
 #: src/translations.h:113
 msgid "Hebe"
-msgstr ""
+msgstr "Héibé"
 
 #. TRANSLATORS: Asteroid (7) Iris
 #: src/translations.h:115
 msgid "Iris"
-msgstr ""
+msgstr "Iris"
 
 #. TRANSLATORS: Asteroid (8) Flora
 #: src/translations.h:117
 msgid "Flora"
-msgstr ""
+msgstr "Flóra"
 
 #. TRANSLATORS: Asteroid (10) Hygiea
 #: src/translations.h:121
 msgid "Hygiea"
-msgstr ""
+msgstr "Hygiea"
 
 #. TRANSLATORS: Asteroid (41) Daphne
 #: src/translations.h:123
 msgid "Daphne"
-msgstr ""
+msgstr "Dafnae"
 
 #. TRANSLATORS: Asteroid (1221) Amor
 #: src/translations.h:125
 msgid "Amor"
-msgstr ""
+msgstr "Amor"
 
 #. TRANSLATORS: Asteroid (99942) Apophis
 #: src/translations.h:127
 msgid "Apophis"
-msgstr ""
+msgstr "Apophis"
 
 #. TRANSLATORS: Asteroid (2060) Chiron
 #: src/translations.h:129
 msgid "Chiron"
-msgstr ""
+msgstr "Céarón"
 
 #. TRANSLATORS: Asteroid (433) Eros
 #: src/translations.h:131
 msgid "Eros"
-msgstr ""
+msgstr "Earós"
 
 #. TRANSLATORS: Asteroid (624) Hektor
 #: src/translations.h:133
 msgid "Hektor"
-msgstr ""
+msgstr "Eachtar"
 
 #. TRANSLATORS: Asteroid (20000) Varuna
 #: src/translations.h:135
 msgid "Varuna"
-msgstr ""
+msgstr "Varúna"
 
 #. TRANSLATORS: Asteroid (136472) Makemake
 #: src/translations.h:137
 msgid "Makemake"
-msgstr ""
+msgstr "Makemake"
 
 #. TRANSLATORS: Proper name of comet C/1680 V1
 #: src/translations.h:140
 msgid "Great Comet of 1680 (C/1680 V1)"
-msgstr ""
+msgstr "Cóiméad Mór 1680"
 
 #. TRANSLATORS: Name of supernova SN 1572A and script name
 #: src/translations.h:143
 msgid "Tycho's Supernova"
-msgstr ""
+msgstr "Ollnóva Tycho"
 
 #. TRANSLATORS: Name of supernova SN 1604A
 #: src/translations.h:145
 msgid "Kepler's Supernova"
-msgstr ""
+msgstr "Ollnóva Kepler"
 
 #: src/translations.h:148
 msgid "N"
@@ -1167,7 +1166,7 @@ msgstr "I"
 #. TRANSLATORS: Type of object
 #: src/translations.h:158
 msgid "planet"
-msgstr "rinn"
+msgstr "pláinéad"
 
 #. TRANSLATORS: Type of object
 #: src/translations.h:160
@@ -2580,14 +2579,12 @@ msgid "Show planet markers"
 msgstr ""
 
 #: qml/AdvancedDialog.qml:52
-#, fuzzy
 msgid "Show ecliptic line"
-msgstr "Líne an éicliptigh"
+msgstr "Taispeáin líne éicliptigh"
 
 #: qml/AdvancedDialog.qml:59
-#, fuzzy
 msgid "Show meridian line"
-msgstr "Líne na fadlíne"
+msgstr "Taispeáin fadlíne"
 
 #: qml/AdvancedDialog.qml:70 qml/AdvancedDialog.qml:75
 msgid "Light pollution"

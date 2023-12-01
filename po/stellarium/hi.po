@@ -6,10 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stellarium\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: lduboeuf@ouvaton.org\n"
 "POT-Creation-Date: 2020-08-06 13:58+0200\n"
-"PO-Revision-Date: 2020-04-03 19:08+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"PO-Revision-Date: 2023-07-23 13:06+0000\n"
+"Last-Translator: राजಐயர் <rajs19420616@gmail.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/stellarium-mobile/"
 "app/hi/>\n"
 "Language: hi\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 "X-Launchpad-Export-Date: 2016-11-20 05:29+0000\n"
 
 #: src/core/modules/ConstellationMgr.cpp:110 src/core/modules/StarMgr.cpp:328
@@ -50,7 +50,7 @@ msgstr "तारे"
 
 #: src/core/modules/StarMgr.cpp:330
 msgid "Stars labels"
-msgstr ""
+msgstr "तारा नामसूचक"
 
 #: src/core/modules/GridLinesMgr.cpp:525
 msgid "Meridian"
@@ -94,7 +94,7 @@ msgstr "मध्याह्न रेखा"
 
 #: src/core/modules/GridLinesMgr.cpp:680
 msgid "Horizon line"
-msgstr ""
+msgstr "क्षितिजरेखा"
 
 #: src/core/modules/GridLinesMgr.cpp:681
 msgid "Equatorial J2000 grid"
@@ -102,16 +102,15 @@ msgstr "इक्वेटोरिअल J२००० रेखाजाल"
 
 #: src/core/modules/GridLinesMgr.cpp:682
 msgid "Ecliptic J2000 grid"
-msgstr ""
+msgstr "क्रान्तिवृत जू॰2000 रेखाजाल"
 
 #: src/core/modules/GridLinesMgr.cpp:683
 msgid "Galactic grid"
 msgstr "आकाशगांगेय रेखाजाल"
 
 #: src/core/modules/GridLinesMgr.cpp:684
-#, fuzzy
 msgid "Galactic plane"
-msgstr "Paramesthi Mandala"
+msgstr "आकाशगांगेय समतल"
 
 #: src/core/modules/LandscapeMgr.cpp:314
 msgid "Atmosphere"
@@ -159,7 +158,7 @@ msgstr "प्रकार: <b>%1</b>"
 #: src/core/modules/StarWrapper.cpp:56 src/core/modules/StarWrapper.cpp:179
 #, qt-format
 msgid "Magnitude: <b>%1</b> (extincted to: <b>%2</b>)"
-msgstr ""
+msgstr "मात्रा : <b>%1</b> ( बुझने की सीमा : <b>%2</b> )"
 
 #: src/core/modules/Nebula.cpp:110 src/core/modules/Planet.cpp:133
 #: src/core/modules/MinorPlanet.cpp:222 src/core/modules/Comet.cpp:132
@@ -194,9 +193,8 @@ msgid "Planetary nebula"
 msgstr "ग्रहाकार नीहारिका"
 
 #: src/core/modules/Nebula.cpp:357
-#, fuzzy
 msgid "Dark Nebula"
-msgstr "नीहारिका"
+msgstr "अन्धकारमय अन्तरिक्षमेघ"
 
 #: src/core/modules/Nebula.cpp:360
 msgid "Cluster associated with nebulosity"
@@ -212,7 +210,7 @@ msgstr "अलिखित प्रकार"
 
 #: src/core/modules/NebulaMgr.cpp:123
 msgid "Deep-sky objects"
-msgstr ""
+msgstr "गहनाकाश वस्तुएँ"
 
 #: src/core/modules/Planet.cpp:136 src/core/modules/MinorPlanet.cpp:232
 #: src/core/modules/MinorPlanet.cpp:236 src/core/modules/Comet.cpp:141
@@ -222,20 +220,20 @@ msgid "Absolute Magnitude: %1"
 msgstr "स्वतंत्र तेजस्विता: %1"
 
 #: src/core/modules/Planet.cpp:149
-#, fuzzy, qt-format
+#, qt-format
 msgid "Ecliptic Topocentric (of date): %1/%2"
-msgstr "आर ए / डेक (तारीख के): %1/%2"
+msgstr "क्रान्तिवृत्त स्थलमध्यबिन्दुवर्ती ( दिनांक का ) : %1/%2"
 
 #: src/core/modules/Planet.cpp:150
 #, qt-format
 msgid "Obliquity (of date, for Earth): %1"
-msgstr ""
+msgstr "तिर्यक्ता ( दिनांक का पृथ्वी के लिए ) : %1"
 
 #: src/core/modules/Planet.cpp:160 src/core/modules/MinorPlanet.cpp:249
 #: src/core/modules/Comet.cpp:153
 #, no-c-format, qt-format
 msgid "Distance: %1AU (%2 km)"
-msgstr ""
+msgstr "दूरी : %1 ज्यो॰मा॰ ( %2 स॰मे॰ )"
 
 #: src/core/modules/Planet.cpp:167 src/core/modules/MinorPlanet.cpp:256
 #: src/core/modules/Comet.cpp:160
@@ -246,7 +244,7 @@ msgstr "अन्तर: %1AU"
 #: src/core/modules/Planet.cpp:178
 #, qt-format
 msgid "Apparent diameter: %1, with rings: %2"
-msgstr ""
+msgstr "प्रतीयमान व्यास : %1, वलय समेत : %2"
 
 #: src/core/modules/Planet.cpp:184 src/core/modules/MinorPlanet.cpp:262
 #, qt-format
@@ -258,46 +256,46 @@ msgstr "आभासी व्यास: %1"
 #: src/core/modules/Comet.cpp:175
 #, qt-format
 msgid "Sidereal period: %1 days (%2 a)"
-msgstr ""
+msgstr "नक्षत्रमान अवधि : %1 दिन ( %2 जू॰व॰ )"
 
 #: src/core/modules/Planet.cpp:199
 #, qt-format
 msgid "Sidereal day: %1"
-msgstr ""
+msgstr "नक्षत्रमान दिन : %1"
 
 #: src/core/modules/Planet.cpp:200
 #, qt-format
 msgid "Mean solar day: %1"
-msgstr ""
+msgstr "मध्यम सौर दिन : %1"
 
 #: src/core/modules/Planet.cpp:206
 #, qt-format
 msgid "Phase Angle: %1"
-msgstr ""
+msgstr "चरण अस्र : %1"
 
 #: src/core/modules/Planet.cpp:207
 #, qt-format
 msgid "Elongation: %1"
-msgstr ""
+msgstr "दीर्घकरण : %1"
 
 #: src/core/modules/Planet.cpp:208
 #, qt-format
 msgid "Phase: %1"
-msgstr ""
+msgstr "चरण : %1"
 
 #: src/core/modules/Planet.cpp:209
 #, qt-format
 msgid "Illuminated: %1%"
-msgstr ""
+msgstr "प्रकाशित : %1%"
 
 #: src/core/modules/MinorPlanet.cpp:205
 #, qt-format
 msgid "Provisional designation: %1"
-msgstr ""
+msgstr "तत्कालिक उपाधि : %1"
 
 #: src/core/modules/SolarSystem.cpp:151
 msgid "Planet labels"
-msgstr ""
+msgstr "ग्रह नामसूचक"
 
 #: src/core/modules/SolarSystem.cpp:152
 msgid "Planet orbits"
@@ -309,61 +307,61 @@ msgstr "ग्रहों के पदचिन्ह"
 
 #: src/core/modules/SolarSystem.cpp:154
 msgid "Planet markers"
-msgstr ""
+msgstr "ग्रह चिह्न"
 
 #. TRANSLATORS: Type of object
 #: src/core/modules/StarWrapper.cpp:50 src/core/modules/StarWrapper.cpp:162
 #: src/translations.h:156
 msgid "star"
-msgstr ""
+msgstr "तारा"
 
 #: src/core/modules/StarWrapper.cpp:64 src/core/modules/StarWrapper.cpp:190
 #, qt-format
 msgid "Color Index (B-V): <b>%2</b>"
-msgstr ""
+msgstr "वर्ण निर्देशिका ( नी॰दृ॰ ) : <b>%2</b>"
 
 #: src/core/modules/StarWrapper.cpp:143
 msgid "eruptive variable star"
-msgstr ""
+msgstr "स्फोटक विकारी तारा"
 
 #: src/core/modules/StarWrapper.cpp:145
 msgid "pulsating variable star"
-msgstr ""
+msgstr "स्फुरणशील विकारी तारा"
 
 #: src/core/modules/StarWrapper.cpp:147
 msgid "rotating variable star"
-msgstr ""
+msgstr "घुमाव युक्त विकारी तारा"
 
 #: src/core/modules/StarWrapper.cpp:149
 msgid "cataclysmic variable star"
-msgstr ""
+msgstr "प्रलयात्मक विकारी तारा"
 
 #: src/core/modules/StarWrapper.cpp:152
 msgid "eclipsing binary system"
-msgstr ""
+msgstr "ग्रहणकारी युगलतारा मण्डल"
 
 #: src/core/modules/StarWrapper.cpp:156
 msgid "variable star"
-msgstr ""
+msgstr "विकारी तारा"
 
 #: src/core/modules/StarWrapper.cpp:160
 msgid "double star"
-msgstr ""
+msgstr "द्वितारा"
 
 #: src/core/modules/StarWrapper.cpp:167
 #, qt-format
 msgid "Type: <b>%1, %2</b>"
-msgstr ""
+msgstr "प्रकार : <b>%1, %2</b>"
 
 #: src/core/modules/StarWrapper.cpp:206
 #, qt-format
 msgid "Magnitude range: <b>%1</b>%2<b>%3</b> (Photometric system: %4)"
-msgstr ""
+msgstr "मात्रा विस्तार : <b>%1</b>%2<b>%3</b> ( प्रकाशमात्रा व्यवस्था : %4 )"
 
 #: src/core/modules/StarWrapper.cpp:208
 #, qt-format
 msgid "Magnitude range: <b>%1</b>%2<b>%3/%4</b> (Photometric system: %5)"
-msgstr ""
+msgstr "मात्रा विस्तार : <b>%1</b>%2<b>%3/%4</b> ( प्रकाशमात्रा व्यवस्था : %5 )"
 
 #: src/core/modules/StarWrapper.cpp:215
 #, qt-format
