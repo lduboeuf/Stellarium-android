@@ -2,7 +2,7 @@
 
 [![OpenStore](https://open-store.io/badges/en_US.png)](https://open-store.io/app/me.lduboeuf.stellarium)
 
-[Stellarium](https://stellarium.org) on Mobile.
+[Stellarium](https://stellarium.org) for Ubuntu Touch.
 
 This is an adaptation of Cheng Xinlun's Stellarium app for Android/Ios : https://github.com/chengxinlun/Stellarium-android ,
 
